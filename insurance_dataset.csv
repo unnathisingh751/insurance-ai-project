@@ -1,0 +1,1501 @@
+full_name,age,gender,pregnant,number_of_children,annual_income,occupation,smoking,alcohol,diseases,family_size,dependents,vehicle_owner,vehicle_age,travel_frequency,property_owner,insurance_category,health_score,life_score,vehicle_score,travel_score,home_score,risk_score,readiness_score,premium,coverage
+Diane Faulkner,21,Male,No,0,1272005,Engineer,No,Yes,No,2,1,Yes,11,5,No,Vehicle Insurance,42,61,84,40,47,29,39,9084,500000
+Cathy Simon,36,Male,No,0,1135417,Business,Yes,Yes,Yes,1,5,No,1,2,No,Life Insurance,49,99,45,46,46,95,81,17836,1000000
+Hunter Davis,22,Female,No,1,1901551,Business,No,Yes,Yes,4,4,Yes,7,2,No,Life Insurance,35,92,53,70,84,71,73,14967,200000
+Derek Griffin,45,Male,No,0,726227,Lawyer,Yes,No,No,6,3,Yes,13,2,Yes,Life Insurance,89,90,77,89,74,84,79,12577,1000000
+Stephanie Lam,50,Male,No,0,273988,Engineer,Yes,Yes,No,8,2,No,3,1,No,Health Insurance,97,72,30,86,65,52,33,27186,200000
+Franklin Delgado,31,Male,No,0,713104,Doctor,Yes,Yes,Yes,6,3,No,4,1,Yes,Life Insurance,71,98,45,37,78,53,95,39782,5000000
+Julie Lee,36,Male,No,0,1935063,Business,No,Yes,Yes,8,0,Yes,7,5,No,Travel Insurance,60,70,32,77,77,70,44,27755,1000000
+Jeffrey Barron,25,Female,Yes,3,1211471,Doctor,Yes,Yes,Yes,2,3,Yes,14,2,No,Home Insurance,69,56,65,34,92,36,41,4515,200000
+Judy Richardson,51,Male,No,0,630850,Business,No,Yes,No,7,1,No,3,1,No,Vehicle Insurance,77,76,84,69,72,32,60,35493,200000
+Christopher Williams,60,Female,No,4,2347428,Farmer,No,Yes,No,6,2,Yes,7,3,Yes,Vehicle Insurance,72,33,88,76,44,20,68,9770,200000
+Amber Townsend,57,Female,Yes,0,264959,Lawyer,No,No,Yes,8,0,No,1,1,Yes,Life Insurance,78,96,48,31,90,44,89,45781,500000
+Angelica Ward,60,Female,Yes,4,487714,Lawyer,No,No,No,5,0,No,2,1,Yes,Life Insurance,34,84,66,44,43,43,42,12094,2000000
+Monica Holmes,62,Male,No,0,2400679,IT Professional,Yes,Yes,No,4,4,Yes,6,3,Yes,Travel Insurance,78,44,38,99,52,93,95,3291,2000000
+Alec Nelson,34,Male,No,0,2426192,Engineer,Yes,No,No,4,4,Yes,14,4,Yes,Vehicle Insurance,82,42,99,61,35,49,44,6317,1000000
+Jennifer Kent,44,Male,No,0,1157874,Business,Yes,Yes,No,8,4,Yes,6,1,Yes,Travel Insurance,56,66,75,86,58,48,64,2335,500000
+Theresa Wong,57,Female,No,3,535231,Student,No,No,Yes,2,5,No,3,3,No,Health Insurance,85,63,74,48,62,100,82,40752,5000000
+Joy Hendricks,24,Male,No,0,1707075,Student,No,No,Yes,4,1,Yes,2,4,No,Home Insurance,70,69,74,54,79,22,87,4370,500000
+Katrina Parker,62,Male,No,0,420000,Farmer,No,Yes,Yes,8,3,No,11,3,Yes,Vehicle Insurance,69,66,88,87,63,87,45,37545,2000000
+Joseph Nelson,45,Female,No,1,1334376,Farmer,Yes,No,No,2,4,No,3,4,Yes,Vehicle Insurance,33,64,88,31,60,71,65,39208,2000000
+Jacqueline Wilson,55,Female,Yes,4,1693992,Lawyer,Yes,Yes,No,6,5,No,11,1,No,Vehicle Insurance,45,46,94,63,43,87,94,32857,1000000
+Richard Green,35,Female,No,3,1430788,Engineer,Yes,No,No,3,2,Yes,5,3,No,Life Insurance,35,94,39,80,79,93,35,16870,1000000
+Sue Klein,40,Female,Yes,0,940032,IT Professional,Yes,Yes,Yes,7,1,Yes,13,2,Yes,Life Insurance,61,66,50,50,55,95,54,21796,1000000
+Matthew Kelly,22,Female,Yes,3,618407,Business,Yes,No,No,2,3,Yes,3,1,No,Home Insurance,53,85,56,45,87,53,55,24205,5000000
+Tammy Olson,33,Female,No,1,2089093,IT Professional,No,No,Yes,8,0,No,5,5,Yes,Life Insurance,52,89,86,80,43,46,93,46365,200000
+Linda Fields,40,Female,No,2,231207,Government Employee,No,Yes,Yes,8,1,No,8,1,No,Health Insurance,90,48,41,57,63,42,98,41725,2000000
+Marc Jones MD,23,Male,No,0,1963192,Business,No,Yes,Yes,4,4,Yes,1,2,Yes,Health Insurance,94,92,55,52,42,51,84,20147,5000000
+Stephen Andrade,31,Female,No,0,1482839,IT Professional,Yes,Yes,No,8,4,No,7,3,Yes,Vehicle Insurance,66,90,95,56,78,36,97,8173,1000000
+Caroline Herrera,60,Male,No,0,308650,IT Professional,Yes,No,Yes,3,0,No,11,2,Yes,Travel Insurance,49,77,36,83,66,42,47,13646,5000000
+Amy Mullins,27,Female,No,1,336377,Doctor,No,No,Yes,4,2,No,14,3,No,Life Insurance,95,99,58,75,64,35,96,38816,5000000
+Anthony Carter,29,Male,No,0,1504889,Doctor,No,Yes,No,5,4,No,5,2,Yes,Home Insurance,45,75,35,31,97,32,100,18713,500000
+Douglas Brown,50,Male,No,0,1250961,Engineer,No,No,No,4,1,Yes,6,1,No,Home Insurance,62,87,80,34,98,98,63,4229,1000000
+Randy Adams DDS,42,Female,No,1,1330134,Doctor,Yes,Yes,Yes,4,5,Yes,5,5,Yes,Home Insurance,68,79,80,64,95,42,78,29621,1000000
+Mason Moore,44,Female,No,4,2451777,Engineer,No,No,No,2,1,Yes,5,1,Yes,Health Insurance,78,37,38,39,43,52,40,9323,1000000
+Robin Young,32,Female,Yes,3,1104405,Government Employee,No,Yes,No,1,2,Yes,10,5,Yes,Life Insurance,78,82,30,45,38,62,83,46746,500000
+Terri Davis,22,Female,Yes,4,1575061,Doctor,No,Yes,Yes,1,5,No,2,3,No,Life Insurance,57,84,77,59,50,67,51,35087,500000
+Edward Jones,34,Female,Yes,2,986168,IT Professional,Yes,Yes,No,4,5,Yes,8,2,Yes,Home Insurance,39,77,40,61,87,57,67,9631,200000
+Marcus Johnson,18,Male,No,0,1419594,Doctor,Yes,Yes,Yes,4,4,Yes,4,3,No,Home Insurance,73,81,46,63,90,50,31,31602,500000
+Alyssa Reynolds,46,Female,Yes,0,1297523,Teacher,No,Yes,Yes,8,0,No,8,3,Yes,Home Insurance,94,50,76,61,95,60,51,28614,2000000
+Carolyn Contreras,37,Male,No,0,1079489,Business,No,No,No,1,3,Yes,9,3,Yes,Health Insurance,78,73,53,42,64,57,71,34597,2000000
+Kevin Briggs,48,Male,No,0,276361,Student,No,No,No,5,5,No,3,3,No,Travel Insurance,44,45,49,82,42,28,89,35970,500000
+Emily Knight,63,Female,No,1,2383070,IT Professional,No,No,No,3,4,Yes,14,4,Yes,Vehicle Insurance,93,33,97,59,89,76,81,12810,200000
+David Taylor,19,Male,No,0,1617967,Teacher,Yes,Yes,Yes,2,2,No,7,4,Yes,Health Insurance,85,62,47,48,42,23,69,34533,2000000
+Heather Perez,21,Male,No,0,412418,Student,Yes,Yes,No,6,4,Yes,0,2,No,Home Insurance,43,72,65,70,80,52,72,9494,1000000
+Kevin Walls,42,Male,No,0,1092400,Teacher,Yes,No,No,5,2,Yes,1,5,Yes,Vehicle Insurance,97,73,100,74,96,24,88,49484,1000000
+Dennis Mcdaniel,53,Female,No,1,2055425,Teacher,No,Yes,No,4,4,Yes,3,4,No,Health Insurance,88,64,72,66,42,62,78,30372,200000
+Eric Maldonado,19,Male,No,0,2248066,Farmer,No,No,Yes,1,0,No,1,3,Yes,Vehicle Insurance,78,92,93,70,54,21,77,19468,500000
+Taylor Spears,45,Female,No,4,2402458,Government Employee,Yes,Yes,No,4,4,Yes,12,3,No,Health Insurance,88,85,67,38,88,34,82,36057,1000000
+Austin Thompson,19,Female,No,4,567023,Doctor,No,Yes,Yes,8,3,Yes,0,3,Yes,Health Insurance,93,42,71,71,69,22,57,3255,5000000
+Eric Stone,55,Male,No,0,2450252,Government Employee,Yes,No,Yes,2,0,No,9,2,No,Travel Insurance,52,51,38,79,33,31,59,37647,200000
+Jeremy Adams,53,Male,No,0,1247266,IT Professional,Yes,No,Yes,7,1,Yes,14,3,Yes,Health Insurance,88,54,42,51,46,41,94,27414,5000000
+Michael Thornton,51,Female,No,3,1324142,Lawyer,Yes,No,No,8,0,No,8,3,Yes,Home Insurance,53,75,85,43,91,49,51,20263,200000
+Stephanie Pittman,52,Female,Yes,2,1584809,IT Professional,No,No,Yes,3,4,No,12,5,Yes,Life Insurance,37,98,38,58,33,25,63,7144,200000
+Crystal Clark,62,Male,No,0,2035523,Government Employee,No,No,Yes,2,3,No,0,5,No,Health Insurance,77,51,60,66,68,57,96,13839,5000000
+Noah Marshall,24,Female,No,1,262710,Student,Yes,No,Yes,8,5,Yes,8,4,Yes,Home Insurance,37,76,51,89,96,29,74,13343,5000000
+Katherine Miller,61,Female,Yes,1,833991,Lawyer,Yes,No,No,1,4,No,5,2,Yes,Travel Insurance,42,57,53,82,59,55,42,12468,500000
+Bradley Zhang,20,Male,No,0,2266481,Teacher,Yes,No,No,2,2,Yes,11,4,No,Life Insurance,82,84,53,47,35,78,59,5302,2000000
+Donald Ferrell,44,Female,No,2,962851,Engineer,No,Yes,No,2,5,No,12,4,Yes,Vehicle Insurance,45,67,93,76,91,92,80,41782,5000000
+Paul Martinez,63,Female,No,1,1017667,Teacher,Yes,No,No,4,4,No,12,1,Yes,Life Insurance,38,91,60,79,56,52,87,7848,200000
+Denise Boone,29,Male,No,0,617087,Engineer,Yes,No,Yes,8,5,No,9,5,No,Health Insurance,80,65,77,38,51,32,36,9203,200000
+Brian Myers,47,Female,No,4,216392,Engineer,Yes,Yes,Yes,7,3,No,6,2,No,Vehicle Insurance,40,66,74,31,63,55,62,47966,1000000
+Craig Scott,24,Female,Yes,3,1164569,Lawyer,Yes,Yes,Yes,7,3,Yes,8,1,No,Vehicle Insurance,77,73,98,58,54,24,67,10084,2000000
+Steven Medina,42,Female,Yes,1,1753377,Doctor,Yes,Yes,Yes,2,1,Yes,5,5,Yes,Vehicle Insurance,38,68,89,59,36,90,48,41731,1000000
+Edward Hurst,25,Male,No,0,1474251,Lawyer,No,No,Yes,3,2,No,7,1,Yes,Home Insurance,91,72,81,65,100,90,75,39836,2000000
+Elizabeth Jackson,33,Female,No,1,1220590,Farmer,Yes,Yes,No,1,2,Yes,2,2,Yes,Home Insurance,40,73,71,32,92,27,91,15195,2000000
+Emily Griffin,62,Female,No,1,373520,Teacher,Yes,No,No,5,0,No,13,5,No,Health Insurance,93,84,63,53,83,80,54,22286,500000
+Lisa Santos,41,Male,No,0,839285,Doctor,Yes,No,No,7,4,Yes,12,4,No,Travel Insurance,79,70,58,95,78,87,42,33766,1000000
+Tracey Rogers,50,Female,Yes,3,785951,Government Employee,Yes,No,Yes,1,0,No,1,2,Yes,Home Insurance,38,38,87,64,90,82,38,42444,5000000
+Abigail Greene,57,Female,No,0,2218612,IT Professional,No,No,No,2,3,No,0,1,Yes,Life Insurance,52,96,86,69,83,81,35,43985,5000000
+Dawn Navarro,42,Female,Yes,0,2339991,Lawyer,Yes,No,No,1,1,Yes,1,1,No,Life Insurance,81,100,41,57,100,86,63,45758,500000
+Kimberly Guerrero,31,Female,No,3,2043428,Government Employee,No,Yes,Yes,6,0,No,3,4,Yes,Vehicle Insurance,90,63,95,48,34,46,30,30708,2000000
+Pamela Walker,62,Female,No,3,737592,Teacher,No,No,Yes,2,0,No,7,1,No,Life Insurance,39,85,57,55,38,86,56,12379,5000000
+Darren Peterson,63,Male,No,0,490840,Engineer,Yes,No,No,4,1,No,13,4,No,Life Insurance,68,100,63,36,82,46,73,38071,2000000
+Kara Matthews,33,Female,No,2,2179299,Lawyer,Yes,No,Yes,3,0,No,7,4,Yes,Vehicle Insurance,71,42,83,37,37,35,93,28019,2000000
+Kimberly Mcgee,65,Male,No,0,2044093,Doctor,Yes,No,Yes,4,3,Yes,6,4,Yes,Vehicle Insurance,34,70,79,68,48,88,62,30554,2000000
+Jonathan Rollins,52,Male,No,0,1584837,Lawyer,No,No,Yes,4,3,No,2,2,Yes,Travel Insurance,30,53,63,72,65,23,94,22011,1000000
+Tabitha Brown,31,Female,Yes,0,579028,Teacher,Yes,No,Yes,4,3,No,14,3,Yes,Life Insurance,36,96,58,47,43,81,97,40646,200000
+Megan Gordon,58,Male,No,0,2173546,IT Professional,Yes,No,No,8,3,No,4,5,Yes,Home Insurance,88,67,85,85,97,34,39,33740,5000000
+Katie Gutierrez,18,Female,Yes,3,570621,Student,Yes,No,Yes,6,1,Yes,6,1,No,Travel Insurance,37,67,84,99,82,99,55,33210,2000000
+Jason Jenkins,22,Female,Yes,1,530921,IT Professional,Yes,No,Yes,3,4,Yes,1,1,Yes,Vehicle Insurance,70,75,96,70,67,90,52,10126,200000
+Amy Finley,46,Male,No,0,673477,IT Professional,Yes,No,Yes,1,0,No,15,1,Yes,Health Insurance,91,51,87,39,59,86,84,16061,5000000
+Joshua Spence,46,Female,No,0,215857,Lawyer,No,No,Yes,2,2,No,3,2,No,Travel Insurance,54,44,90,91,55,98,41,47850,2000000
+Jennifer Bradshaw,62,Male,No,0,1461034,Engineer,Yes,No,No,6,3,Yes,15,3,No,Life Insurance,74,89,60,51,35,86,80,8831,2000000
+Jack Dennis,37,Male,No,0,897946,Teacher,No,No,Yes,3,0,No,4,2,Yes,Travel Insurance,66,66,69,73,66,38,71,41580,2000000
+Robert Anderson,23,Male,No,0,1345377,Teacher,No,Yes,Yes,5,4,No,4,2,Yes,Travel Insurance,74,47,69,79,37,55,69,4700,200000
+Brittany Chen,27,Female,Yes,2,1940557,Lawyer,No,No,No,8,0,No,6,3,Yes,Home Insurance,69,56,66,54,87,30,32,12165,2000000
+Donald Williams,57,Female,Yes,2,1916149,Business,No,Yes,Yes,6,5,Yes,15,2,Yes,Home Insurance,82,61,91,79,93,46,47,34121,1000000
+Donna Caldwell,36,Female,Yes,3,2018456,Doctor,No,No,Yes,7,3,Yes,14,5,Yes,Vehicle Insurance,77,71,94,41,81,36,96,21736,1000000
+Pamela Franklin,54,Male,No,0,1920786,Engineer,No,No,No,4,4,Yes,15,1,Yes,Vehicle Insurance,34,72,83,50,75,29,91,47543,500000
+Renee James,27,Female,Yes,4,2384841,Lawyer,Yes,Yes,Yes,3,4,No,14,3,No,Travel Insurance,67,55,58,84,81,27,49,3404,200000
+Ashley Richards,27,Female,No,4,1130632,Lawyer,Yes,Yes,No,6,5,Yes,9,2,Yes,Vehicle Insurance,41,68,96,57,93,71,82,34816,5000000
+Stacey Maxwell,28,Female,Yes,4,1655221,Farmer,No,Yes,Yes,7,3,No,14,1,Yes,Health Insurance,76,46,67,47,72,33,34,11844,2000000
+Jessica Wheeler,44,Male,No,0,486971,Student,Yes,Yes,Yes,7,2,Yes,9,1,No,Vehicle Insurance,40,54,78,58,50,82,64,37292,5000000
+Jasmine Lee,25,Male,No,0,2417397,Government Employee,Yes,No,Yes,5,2,Yes,3,3,Yes,Home Insurance,52,68,57,50,71,59,80,41816,5000000
+Cynthia Sanders,58,Female,No,3,2146108,Farmer,Yes,Yes,No,1,4,Yes,9,5,Yes,Life Insurance,37,82,56,58,47,49,93,25539,5000000
+Erik Hogan,62,Female,Yes,3,2120005,Business,Yes,No,Yes,3,5,No,4,3,No,Health Insurance,95,45,34,95,33,89,90,47286,200000
+Erin Cook,22,Male,No,0,2440381,IT Professional,Yes,No,Yes,8,4,Yes,8,1,No,Travel Insurance,73,59,63,92,41,69,56,31542,500000
+Anne Peck,32,Male,No,0,2090362,Government Employee,Yes,Yes,No,7,3,Yes,2,5,No,Life Insurance,63,96,39,42,73,98,83,16335,2000000
+Curtis Villarreal,40,Female,Yes,4,312716,Doctor,No,No,No,8,3,Yes,8,2,No,Health Insurance,100,35,62,96,79,40,59,30379,2000000
+Kari Schmidt,26,Male,No,0,658418,Lawyer,Yes,Yes,Yes,7,0,Yes,3,5,Yes,Travel Insurance,49,35,70,72,65,88,75,8685,500000
+Sandra Thomas,22,Female,No,3,245457,Business,Yes,No,No,6,2,Yes,1,3,No,Health Insurance,58,31,43,38,58,29,67,45698,200000
+Anne House,40,Male,No,0,798184,IT Professional,Yes,No,Yes,7,0,Yes,6,1,No,Travel Insurance,51,76,42,97,72,100,56,13253,1000000
+Kelsey King,35,Male,No,0,593506,Business,No,No,Yes,6,5,No,0,5,Yes,Travel Insurance,41,38,88,94,91,67,33,40475,200000
+Dylan Turner,46,Female,Yes,1,1625483,Business,No,Yes,Yes,3,4,No,1,3,No,Travel Insurance,42,77,55,89,53,33,39,39770,1000000
+Kathy Brown,45,Female,Yes,1,1961075,Farmer,No,No,Yes,4,4,No,14,2,Yes,Life Insurance,71,77,30,30,51,93,41,28602,200000
+Sandra Bennett,56,Female,Yes,1,1339674,Lawyer,No,Yes,No,1,0,No,13,2,No,Vehicle Insurance,73,54,97,75,46,79,94,36753,5000000
+Daniel Callahan,58,Male,No,0,1490041,Lawyer,Yes,No,Yes,6,0,No,13,5,Yes,Travel Insurance,84,33,47,98,65,48,42,28933,5000000
+Stacie Foster,53,Male,No,0,2447517,Engineer,No,No,Yes,6,2,No,9,4,No,Travel Insurance,45,30,44,86,69,85,86,30216,500000
+Ryan Howell,51,Female,Yes,0,1966838,Lawyer,No,No,Yes,8,3,No,3,4,No,Home Insurance,51,53,33,85,87,42,92,17512,5000000
+Michael Brooks,51,Female,Yes,2,2249854,IT Professional,Yes,No,Yes,3,4,Yes,12,2,No,Life Insurance,67,97,41,53,74,50,67,25463,5000000
+Jamie Rodriguez,46,Female,No,3,846456,Doctor,Yes,No,No,3,3,Yes,6,2,No,Travel Insurance,61,82,88,91,78,53,39,16534,1000000
+Ronald Williams,19,Female,Yes,4,1565058,Doctor,No,Yes,Yes,3,4,No,4,1,No,Home Insurance,82,81,35,63,97,100,99,12171,1000000
+Rebecca Foster,26,Female,Yes,3,1869875,Government Employee,No,Yes,Yes,7,5,Yes,9,2,Yes,Vehicle Insurance,39,59,71,44,70,34,69,2870,2000000
+Patricia Wade,47,Male,No,0,1580753,Engineer,Yes,No,Yes,8,1,Yes,12,1,No,Travel Insurance,80,58,87,94,76,72,67,4725,5000000
+Kevin Briggs,48,Male,No,0,1773343,Lawyer,No,No,Yes,8,3,Yes,2,4,No,Home Insurance,45,44,70,65,94,89,68,43403,1000000
+Larry Cisneros,29,Female,No,4,1258827,Business,No,Yes,Yes,2,3,No,8,5,Yes,Home Insurance,80,81,93,78,97,35,90,16031,500000
+Melissa Gardner,43,Female,No,3,1073267,Engineer,Yes,No,Yes,1,0,Yes,0,1,Yes,Home Insurance,83,45,57,72,88,61,42,44187,5000000
+Megan Lambert,40,Female,No,1,1382257,Business,Yes,No,Yes,3,2,Yes,14,3,No,Travel Insurance,40,55,67,79,48,69,99,36548,2000000
+Michelle Monroe,56,Male,No,0,1189088,Doctor,No,Yes,No,2,2,No,12,1,Yes,Travel Insurance,66,46,78,90,88,94,54,35411,500000
+Dr. Alicia Johnson,31,Male,No,0,339773,Engineer,Yes,No,No,2,2,Yes,13,1,Yes,Life Insurance,72,99,42,91,62,41,36,13420,200000
+Becky Reilly,20,Female,Yes,4,1404365,IT Professional,No,No,No,2,3,No,12,2,Yes,Health Insurance,74,58,56,53,68,38,86,39680,1000000
+Olivia Elliott,63,Female,No,3,1679787,Engineer,Yes,Yes,Yes,3,2,Yes,8,3,No,Home Insurance,52,56,81,55,87,44,68,10237,200000
+Jeffrey Garrison,57,Female,Yes,2,241480,Teacher,No,No,No,7,3,No,13,4,No,Health Insurance,83,36,67,43,43,79,98,28135,500000
+Aaron Valdez,60,Male,No,0,910983,Doctor,No,Yes,Yes,8,5,Yes,4,4,Yes,Vehicle Insurance,49,71,84,73,68,37,31,46165,1000000
+Justin Garrett,38,Male,No,0,476920,Doctor,Yes,No,No,5,3,Yes,9,4,Yes,Health Insurance,92,32,56,51,79,37,59,10714,5000000
+Marie Frank,30,Female,Yes,1,1094161,Engineer,Yes,No,No,3,2,Yes,5,1,No,Health Insurance,75,31,48,42,50,28,86,24982,1000000
+Jim Holder,18,Female,No,0,1448049,IT Professional,Yes,No,No,6,0,Yes,5,1,No,Health Insurance,97,67,37,51,87,71,61,13214,2000000
+Daniel Burgess,31,Female,Yes,1,1436892,Engineer,No,Yes,Yes,3,4,No,7,4,No,Travel Insurance,81,39,53,97,33,24,66,38566,2000000
+Timothy Wilson,47,Female,No,1,1103664,Farmer,No,Yes,No,8,2,Yes,7,4,No,Travel Insurance,53,47,53,64,50,75,56,12269,200000
+Emma Simmons,36,Female,No,2,2470186,Business,No,No,No,5,5,Yes,3,3,Yes,Vehicle Insurance,37,49,93,81,59,39,71,35251,2000000
+Jillian Mcgrath,58,Female,No,3,1778939,Government Employee,No,No,Yes,5,2,No,11,3,No,Life Insurance,49,100,43,37,41,72,93,48084,1000000
+Lance Thompson,22,Female,Yes,2,991624,Lawyer,No,Yes,No,4,4,Yes,10,1,No,Travel Insurance,74,65,48,81,34,91,48,32922,500000
+Eric Hawkins MD,48,Male,No,0,2375804,Doctor,Yes,No,Yes,1,3,No,4,3,Yes,Vehicle Insurance,98,88,100,63,60,61,50,19367,500000
+Kathleen Smith,27,Female,No,4,2386558,Doctor,No,No,Yes,1,2,No,5,2,No,Life Insurance,50,72,40,66,56,50,89,45485,2000000
+Crystal Hammond,56,Female,Yes,3,2189565,Student,Yes,No,Yes,2,2,Yes,3,3,No,Travel Insurance,32,95,36,100,62,88,40,13766,1000000
+Debra Watson,45,Female,No,3,588274,Business,No,Yes,No,1,5,Yes,10,5,No,Vehicle Insurance,75,75,84,64,78,44,68,49079,5000000
+Joshua Patton,29,Male,No,0,1540439,Student,No,Yes,No,8,0,Yes,10,5,No,Health Insurance,95,61,66,48,65,79,57,12458,200000
+Christine Foster,33,Female,No,4,1156965,Lawyer,No,No,Yes,1,1,Yes,11,4,Yes,Life Insurance,52,99,32,90,48,39,93,29445,2000000
+Ashley Rogers,55,Female,No,1,2067673,Business,No,No,No,7,2,Yes,11,5,Yes,Life Insurance,31,79,45,62,64,52,78,42427,5000000
+Roger Mckenzie,34,Female,No,1,1048764,Student,Yes,No,Yes,4,5,No,4,4,Yes,Health Insurance,94,79,86,36,31,38,61,31551,200000
+David Day,48,Female,No,4,773130,Student,Yes,Yes,Yes,2,4,No,11,1,No,Vehicle Insurance,66,75,78,52,66,78,64,24277,5000000
+Kelly Cervantes,37,Male,No,0,2250578,Lawyer,No,Yes,Yes,4,5,No,7,1,No,Vehicle Insurance,71,66,92,57,44,100,74,11970,1000000
+Evelyn Herrera,23,Female,No,3,2296105,IT Professional,No,No,Yes,8,2,No,10,1,No,Health Insurance,91,54,55,62,51,23,57,46773,5000000
+Thomas Mccoy,19,Female,Yes,3,636730,Engineer,Yes,Yes,No,7,4,No,4,5,Yes,Travel Insurance,54,62,37,83,50,84,59,43298,5000000
+Joseph Rogers,58,Female,Yes,2,945157,Farmer,Yes,Yes,Yes,6,2,No,0,1,Yes,Life Insurance,40,88,54,50,30,86,78,8054,200000
+Marie Thomas,26,Female,Yes,2,479492,Business,No,Yes,No,7,2,No,3,5,No,Health Insurance,98,79,56,93,59,53,60,12057,1000000
+Betty Long,48,Female,Yes,3,1143601,Business,No,No,Yes,2,0,Yes,1,4,No,Travel Insurance,76,75,73,84,33,45,83,15121,5000000
+Jeremiah Stephens,28,Male,No,0,1933211,Government Employee,Yes,Yes,Yes,3,2,Yes,7,3,No,Life Insurance,69,90,62,75,61,50,71,27165,2000000
+Jerry Alvarado,19,Female,No,3,422075,Lawyer,No,Yes,No,7,1,No,3,2,No,Vehicle Insurance,74,69,92,68,84,58,92,14881,5000000
+Dr. Arthur Johnston MD,21,Male,No,0,921930,Lawyer,Yes,No,Yes,3,3,Yes,9,2,No,Travel Insurance,44,33,55,78,52,54,49,4481,1000000
+Kelly Macdonald,28,Female,No,2,466292,Teacher,No,Yes,Yes,1,5,No,11,1,No,Home Insurance,61,30,61,59,70,27,38,45624,1000000
+Monica Smith,30,Female,Yes,3,735452,IT Professional,Yes,Yes,No,3,3,Yes,5,2,No,Life Insurance,78,84,39,58,37,28,54,16536,1000000
+Elizabeth Craig,54,Male,No,0,2077342,Business,No,No,Yes,2,4,No,9,3,Yes,Health Insurance,95,46,90,91,79,74,92,24246,500000
+Samantha Nelson,25,Male,No,0,2363950,Government Employee,No,Yes,Yes,8,0,Yes,6,5,Yes,Travel Insurance,65,77,72,92,67,26,68,34980,5000000
+Oscar Klein,31,Male,No,0,264573,IT Professional,Yes,Yes,No,8,5,Yes,9,2,Yes,Vehicle Insurance,35,87,99,74,62,62,32,10030,5000000
+Oscar Suarez,50,Female,No,3,983867,Doctor,No,No,No,8,2,Yes,2,2,Yes,Vehicle Insurance,92,93,100,56,47,31,84,3844,500000
+Chase Rodgers,58,Male,No,0,1647544,Teacher,No,Yes,No,7,3,No,4,4,Yes,Travel Insurance,59,33,71,83,59,65,34,21849,1000000
+Tanya Garcia,23,Male,No,0,1190019,Government Employee,Yes,No,No,8,2,No,12,5,Yes,Home Insurance,55,79,72,58,99,81,61,27234,200000
+Laura Martinez,63,Female,No,1,2267149,Doctor,Yes,No,No,3,1,No,7,1,No,Travel Insurance,31,36,51,59,48,28,80,8640,1000000
+Angela Collins,22,Female,No,0,1073785,Government Employee,Yes,Yes,Yes,5,4,No,11,1,No,Home Insurance,34,37,74,31,82,32,77,20412,500000
+Sheila Scott,35,Female,Yes,0,2028349,Lawyer,Yes,No,No,6,2,No,3,5,Yes,Vehicle Insurance,61,59,83,81,68,23,56,47202,2000000
+Dean Black,19,Female,No,4,529316,Student,No,No,Yes,5,4,No,8,4,No,Travel Insurance,64,83,57,93,81,91,38,16353,1000000
+James Harris,23,Male,No,0,954002,Engineer,Yes,No,No,6,1,No,7,4,Yes,Travel Insurance,89,75,66,100,88,90,87,25956,5000000
+Jason Myers,42,Male,No,0,510819,IT Professional,No,Yes,Yes,8,1,No,1,5,Yes,Travel Insurance,44,90,36,92,69,88,53,27696,200000
+Michael Johnson,46,Male,No,0,615824,Teacher,No,Yes,Yes,6,0,No,1,5,Yes,Home Insurance,73,35,33,76,97,23,31,15243,5000000
+Courtney Powell,18,Male,No,0,690682,Student,No,Yes,Yes,5,2,Yes,7,1,No,Health Insurance,78,50,38,47,53,67,77,46264,5000000
+Cathy Oneal,40,Male,No,0,251929,Student,Yes,No,Yes,8,5,Yes,7,3,No,Travel Insurance,34,60,76,84,67,22,35,25688,1000000
+Kayla Johnson,53,Male,No,0,474360,Doctor,Yes,Yes,Yes,2,2,No,1,2,No,Travel Insurance,79,85,36,93,87,32,46,16252,5000000
+Dean Haas,24,Male,No,0,1112052,Government Employee,No,No,No,3,0,Yes,9,3,Yes,Home Insurance,61,68,94,37,100,66,46,19050,2000000
+Tiffany Stanley,38,Female,No,4,1636347,Engineer,No,Yes,No,4,1,No,14,1,Yes,Health Insurance,92,41,46,69,57,42,69,43384,5000000
+David Smith,28,Male,No,0,745788,Lawyer,No,No,No,2,3,Yes,5,1,Yes,Life Insurance,60,94,65,63,81,25,73,26767,200000
+William Noble,29,Male,No,0,2234517,Student,Yes,No,No,1,2,No,8,3,Yes,Life Insurance,31,95,31,58,31,48,36,41263,5000000
+Heather Martin,49,Female,Yes,2,787240,IT Professional,Yes,Yes,Yes,6,1,No,7,1,No,Health Insurance,85,68,61,77,56,79,32,2748,5000000
+Laura Rodgers,19,Female,Yes,4,621372,Engineer,Yes,No,Yes,4,3,Yes,7,1,No,Life Insurance,49,83,55,38,74,80,81,6710,2000000
+William Deleon,34,Female,No,2,805880,Business,Yes,Yes,Yes,7,2,Yes,13,2,No,Travel Insurance,56,74,52,99,32,47,80,18659,1000000
+Laurie Gregory,55,Female,Yes,3,1002171,IT Professional,Yes,No,Yes,7,0,Yes,2,5,Yes,Life Insurance,51,72,63,50,31,77,56,48618,500000
+Eduardo Smith,20,Male,No,0,1609392,Lawyer,Yes,Yes,Yes,1,4,No,10,3,Yes,Vehicle Insurance,86,47,89,42,69,87,71,21680,1000000
+Deborah Smith,33,Female,No,2,1106793,Business,Yes,Yes,No,4,5,Yes,0,1,No,Travel Insurance,67,77,68,98,64,49,100,13853,500000
+Christine Martinez,51,Female,No,1,491171,Government Employee,Yes,Yes,No,1,4,Yes,13,5,Yes,Travel Insurance,85,84,46,99,38,24,75,41803,500000
+Catherine Elliott,65,Female,No,4,364144,IT Professional,Yes,Yes,No,2,4,Yes,7,1,No,Travel Insurance,88,89,60,97,30,40,48,9027,500000
+Philip Lozano,46,Male,No,0,2261702,Lawyer,No,No,No,4,5,Yes,7,2,No,Home Insurance,43,92,72,46,99,74,74,5888,5000000
+Courtney Green,52,Female,Yes,0,528862,Student,Yes,Yes,Yes,6,5,No,1,5,Yes,Vehicle Insurance,78,93,96,52,75,39,90,45052,200000
+Brian Boyd,22,Male,No,0,1154830,Government Employee,No,Yes,No,2,3,No,9,4,Yes,Vehicle Insurance,64,57,100,54,50,85,51,29132,200000
+Michelle Madden,24,Female,No,0,448314,Engineer,Yes,Yes,Yes,5,2,Yes,3,4,Yes,Health Insurance,71,35,33,56,58,47,34,32660,2000000
+Jennifer Hancock,50,Female,No,0,259145,Engineer,No,No,Yes,1,1,Yes,8,4,No,Travel Insurance,35,63,40,65,58,48,39,10892,2000000
+Mr. Jerry Young,46,Female,Yes,2,614409,IT Professional,No,Yes,No,6,0,No,13,1,No,Life Insurance,38,78,56,52,66,94,42,24595,2000000
+Sheri Bailey,58,Female,No,3,1559146,Government Employee,Yes,Yes,No,8,5,Yes,13,1,No,Life Insurance,59,86,38,32,31,21,40,19378,5000000
+Brittney Liu,30,Male,No,0,1373412,Farmer,Yes,No,Yes,2,0,Yes,11,1,No,Health Insurance,70,68,44,31,39,77,70,31059,2000000
+Connor Campbell,53,Male,No,0,1795102,Doctor,Yes,No,No,8,0,Yes,7,1,Yes,Vehicle Insurance,41,53,82,57,62,79,83,3217,5000000
+Lisa Buck,57,Male,No,0,808743,Engineer,No,No,No,4,0,No,10,3,Yes,Travel Insurance,47,34,45,80,36,71,53,25004,500000
+Lisa Fleming,42,Female,No,4,1905332,Engineer,No,No,No,7,1,Yes,1,2,Yes,Health Insurance,87,82,35,34,74,100,47,29899,2000000
+James Peters,56,Male,No,0,747524,Farmer,Yes,Yes,Yes,4,3,Yes,10,3,No,Vehicle Insurance,33,32,99,94,67,28,97,41320,2000000
+David Morton,52,Male,No,0,1784558,Farmer,Yes,Yes,No,8,0,Yes,7,1,Yes,Travel Insurance,40,74,47,80,54,61,53,7539,1000000
+Amy Sampson,55,Male,No,0,2463464,Farmer,Yes,Yes,Yes,7,3,Yes,14,3,No,Health Insurance,92,77,70,55,42,81,76,44402,200000
+Kenneth Sullivan,21,Male,No,0,686890,IT Professional,Yes,No,Yes,3,3,No,13,2,No,Vehicle Insurance,73,79,88,49,72,20,82,24150,1000000
+Randy Clay,44,Male,No,0,1607488,Engineer,No,No,No,8,4,No,4,4,No,Life Insurance,52,98,31,68,82,38,68,13882,1000000
+Denise Velez,58,Male,No,0,2298153,Business,No,Yes,Yes,2,5,Yes,3,5,Yes,Home Insurance,77,55,57,59,82,54,39,34842,500000
+Carlos Parker,64,Male,No,0,1240881,Farmer,Yes,Yes,Yes,2,0,No,15,3,Yes,Life Insurance,54,85,68,74,53,92,30,37419,1000000
+Catherine Orr,34,Female,Yes,1,1990353,Government Employee,No,No,Yes,5,1,Yes,10,5,Yes,Vehicle Insurance,75,77,88,86,81,62,56,32526,5000000
+Michael Davis,32,Female,No,3,348834,Teacher,No,Yes,Yes,5,4,Yes,1,3,No,Home Insurance,47,69,54,48,92,86,92,45887,5000000
+Michael Steele,37,Male,No,0,2090541,Doctor,No,No,Yes,2,5,Yes,13,3,No,Life Insurance,78,100,38,37,35,73,56,4812,500000
+Ronald Byrd,27,Male,No,0,934210,Lawyer,Yes,No,No,7,5,Yes,0,3,Yes,Vehicle Insurance,57,46,92,86,65,56,36,30768,1000000
+Brittany Carter,59,Female,No,2,1872427,Government Employee,Yes,Yes,No,7,0,No,11,2,Yes,Travel Insurance,34,61,52,62,57,54,88,27594,1000000
+Hunter Cruz II,38,Male,No,0,1944084,Student,Yes,Yes,Yes,3,3,No,5,4,Yes,Life Insurance,36,89,36,41,56,63,99,21681,5000000
+Carol Boyer,60,Male,No,0,2075062,Doctor,No,No,Yes,6,3,Yes,5,3,No,Vehicle Insurance,85,64,99,76,48,44,78,28023,500000
+Sara Gray,48,Male,No,0,1971005,Doctor,No,Yes,Yes,6,3,Yes,1,2,No,Life Insurance,54,63,30,54,50,44,67,24942,500000
+Natalie Johnston,18,Female,No,2,2231957,Teacher,No,Yes,Yes,8,1,No,6,1,Yes,Travel Insurance,64,61,43,81,53,76,40,48404,1000000
+Lisa Dunn,51,Male,No,0,897937,Business,No,Yes,Yes,7,4,Yes,0,1,Yes,Life Insurance,79,99,35,69,38,26,37,9225,1000000
+Manuel Lane,61,Male,No,0,209842,Business,Yes,No,Yes,8,2,No,13,4,Yes,Health Insurance,65,59,50,34,57,21,46,33901,5000000
+Sean Palmer,39,Female,No,2,748153,Engineer,No,No,No,4,5,No,6,4,Yes,Life Insurance,65,96,36,53,35,25,82,46530,5000000
+Amanda Hurley,64,Male,No,0,2353814,Teacher,Yes,No,No,8,1,No,1,4,Yes,Travel Insurance,30,44,51,75,34,91,76,9021,1000000
+Matthew Obrien,34,Male,No,0,2156964,Doctor,No,Yes,Yes,8,1,Yes,5,3,Yes,Travel Insurance,63,55,64,92,40,23,41,42740,5000000
+Pamela Paul,24,Male,No,0,1159196,Student,Yes,No,No,4,1,Yes,6,5,Yes,Life Insurance,43,100,87,61,95,72,30,19050,1000000
+Karen Hicks,51,Female,Yes,1,2374321,IT Professional,No,No,Yes,6,4,No,14,5,No,Home Insurance,51,39,75,38,81,46,46,17491,5000000
+Scott Nunez,26,Male,No,0,534781,Student,Yes,No,No,4,0,Yes,8,5,No,Travel Insurance,51,33,44,75,57,80,45,20918,200000
+Jessica Thompson,45,Male,No,0,676428,Business,No,No,Yes,8,1,No,7,1,Yes,Home Insurance,91,68,62,86,98,23,73,47943,2000000
+Paula Scott,63,Female,Yes,0,1857480,Government Employee,Yes,Yes,No,7,5,No,2,4,Yes,Vehicle Insurance,61,54,90,81,62,59,79,39925,2000000
+Raymond Robles,48,Male,No,0,1235344,Doctor,Yes,No,Yes,8,2,Yes,6,5,Yes,Home Insurance,34,35,38,69,72,62,33,6377,2000000
+Matthew Young,40,Female,Yes,2,840748,IT Professional,No,No,No,7,1,Yes,13,1,Yes,Home Insurance,47,33,46,81,96,76,54,44133,2000000
+Steven Gibson,35,Female,No,1,2347091,Farmer,No,No,No,4,0,No,2,5,No,Vehicle Insurance,43,35,62,60,55,87,89,48255,200000
+Cynthia Hall,31,Female,Yes,3,1715551,IT Professional,Yes,Yes,No,5,3,Yes,9,4,Yes,Home Insurance,56,68,33,56,76,69,56,11961,2000000
+Jerry Harris,42,Male,No,0,808134,Farmer,Yes,Yes,Yes,6,5,Yes,2,1,Yes,Life Insurance,50,84,74,51,69,28,32,28140,1000000
+Kristen Jensen,34,Male,No,0,1861962,Doctor,No,No,No,2,5,No,12,3,Yes,Home Insurance,55,38,40,31,96,24,59,31236,200000
+Patricia Johnson,25,Male,No,0,493276,Student,No,No,Yes,4,5,Yes,15,5,Yes,Life Insurance,75,93,51,49,70,82,30,41310,2000000
+Adam Hunt,23,Male,No,0,2176871,Doctor,No,Yes,Yes,3,5,No,9,4,Yes,Health Insurance,92,77,53,47,38,75,46,24463,200000
+Crystal Armstrong,41,Female,Yes,3,228838,Lawyer,No,No,Yes,6,4,Yes,2,5,Yes,Home Insurance,47,72,31,47,100,84,31,21019,1000000
+Christopher Woods,45,Female,Yes,2,683728,Farmer,No,No,Yes,1,3,Yes,1,4,No,Travel Insurance,86,79,65,99,75,36,83,9592,2000000
+Vanessa Vasquez,43,Male,No,0,2341719,Lawyer,Yes,Yes,Yes,6,5,No,5,3,No,Vehicle Insurance,37,36,100,93,92,84,85,40852,2000000
+Kaitlyn Wright,43,Male,No,0,2195907,Teacher,No,No,No,5,2,No,1,2,No,Health Insurance,93,70,59,37,38,66,58,42867,200000
+Anne Wilson,44,Male,No,0,1869206,Student,Yes,No,Yes,7,1,Yes,2,2,No,Travel Insurance,42,69,64,86,82,35,42,7938,5000000
+Elizabeth Cannon,39,Female,Yes,4,1203884,Farmer,No,No,Yes,2,1,Yes,13,4,No,Life Insurance,58,81,71,40,70,66,52,8715,2000000
+Jessica Adams,39,Male,No,0,1414586,Engineer,Yes,No,Yes,7,5,Yes,3,1,Yes,Vehicle Insurance,39,75,84,70,84,25,68,37924,200000
+Carl Fritz,61,Male,No,0,1420347,Engineer,No,No,No,6,5,Yes,1,5,Yes,Life Insurance,40,98,80,87,46,57,45,5586,5000000
+Rachel Jones DVM,50,Female,No,1,1565087,Teacher,Yes,No,No,5,5,No,10,2,No,Life Insurance,60,94,90,71,35,53,79,46252,200000
+Joseph Watson,60,Male,No,0,1370804,Business,Yes,Yes,No,1,3,No,11,5,Yes,Vehicle Insurance,87,62,90,80,82,38,52,35865,1000000
+Angela Anderson,49,Female,Yes,0,1601461,IT Professional,Yes,No,Yes,1,0,No,0,2,No,Vehicle Insurance,65,62,79,31,51,70,85,49042,5000000
+Ruben Williams,56,Female,No,0,412979,Farmer,No,No,Yes,8,5,No,10,5,Yes,Health Insurance,76,65,34,30,53,22,44,36769,200000
+John Young,64,Male,No,0,1471388,Business,Yes,No,Yes,3,4,No,10,5,Yes,Life Insurance,79,82,56,43,57,96,64,37533,1000000
+Daniel Nguyen,45,Female,Yes,0,1512685,Government Employee,No,No,No,8,0,Yes,9,4,Yes,Travel Insurance,31,95,36,97,97,91,94,11710,200000
+Jason Hess,30,Female,Yes,2,304882,Student,No,No,No,5,3,Yes,14,1,Yes,Life Insurance,71,94,63,46,77,65,51,40287,200000
+Christian Young Jr.,54,Male,No,0,352301,Business,Yes,No,Yes,8,5,No,6,4,Yes,Health Insurance,95,55,54,77,93,46,30,11748,2000000
+James Fry,53,Female,Yes,3,324129,Lawyer,No,Yes,Yes,1,1,No,12,2,No,Travel Insurance,42,30,41,60,40,69,44,26813,5000000
+Raven Brown,44,Female,No,4,711966,Doctor,Yes,No,No,1,2,No,8,1,No,Travel Insurance,64,30,52,78,39,96,68,23991,500000
+Tina Gonzalez,39,Male,No,0,789765,Lawyer,Yes,No,No,7,2,No,15,5,No,Home Insurance,72,38,30,59,86,98,52,27607,5000000
+Lynn Dominguez,42,Female,No,2,1606641,Lawyer,No,Yes,Yes,1,1,No,1,3,Yes,Life Insurance,77,100,58,93,57,20,58,17019,2000000
+Joshua Ryan,61,Male,No,0,1686961,Teacher,Yes,Yes,No,6,1,Yes,14,1,No,Travel Insurance,65,75,49,87,38,100,40,26885,200000
+Michelle Ponce,44,Male,No,0,1148418,Lawyer,Yes,Yes,No,4,3,Yes,12,5,No,Life Insurance,58,91,33,65,80,68,39,37514,500000
+Dr. Misty Barnett,59,Male,No,0,270485,Doctor,Yes,No,No,3,3,No,4,4,Yes,Travel Insurance,73,31,79,96,93,22,51,29937,200000
+Jennifer Weiss,36,Female,No,1,1460776,Lawyer,Yes,Yes,No,8,0,No,0,2,Yes,Travel Insurance,34,51,50,94,44,47,100,46144,2000000
+Tabitha Potter,43,Male,No,0,423123,Government Employee,No,Yes,Yes,2,1,No,12,2,No,Health Insurance,90,69,71,45,50,71,74,46278,2000000
+Gail Johnson,32,Female,No,2,2013300,IT Professional,Yes,No,Yes,7,0,Yes,8,5,Yes,Travel Insurance,65,71,59,84,62,26,76,12597,2000000
+Christine Moran,36,Female,Yes,4,1601631,Engineer,Yes,Yes,Yes,6,5,No,1,3,No,Vehicle Insurance,55,30,80,72,55,81,95,41524,200000
+Deanna Farrell,28,Female,No,0,1069717,Government Employee,No,Yes,Yes,2,5,No,3,4,No,Health Insurance,91,57,44,79,88,23,74,12847,500000
+Nathan Clark,41,Female,Yes,1,2192404,Lawyer,Yes,Yes,Yes,3,1,No,6,5,Yes,Health Insurance,98,51,45,81,51,23,58,42151,2000000
+Thomas Brown,44,Female,No,4,709956,Student,Yes,Yes,No,6,4,No,14,4,No,Life Insurance,97,100,32,87,39,51,44,38467,200000
+Jordan Tyler,33,Female,Yes,0,969140,IT Professional,Yes,No,Yes,2,5,Yes,8,3,No,Health Insurance,79,44,49,41,78,57,73,18868,500000
+Michael Long,21,Male,No,0,1873862,Business,Yes,Yes,Yes,6,1,Yes,1,5,No,Home Insurance,56,85,85,65,86,91,73,15748,500000
+Hunter Carter,19,Female,Yes,2,2321723,Student,No,No,Yes,3,4,Yes,13,4,No,Health Insurance,67,33,42,48,67,21,46,22102,200000
+Patricia Baird,45,Male,No,0,1518143,Doctor,Yes,Yes,No,4,2,Yes,0,3,Yes,Life Insurance,71,90,50,46,68,30,43,4922,2000000
+James Greene,39,Female,No,2,2113813,Farmer,No,No,No,3,1,Yes,10,2,Yes,Home Insurance,89,50,65,78,98,33,55,48045,1000000
+Melissa Watson,63,Female,Yes,0,1753801,Teacher,No,No,Yes,5,1,Yes,9,1,No,Travel Insurance,39,41,42,91,87,80,89,18716,200000
+Terry Glass,26,Male,No,0,601279,IT Professional,No,Yes,Yes,1,2,No,6,4,No,Travel Insurance,34,35,61,71,39,54,89,46433,200000
+Christopher Alvarez,33,Male,No,0,1114544,Farmer,No,No,No,3,1,Yes,15,5,Yes,Health Insurance,88,48,65,43,70,76,88,23797,500000
+Maria Baker,36,Female,Yes,2,2381319,Student,Yes,Yes,No,1,4,No,1,4,Yes,Vehicle Insurance,39,50,55,36,42,63,90,10194,2000000
+Juan Yoder,32,Male,No,0,1253993,Teacher,Yes,Yes,Yes,8,3,No,0,2,No,Travel Insurance,75,94,34,95,59,48,85,3987,2000000
+Dr. Arthur Burton Jr.,19,Female,No,2,2059123,Engineer,No,Yes,No,5,4,No,10,1,No,Home Insurance,59,70,41,44,82,29,73,40811,1000000
+Misty Ellis,29,Female,No,2,1236477,Business,Yes,No,No,3,2,No,10,1,Yes,Vehicle Insurance,90,31,96,93,36,25,90,46459,500000
+Gerald Alexander,56,Female,Yes,2,1386150,Business,No,Yes,Yes,5,3,No,5,5,Yes,Health Insurance,95,72,95,70,30,41,78,26508,5000000
+Mary Trujillo,18,Male,No,0,766693,Lawyer,Yes,No,Yes,7,0,No,4,2,Yes,Travel Insurance,40,59,64,91,61,65,77,30176,1000000
+Kelsey Chen,28,Female,No,1,1269845,Farmer,Yes,No,No,3,1,No,5,4,Yes,Travel Insurance,38,33,44,99,67,38,30,17157,2000000
+Ashley Davis,63,Male,No,0,255219,Farmer,No,No,Yes,5,0,Yes,2,4,No,Vehicle Insurance,58,72,88,50,56,98,65,11604,500000
+Brent Stephens,25,Female,No,2,247646,Student,Yes,No,No,5,5,Yes,1,4,No,Life Insurance,46,84,47,68,35,69,93,6025,200000
+Hailey Olson,21,Female,Yes,1,1765401,Teacher,Yes,No,No,2,5,Yes,15,4,No,Health Insurance,76,42,49,50,59,33,42,40372,500000
+Patrick Petersen,31,Male,No,0,1724737,Teacher,No,No,No,2,1,Yes,14,2,Yes,Life Insurance,43,98,68,79,69,32,86,29568,200000
+Eric Alvarado,57,Female,Yes,2,2491492,Teacher,No,Yes,No,8,0,No,12,5,No,Travel Insurance,94,92,47,96,51,95,63,5048,5000000
+Melanie Allison,38,Male,No,0,358227,Lawyer,Yes,No,Yes,5,0,Yes,1,3,Yes,Health Insurance,89,67,61,58,87,57,63,6765,2000000
+Margaret Conner,56,Female,No,3,1791564,Teacher,Yes,No,No,8,0,Yes,4,1,Yes,Home Insurance,83,47,89,75,95,71,43,18700,200000
+Brandon Smith,64,Male,No,0,1956066,IT Professional,No,Yes,Yes,1,1,Yes,2,1,Yes,Vehicle Insurance,48,54,82,48,55,49,78,44647,2000000
+Joshua Haney,32,Female,No,2,306229,IT Professional,No,Yes,Yes,5,5,Yes,6,2,No,Vehicle Insurance,54,58,72,71,47,81,92,40994,200000
+Jennifer Jones,58,Female,No,0,1192436,Farmer,No,No,Yes,2,5,Yes,11,4,Yes,Life Insurance,32,86,78,58,35,70,95,26104,1000000
+Alexander Hudson,41,Female,No,2,1732427,Student,Yes,Yes,No,1,5,Yes,13,5,No,Home Insurance,58,72,93,71,94,26,30,7904,500000
+Steve Taylor,61,Male,No,0,286078,Government Employee,No,Yes,Yes,1,1,Yes,0,4,No,Home Insurance,77,74,38,81,90,78,89,7915,5000000
+Crystal Willis,26,Female,Yes,2,2052089,Student,Yes,No,Yes,8,1,Yes,13,3,No,Health Insurance,94,66,45,69,43,91,69,12106,5000000
+Allison Smith,52,Female,No,1,2303508,Doctor,Yes,Yes,No,3,4,Yes,15,3,No,Life Insurance,39,84,42,57,54,48,45,47266,500000
+Lauren Wilson,49,Female,No,3,1235458,Business,No,No,No,2,1,No,6,2,No,Home Insurance,51,71,31,32,92,30,36,21556,5000000
+Brian Burke,53,Male,No,0,1858885,Business,No,Yes,No,8,4,Yes,2,5,Yes,Home Insurance,43,52,40,90,98,28,40,30095,1000000
+Donald Bernard,45,Female,No,0,1467742,Business,No,Yes,Yes,8,0,No,9,5,Yes,Vehicle Insurance,39,95,100,50,89,80,96,35604,2000000
+Jacqueline Powell,63,Female,Yes,2,688821,Engineer,No,Yes,No,8,3,Yes,13,1,No,Vehicle Insurance,70,67,93,71,63,80,64,40476,5000000
+Jaime Ingram,30,Female,Yes,2,2375723,Engineer,Yes,Yes,Yes,7,5,Yes,0,5,No,Health Insurance,100,54,33,90,75,96,63,22317,2000000
+Tanya Greer,21,Female,Yes,1,601206,Government Employee,Yes,Yes,Yes,1,3,Yes,3,5,Yes,Vehicle Insurance,37,71,89,37,82,68,78,35526,2000000
+Justin Brown,40,Female,No,3,1013302,Doctor,No,Yes,Yes,4,1,Yes,6,4,Yes,Travel Insurance,73,90,32,99,64,23,94,33767,500000
+David Rosario,51,Female,No,1,1188107,Teacher,Yes,No,Yes,1,2,No,7,4,Yes,Vehicle Insurance,38,77,80,51,79,68,52,10696,1000000
+Brianna Abbott,23,Male,No,0,2318971,Doctor,No,No,No,7,0,No,6,2,Yes,Home Insurance,86,43,73,54,98,36,82,47537,1000000
+Joshua Peterson,48,Female,Yes,3,679658,Engineer,No,Yes,No,7,1,No,5,2,Yes,Life Insurance,36,100,67,64,89,51,72,11999,2000000
+Peter Moss,29,Female,Yes,1,355864,Teacher,Yes,Yes,Yes,1,1,No,11,4,Yes,Travel Insurance,63,54,86,89,43,21,52,48869,200000
+Paul Leon,49,Female,No,0,488846,Business,Yes,No,Yes,8,1,No,4,5,No,Health Insurance,81,46,51,67,34,90,39,13409,500000
+Jesse Wang,20,Male,No,0,295357,Farmer,No,No,No,1,4,No,6,4,Yes,Home Insurance,92,90,58,77,100,59,54,45741,200000
+Joel Vasquez,35,Male,No,0,2404677,Teacher,No,Yes,Yes,7,1,Yes,1,4,Yes,Home Insurance,49,66,72,54,78,89,40,48601,200000
+Shannon Johnson,31,Male,No,0,700789,Farmer,No,No,Yes,7,5,No,7,5,No,Home Insurance,65,60,61,83,93,45,33,6306,500000
+Jason Woods,46,Female,No,2,755354,Business,Yes,Yes,No,2,3,Yes,10,1,No,Life Insurance,56,95,90,34,34,53,66,21624,5000000
+Kristina Cantu,56,Male,No,0,484561,Engineer,Yes,Yes,Yes,2,0,Yes,14,3,Yes,Travel Insurance,36,61,63,90,44,28,56,27210,500000
+Richard Shannon,33,Male,No,0,492489,Lawyer,Yes,Yes,Yes,4,1,Yes,14,5,Yes,Health Insurance,79,43,43,67,34,37,81,34203,5000000
+Carolyn Martin,44,Male,No,0,583766,Doctor,Yes,No,Yes,6,3,Yes,5,2,No,Travel Insurance,64,55,67,91,47,92,64,15225,1000000
+Christopher Stewart,24,Male,No,0,298362,IT Professional,No,Yes,No,3,0,Yes,10,4,No,Travel Insurance,39,49,40,99,36,99,66,27512,200000
+Mikayla Green,25,Female,No,3,1146748,IT Professional,Yes,No,No,8,2,Yes,2,3,No,Travel Insurance,45,64,37,70,32,81,66,5406,5000000
+Edward Lin,51,Male,No,0,1226309,Doctor,Yes,Yes,No,1,2,No,7,4,Yes,Vehicle Insurance,69,46,99,84,81,46,97,20252,1000000
+Colleen Smith,18,Female,No,0,1909733,Government Employee,No,Yes,Yes,2,3,No,5,2,Yes,Vehicle Insurance,46,49,100,98,79,92,71,37816,500000
+Jessica Vargas,18,Female,Yes,3,1372416,Farmer,No,Yes,No,8,5,Yes,11,5,No,Vehicle Insurance,48,69,87,61,34,61,36,47594,5000000
+Evan Simpson,34,Female,Yes,2,1696019,Lawyer,No,Yes,Yes,5,2,No,11,4,No,Life Insurance,38,94,32,53,31,71,66,44968,5000000
+Christopher Anderson,64,Male,No,0,1381282,IT Professional,Yes,Yes,Yes,7,3,Yes,6,4,No,Vehicle Insurance,50,50,80,42,40,73,58,27013,200000
+Jesse Brown,24,Female,Yes,1,869320,Government Employee,Yes,No,Yes,4,5,Yes,7,5,Yes,Vehicle Insurance,55,47,93,74,42,34,31,27497,5000000
+Brandon Jones,59,Male,No,0,2286043,IT Professional,Yes,No,Yes,2,1,Yes,12,3,Yes,Life Insurance,54,85,31,52,62,65,69,38993,2000000
+Robert Garza,19,Male,No,0,317136,Lawyer,Yes,Yes,Yes,8,5,Yes,5,2,Yes,Health Insurance,92,86,51,46,56,50,100,6265,2000000
+Michael Harrell,44,Female,Yes,0,263727,Government Employee,No,No,No,2,3,Yes,0,1,Yes,Life Insurance,91,93,67,68,76,98,63,15161,2000000
+Melissa Rose,30,Female,No,2,2427677,Engineer,No,Yes,Yes,8,0,No,7,4,Yes,Home Insurance,41,39,40,61,81,89,95,26089,1000000
+Alexander Fuentes,61,Female,Yes,4,2151461,Government Employee,No,Yes,No,5,1,No,13,3,No,Travel Insurance,87,61,66,99,67,49,85,22036,200000
+Richard Salazar,25,Female,No,0,1885115,Engineer,Yes,No,No,8,2,No,6,4,No,Travel Insurance,45,63,80,99,78,59,99,32735,200000
+Kelly Brown,58,Male,No,0,2461941,Doctor,Yes,Yes,Yes,4,5,Yes,11,3,No,Vehicle Insurance,65,69,80,74,70,38,48,49141,2000000
+David Green,34,Female,No,3,687311,Doctor,No,Yes,Yes,2,3,No,9,2,Yes,Health Insurance,87,56,48,68,73,75,60,49339,200000
+Jordan Fischer,29,Male,No,0,624665,Farmer,Yes,No,No,6,2,Yes,8,1,No,Vehicle Insurance,67,40,84,70,34,88,56,18518,1000000
+Nicholas Valdez,44,Male,No,0,1957370,IT Professional,No,Yes,Yes,6,0,No,8,1,No,Life Insurance,72,95,94,61,71,48,44,13317,2000000
+Rachel Martin,34,Male,No,0,1557047,Business,Yes,No,Yes,2,0,Yes,6,5,No,Health Insurance,99,68,50,90,50,61,31,22324,500000
+John Perez,27,Female,Yes,1,2420612,Teacher,No,Yes,No,7,0,Yes,3,3,Yes,Vehicle Insurance,31,81,100,82,70,61,52,31765,200000
+Jennifer Randall,47,Female,Yes,4,924402,Teacher,Yes,Yes,Yes,7,3,No,11,3,No,Health Insurance,98,94,80,46,39,72,60,12165,500000
+Dean Padilla,36,Male,No,0,432734,Engineer,No,No,No,2,4,No,5,1,No,Health Insurance,87,38,86,37,80,31,60,24150,5000000
+Leroy Keith,55,Female,Yes,4,764779,Lawyer,Yes,Yes,No,7,1,Yes,8,1,Yes,Travel Insurance,57,61,53,98,51,54,39,45560,200000
+Jeffrey Farmer,25,Male,No,0,334440,IT Professional,Yes,Yes,No,5,3,Yes,12,2,Yes,Life Insurance,31,86,50,51,31,46,48,18244,2000000
+Tracy Williams,25,Female,No,3,493522,Doctor,Yes,No,Yes,6,2,No,8,5,Yes,Health Insurance,87,76,64,39,49,27,74,23116,2000000
+Emily Hammond,38,Male,No,0,1937181,Teacher,No,No,Yes,4,0,Yes,14,4,No,Vehicle Insurance,57,54,69,41,45,88,53,46316,500000
+Mr. Michael Wilcox,37,Female,No,0,2394162,IT Professional,No,No,Yes,8,1,Yes,8,2,No,Home Insurance,43,56,72,59,99,56,80,15468,500000
+Marcus Peterson,58,Female,No,0,778820,Doctor,No,Yes,No,1,1,No,1,4,No,Travel Insurance,53,63,73,75,75,98,68,14223,500000
+Marco Kennedy,30,Male,No,0,2103332,Doctor,No,No,No,3,1,Yes,4,3,Yes,Travel Insurance,62,37,88,90,37,20,64,40548,1000000
+John Roman,42,Female,Yes,3,761234,IT Professional,Yes,No,Yes,2,2,No,8,3,No,Home Insurance,47,53,40,44,63,67,69,44109,2000000
+Jared Hunter,47,Female,No,1,506501,Business,Yes,No,Yes,6,1,No,1,3,Yes,Home Insurance,62,32,71,61,90,43,35,20452,1000000
+Jonathan Boyle,39,Female,Yes,4,2041530,Student,No,Yes,No,1,2,No,15,2,Yes,Home Insurance,49,76,52,78,97,29,36,16237,500000
+Mark Carter,36,Female,Yes,4,2083093,IT Professional,No,No,Yes,7,4,No,3,3,Yes,Home Insurance,37,70,41,61,80,37,30,28924,200000
+Jeffrey Gomez,50,Male,No,0,652705,Lawyer,No,Yes,Yes,5,1,Yes,5,5,No,Travel Insurance,68,46,36,79,54,55,39,2768,200000
+Terrence Brown,36,Female,Yes,2,311669,Farmer,No,No,Yes,6,1,Yes,6,1,No,Home Insurance,96,73,77,85,98,71,69,27407,200000
+Darius Maldonado,65,Female,Yes,1,1839377,Farmer,No,No,No,2,1,No,15,3,Yes,Travel Insurance,51,53,45,76,50,79,85,10267,5000000
+Scott Jordan,41,Male,No,0,2196522,Business,No,No,No,5,5,Yes,12,3,Yes,Life Insurance,62,99,73,78,42,31,70,6661,5000000
+Mark Joseph,47,Male,No,0,2183580,Lawyer,Yes,No,No,2,2,No,0,4,Yes,Home Insurance,65,55,57,67,99,60,56,28888,5000000
+Spencer Miller,22,Female,No,2,1050830,Government Employee,Yes,Yes,No,3,5,No,5,2,No,Vehicle Insurance,55,49,92,71,53,37,35,20970,5000000
+Debbie Stewart,26,Male,No,0,1059621,IT Professional,Yes,No,No,5,2,No,8,2,Yes,Vehicle Insurance,51,78,89,61,84,25,41,21072,2000000
+Richard Becker,26,Female,No,3,986032,Government Employee,No,Yes,Yes,3,4,Yes,13,3,No,Life Insurance,55,87,56,46,64,78,98,24629,2000000
+Wendy Sanchez,31,Male,No,0,1304185,IT Professional,No,No,Yes,7,3,No,5,2,No,Health Insurance,87,86,58,80,59,76,70,36864,1000000
+Samuel Campbell,28,Female,Yes,2,347665,Doctor,Yes,Yes,Yes,2,5,No,7,3,Yes,Home Insurance,37,48,63,35,71,56,35,45876,2000000
+Felicia Patterson,61,Female,No,2,1545958,Lawyer,No,Yes,Yes,8,3,No,14,1,No,Health Insurance,99,67,54,31,63,49,50,37268,5000000
+Scott Little,20,Female,Yes,1,949365,Engineer,No,Yes,Yes,4,4,Yes,13,4,No,Vehicle Insurance,72,63,100,57,34,45,39,36221,500000
+Victoria Garcia,51,Female,Yes,4,2261189,Engineer,Yes,Yes,Yes,1,5,Yes,5,5,No,Home Insurance,62,44,34,34,77,23,78,2628,5000000
+Angela Salazar,40,Male,No,0,620013,IT Professional,Yes,No,No,4,1,Yes,11,1,Yes,Home Insurance,58,68,67,68,89,53,49,10470,1000000
+Diane Cortez,49,Male,No,0,2214636,Lawyer,No,Yes,Yes,2,5,No,2,5,Yes,Home Insurance,48,79,61,68,93,88,35,6577,200000
+Nicole Mullins,20,Female,No,2,2346158,Government Employee,No,No,Yes,2,3,Yes,6,3,No,Home Insurance,37,83,37,85,94,70,96,15896,1000000
+Michelle Leon,59,Female,No,4,723939,Farmer,Yes,Yes,Yes,4,2,Yes,9,2,Yes,Vehicle Insurance,72,58,95,69,74,86,58,49588,500000
+Keith Walker,52,Male,No,0,1736304,IT Professional,No,Yes,Yes,1,1,Yes,5,5,No,Home Insurance,91,35,33,53,92,69,99,49095,1000000
+Elizabeth Hamilton,47,Male,No,0,977709,Student,Yes,Yes,No,3,0,Yes,12,1,No,Health Insurance,89,39,59,43,69,92,100,26163,1000000
+Christopher Elliott,57,Male,No,0,1178827,Doctor,No,No,No,6,3,No,7,2,No,Life Insurance,54,98,32,57,43,36,62,4863,200000
+Kathleen Tapia,60,Male,No,0,772987,Farmer,No,Yes,No,1,5,No,9,4,Yes,Home Insurance,71,52,63,67,88,76,63,3225,200000
+Brian Pittman,43,Male,No,0,2176229,Farmer,Yes,No,No,1,3,Yes,8,1,Yes,Home Insurance,73,52,39,50,77,95,44,36429,500000
+Stacy Henry,21,Male,No,0,751295,Government Employee,Yes,No,Yes,4,2,Yes,14,3,No,Travel Insurance,74,32,63,91,58,75,36,19457,5000000
+Zachary Phillips,35,Male,No,0,2223860,Lawyer,No,No,No,6,4,No,12,3,Yes,Travel Insurance,82,35,55,98,42,39,60,31522,200000
+Anna Cummings,36,Female,No,2,1324850,Engineer,Yes,Yes,No,5,0,No,14,2,No,Travel Insurance,44,78,90,100,80,51,68,36487,500000
+Sheryl Cruz,44,Male,No,0,1375548,Business,No,Yes,No,8,5,Yes,9,2,Yes,Vehicle Insurance,85,44,99,43,93,48,97,2110,500000
+Carl English,33,Male,No,0,758116,IT Professional,Yes,Yes,Yes,4,3,Yes,4,1,No,Life Insurance,68,92,34,46,45,96,92,45778,5000000
+Michael Freeman DDS,25,Male,No,0,1951617,Doctor,No,No,Yes,1,3,No,1,1,No,Vehicle Insurance,45,77,96,89,88,83,73,45667,1000000
+Mr. Kevin Williams,65,Male,No,0,2279877,Doctor,No,No,Yes,7,1,Yes,5,3,No,Home Insurance,80,97,41,81,100,92,46,43910,5000000
+Summer Anderson,51,Female,No,4,2362228,Student,Yes,No,No,8,1,No,5,4,No,Vehicle Insurance,47,43,66,42,43,70,40,15624,2000000
+Veronica Dixon,49,Female,No,4,670993,Lawyer,No,Yes,Yes,8,5,No,13,3,Yes,Life Insurance,55,98,39,96,74,59,85,7381,500000
+David Avery,40,Male,No,0,530896,Doctor,No,Yes,Yes,3,3,No,0,3,No,Health Insurance,98,70,30,70,58,29,64,15995,200000
+Jonathan Navarro,39,Female,No,4,1174909,Student,No,No,No,4,1,Yes,3,3,Yes,Life Insurance,64,99,66,36,31,74,55,2068,5000000
+Brian Williams,22,Female,Yes,2,449055,Business,No,No,No,1,5,Yes,7,1,Yes,Home Insurance,38,33,32,50,63,71,94,21496,5000000
+Tiffany Dixon,50,Male,No,0,1331559,Business,No,No,No,5,1,No,8,3,Yes,Travel Insurance,51,31,61,93,76,44,35,40038,2000000
+Jennifer Smith,57,Female,Yes,3,737400,IT Professional,Yes,No,Yes,6,2,No,14,3,No,Health Insurance,87,40,79,31,68,99,41,9552,2000000
+Jake Davis,52,Female,Yes,4,1267280,Engineer,Yes,Yes,Yes,1,4,No,9,3,No,Vehicle Insurance,74,72,100,70,66,85,97,22044,1000000
+Natalie Parrish,31,Female,No,1,263120,Farmer,No,No,No,4,3,Yes,5,1,No,Health Insurance,86,32,44,33,34,31,84,5178,2000000
+Sean Mckay,21,Male,No,0,1859611,IT Professional,Yes,Yes,Yes,8,0,No,11,5,Yes,Home Insurance,66,44,84,56,88,62,89,21572,2000000
+Nicholas Gregory,42,Female,Yes,4,2488139,Doctor,Yes,No,No,5,2,No,2,3,No,Health Insurance,88,60,70,37,70,23,43,11090,200000
+Mark Johnson,63,Female,No,4,1165380,IT Professional,Yes,No,No,5,3,No,6,2,Yes,Home Insurance,85,84,68,50,98,88,81,23050,1000000
+Joanne Bennett,29,Male,No,0,1189510,IT Professional,No,Yes,Yes,6,0,Yes,6,4,Yes,Vehicle Insurance,60,32,97,85,88,28,94,33600,500000
+Scott Hughes,57,Male,No,0,243875,Doctor,No,No,Yes,6,4,Yes,2,4,Yes,Vehicle Insurance,52,54,58,53,41,29,63,16318,1000000
+Madison York,47,Female,No,1,2125826,Teacher,No,No,Yes,6,2,Yes,3,5,No,Health Insurance,100,63,62,37,44,83,92,40079,500000
+Lucas Hernandez,41,Female,Yes,4,550256,Government Employee,Yes,Yes,No,3,0,Yes,9,1,Yes,Health Insurance,97,52,53,84,72,24,49,4823,500000
+Richard Flores,33,Female,Yes,1,875491,Lawyer,Yes,Yes,Yes,2,4,No,11,4,Yes,Life Insurance,32,70,59,38,31,35,74,16865,2000000
+Oscar Hudson,40,Female,Yes,0,1213100,Farmer,No,No,Yes,1,0,Yes,5,2,No,Health Insurance,89,48,36,45,30,83,93,35649,1000000
+Anthony Gray,61,Male,No,0,1553818,Teacher,Yes,No,Yes,5,0,No,5,2,No,Health Insurance,98,89,37,51,76,70,91,30274,200000
+Olivia Cherry,38,Male,No,0,486074,Student,Yes,Yes,No,1,4,Yes,13,5,Yes,Vehicle Insurance,72,89,93,74,70,92,89,40248,500000
+Todd Stevenson,23,Female,Yes,3,1146640,Lawyer,No,No,Yes,3,4,Yes,7,2,No,Home Insurance,33,61,32,35,87,75,89,3004,5000000
+Ethan Johnson,27,Male,No,0,1857778,Teacher,Yes,Yes,No,1,0,No,12,5,Yes,Health Insurance,88,31,72,52,73,89,94,17801,5000000
+John Long,52,Female,Yes,1,684500,Teacher,No,Yes,No,4,5,No,3,3,No,Home Insurance,35,80,45,72,88,99,46,10315,2000000
+Amy Miller,38,Male,No,0,1674166,Teacher,Yes,No,Yes,1,3,No,4,2,Yes,Health Insurance,98,38,92,60,85,87,80,8803,200000
+Shannon Moran,24,Female,No,2,295428,Teacher,Yes,No,Yes,8,3,Yes,7,5,Yes,Health Insurance,86,74,83,59,38,37,77,11512,2000000
+Cameron Watson,61,Female,No,3,704875,Farmer,Yes,Yes,Yes,1,5,No,14,4,Yes,Travel Insurance,55,50,40,88,31,35,92,49092,5000000
+Natasha Jimenez,60,Male,No,0,948835,Lawyer,No,Yes,Yes,3,0,No,6,4,No,Health Insurance,97,71,88,88,59,88,62,2725,5000000
+Autumn Soto,61,Female,No,3,1489911,Government Employee,Yes,Yes,No,8,3,Yes,13,2,No,Home Insurance,51,53,86,77,100,67,100,41794,500000
+Steven Salinas,56,Female,Yes,2,681905,Government Employee,Yes,Yes,Yes,1,4,Yes,11,1,Yes,Vehicle Insurance,76,72,84,48,32,85,43,25741,2000000
+Randy Kaufman PhD,54,Female,No,0,251886,Engineer,No,Yes,Yes,1,5,No,1,3,No,Health Insurance,90,66,73,41,58,85,54,11780,2000000
+Robert Roberts,63,Female,Yes,1,1859962,Farmer,Yes,No,Yes,8,1,No,4,1,No,Home Insurance,38,35,44,61,74,30,98,7209,1000000
+Jo Price,20,Female,No,0,221295,Student,No,No,Yes,5,2,No,14,2,Yes,Life Insurance,47,72,31,40,70,95,83,34990,5000000
+Lori Hudson,41,Male,No,0,1981697,Farmer,Yes,No,Yes,2,1,Yes,2,4,No,Health Insurance,86,51,62,86,36,26,51,2954,500000
+Kyle Benton,47,Male,No,0,966292,Government Employee,No,Yes,Yes,4,3,No,0,3,No,Health Insurance,99,31,61,57,51,39,57,5106,200000
+April Brown,25,Male,No,0,1581259,Doctor,Yes,Yes,Yes,6,4,Yes,8,4,Yes,Life Insurance,42,80,56,43,48,32,55,42546,1000000
+Debbie Weiss,37,Female,No,1,1574061,Government Employee,Yes,No,No,7,2,Yes,0,1,No,Travel Insurance,93,60,65,96,42,46,57,35849,1000000
+Nicholas Lopez,60,Female,No,1,513919,Student,Yes,No,Yes,7,0,Yes,11,4,Yes,Health Insurance,99,70,88,34,51,43,98,2960,2000000
+Jessica Jones,60,Male,No,0,378416,IT Professional,No,No,No,3,0,No,6,2,Yes,Vehicle Insurance,39,61,74,53,52,25,44,36213,500000
+Tammy Parker,22,Female,No,3,421784,IT Professional,No,Yes,No,8,4,Yes,8,5,No,Health Insurance,68,67,55,54,60,42,38,46980,200000
+Mr. Edward Knight,60,Male,No,0,1495511,Doctor,No,Yes,No,2,4,Yes,3,1,No,Vehicle Insurance,38,79,99,64,63,65,52,45076,200000
+Brooke Harper,47,Female,Yes,0,836954,Farmer,No,Yes,Yes,2,0,Yes,0,1,Yes,Vehicle Insurance,47,48,86,33,73,60,86,27390,200000
+Paul Brown MD,62,Male,No,0,2064860,IT Professional,Yes,Yes,Yes,4,2,No,2,5,No,Life Insurance,84,93,43,49,39,22,66,33185,500000
+Emily Alvarado,49,Female,No,0,237988,Lawyer,No,No,Yes,4,3,No,10,3,No,Travel Insurance,54,43,52,56,49,90,62,26752,5000000
+Bradley White,27,Female,Yes,4,793563,Engineer,Yes,Yes,Yes,4,2,No,2,3,No,Health Insurance,96,51,35,32,87,90,88,8942,200000
+Michael Carr,27,Male,No,0,383590,Student,Yes,Yes,Yes,3,1,Yes,4,4,Yes,Vehicle Insurance,87,77,100,47,33,94,67,38501,2000000
+Dennis Cline,40,Female,No,1,708402,Farmer,Yes,Yes,No,6,5,No,8,2,Yes,Health Insurance,90,42,78,30,70,44,82,21896,200000
+Andre Owens,25,Female,No,1,500265,IT Professional,No,Yes,No,5,2,Yes,11,4,Yes,Home Insurance,48,49,82,67,91,76,85,2126,2000000
+Jesse Schmidt,58,Male,No,0,698985,IT Professional,Yes,No,No,3,2,No,10,4,No,Home Insurance,30,34,41,32,72,24,93,36784,200000
+Amy Wilson,38,Female,Yes,4,1035330,Teacher,No,No,Yes,4,3,No,5,5,Yes,Travel Insurance,54,40,59,87,32,95,92,47085,2000000
+Bonnie Hall,24,Female,No,1,1355900,Student,Yes,Yes,Yes,8,4,No,7,2,No,Home Insurance,55,32,58,63,81,94,39,42396,200000
+Kenneth Osborne,29,Female,Yes,2,1578693,Business,No,No,Yes,8,4,Yes,15,2,Yes,Travel Insurance,61,41,51,92,82,32,36,15419,1000000
+Marcus Wright,35,Male,No,0,1515075,IT Professional,No,No,Yes,7,1,Yes,11,2,No,Travel Insurance,46,96,64,100,91,46,47,48806,500000
+Jeffrey Sherman,49,Female,Yes,4,2264102,Farmer,Yes,No,Yes,5,5,Yes,5,3,Yes,Life Insurance,80,96,93,41,89,85,54,34225,5000000
+Mr. Corey Ferguson,34,Female,Yes,0,2372518,Doctor,Yes,No,No,1,0,No,3,1,Yes,Home Insurance,72,41,45,64,100,50,38,45849,1000000
+Susan Thompson,46,Female,No,4,442675,Engineer,Yes,No,No,1,0,Yes,3,5,No,Life Insurance,44,98,36,39,57,48,79,16736,200000
+Julie Banks,49,Female,Yes,0,2030811,IT Professional,Yes,Yes,Yes,6,0,No,14,4,Yes,Vehicle Insurance,79,67,91,83,42,51,32,22768,1000000
+Carol Smith,56,Female,Yes,4,1421006,Student,No,No,Yes,5,2,No,12,3,Yes,Vehicle Insurance,49,38,54,53,48,30,80,18486,500000
+Kara Griffin,36,Female,Yes,1,2449868,Business,No,No,No,3,2,Yes,9,3,No,Vehicle Insurance,86,97,98,75,73,30,52,20474,5000000
+Michele Carter,52,Female,Yes,3,269175,Student,Yes,No,No,8,3,No,9,1,No,Travel Insurance,49,90,31,96,57,77,71,29146,5000000
+Krista Young,60,Male,No,0,1335277,Student,No,Yes,Yes,7,0,Yes,12,2,Yes,Life Insurance,59,94,89,91,38,22,97,26041,2000000
+Connie Mccoy,50,Male,No,0,2494266,Farmer,No,Yes,No,6,2,Yes,9,4,Yes,Life Insurance,60,93,93,47,89,90,94,12748,2000000
+Madeline Love,22,Male,No,0,1343796,IT Professional,No,Yes,No,3,5,No,3,3,Yes,Home Insurance,64,61,84,62,87,45,38,18055,500000
+Johnathan Moore,28,Male,No,0,947641,Engineer,Yes,Yes,Yes,5,2,Yes,9,1,Yes,Vehicle Insurance,40,81,97,36,30,36,45,25193,2000000
+Chad Foster,46,Female,No,4,2073317,Farmer,No,No,No,7,1,No,3,3,No,Life Insurance,39,96,76,80,48,29,75,9814,2000000
+Amy Garcia,22,Female,No,0,529998,Lawyer,Yes,No,Yes,4,4,No,15,5,Yes,Health Insurance,89,60,85,55,60,71,86,43648,2000000
+Theresa Patterson,34,Male,No,0,303150,Engineer,Yes,Yes,Yes,4,3,No,12,1,No,Vehicle Insurance,45,47,78,59,42,54,99,39528,1000000
+Pamela Smith,24,Female,Yes,4,2420654,Lawyer,No,No,No,5,0,No,14,4,No,Health Insurance,98,39,79,78,84,24,83,45415,500000
+Suzanne Jones,55,Male,No,0,1600518,Lawyer,Yes,Yes,No,4,2,No,9,3,Yes,Vehicle Insurance,68,52,91,78,35,65,59,36306,1000000
+Leah Jenkins,65,Male,No,0,598375,Student,Yes,Yes,No,5,3,Yes,10,2,No,Life Insurance,54,98,93,47,64,97,39,13152,5000000
+Paul Garza DVM,38,Female,Yes,1,427546,Doctor,No,No,No,6,4,No,15,2,No,Home Insurance,52,53,58,61,87,53,90,26367,1000000
+Jasmine Newman,19,Male,No,0,443194,Government Employee,Yes,Yes,Yes,2,1,Yes,0,5,No,Life Insurance,80,95,60,59,71,41,37,2879,5000000
+Kristen Graham,45,Female,Yes,3,1755147,Farmer,No,No,No,5,4,Yes,5,2,No,Travel Insurance,40,40,62,73,32,28,88,43930,1000000
+Charles Richardson DVM,55,Male,No,0,1543858,Business,No,No,No,8,0,Yes,10,1,No,Life Insurance,62,90,30,79,62,20,49,27763,2000000
+Thomas Dougherty,52,Male,No,0,1135178,Government Employee,Yes,No,Yes,7,5,No,4,4,Yes,Vehicle Insurance,47,61,80,64,63,40,96,10875,200000
+Sara Anderson,35,Female,Yes,2,1068124,Doctor,No,No,Yes,3,1,Yes,7,3,Yes,Travel Insurance,49,83,56,97,38,77,56,49902,500000
+Christopher Leach,21,Female,Yes,0,1247210,Teacher,Yes,No,No,5,1,Yes,3,3,Yes,Vehicle Insurance,45,35,54,37,50,48,38,42005,500000
+Karen Russell,53,Female,No,1,564682,Doctor,Yes,No,No,3,4,No,6,5,Yes,Home Insurance,69,34,52,65,99,24,31,29849,5000000
+David Lam,54,Male,No,0,462309,Government Employee,Yes,Yes,No,1,3,Yes,12,5,Yes,Vehicle Insurance,42,64,100,68,51,54,52,38787,500000
+Carrie Schwartz,52,Male,No,0,633627,Government Employee,Yes,Yes,No,4,4,Yes,12,1,Yes,Life Insurance,61,70,33,56,60,43,80,22523,1000000
+Tyler Carrillo,38,Male,No,0,794026,Engineer,No,No,No,2,2,No,15,1,No,Life Insurance,65,92,89,30,86,40,93,6701,5000000
+Amy Burns,26,Male,No,0,2325563,IT Professional,Yes,Yes,Yes,1,3,Yes,15,5,Yes,Life Insurance,51,91,86,44,54,71,42,9988,5000000
+Kenneth Lee,19,Male,No,0,1183457,Engineer,No,No,Yes,3,1,Yes,11,3,Yes,Health Insurance,94,91,49,71,42,93,93,2574,5000000
+Melissa Snyder,53,Male,No,0,1385158,Doctor,Yes,Yes,No,5,4,No,15,5,Yes,Travel Insurance,60,83,48,88,41,21,43,4636,200000
+Frank Becker DDS,64,Female,No,1,869518,Business,Yes,No,Yes,6,3,Yes,8,5,Yes,Vehicle Insurance,59,31,100,39,83,60,90,44351,200000
+Maria Knight,33,Male,No,0,961672,IT Professional,Yes,Yes,No,6,1,Yes,12,1,No,Vehicle Insurance,65,36,98,77,40,54,100,24199,1000000
+Robert Tyler,55,Female,No,4,2396590,IT Professional,No,No,Yes,4,4,Yes,12,4,No,Home Insurance,88,91,53,70,97,67,53,34311,2000000
+Joshua Maldonado,39,Female,Yes,0,477033,Engineer,Yes,No,Yes,2,3,Yes,15,3,No,Health Insurance,78,60,67,48,63,40,63,41761,5000000
+Marcus Andrade,37,Female,No,3,351381,IT Professional,No,No,Yes,3,5,No,0,4,No,Home Insurance,57,37,85,41,87,59,55,7024,500000
+Joseph Wiley,62,Female,Yes,1,2008108,Engineer,No,No,No,3,0,No,12,2,No,Health Insurance,81,52,52,50,37,62,37,4329,500000
+Julie Potter,35,Female,No,0,1092125,Doctor,Yes,No,No,2,5,Yes,14,3,Yes,Travel Insurance,52,85,46,88,33,100,64,12095,5000000
+Kristen Pham,55,Female,Yes,4,2311039,Business,No,No,No,3,0,Yes,11,3,Yes,Health Insurance,75,52,66,74,62,90,88,22497,200000
+Jonathan Brown,33,Male,No,0,1240403,Student,No,No,No,7,1,Yes,7,5,No,Home Insurance,71,36,39,41,89,95,95,19013,1000000
+Jon Dunn,46,Male,No,0,489751,Student,Yes,No,Yes,3,5,Yes,8,5,No,Home Insurance,36,37,67,49,97,23,41,44840,200000
+Justin Hoffman,18,Female,No,2,2022537,Student,Yes,Yes,Yes,6,5,No,3,5,No,Travel Insurance,79,34,72,97,64,86,31,36364,500000
+Michael Delgado,50,Male,No,0,1170125,Doctor,Yes,No,No,1,5,No,12,5,No,Vehicle Insurance,95,52,100,39,41,58,75,45426,200000
+Ryan Ramirez,54,Female,Yes,2,781521,Student,No,Yes,Yes,7,1,No,5,5,No,Home Insurance,37,46,56,46,59,41,67,32711,5000000
+Scott Harrington,35,Male,No,0,408275,Engineer,No,Yes,No,1,1,Yes,7,4,Yes,Vehicle Insurance,39,96,100,66,46,86,68,17856,5000000
+Eric Davidson,64,Male,No,0,1557188,Engineer,No,Yes,Yes,1,4,Yes,10,4,No,Travel Insurance,65,70,30,72,66,92,31,21957,5000000
+Mercedes Ryan,64,Female,No,3,1160464,Business,Yes,No,No,2,5,No,4,5,No,Home Insurance,80,52,61,69,86,100,49,17171,500000
+Caroline Baldwin,42,Female,No,1,341766,Lawyer,No,No,Yes,4,3,Yes,5,5,No,Life Insurance,68,99,82,66,59,69,76,5005,2000000
+Richard Serrano,50,Female,Yes,0,2178393,Government Employee,Yes,No,Yes,2,4,No,5,2,Yes,Health Insurance,82,59,44,71,74,96,95,16957,200000
+Gwendolyn Daniels,18,Male,No,0,2355979,Engineer,Yes,Yes,Yes,5,3,Yes,6,3,Yes,Vehicle Insurance,35,65,88,86,64,82,47,27655,200000
+Thomas Martin,26,Male,No,0,1778013,Teacher,Yes,No,Yes,4,1,Yes,0,3,No,Life Insurance,83,93,80,93,39,66,76,27077,2000000
+Benjamin Yang,44,Female,No,3,1315252,Lawyer,No,Yes,No,8,4,Yes,14,4,Yes,Travel Insurance,86,86,52,97,95,31,51,10762,500000
+Brett Drake,63,Male,No,0,1719143,Engineer,Yes,Yes,Yes,1,3,No,14,4,Yes,Life Insurance,44,89,58,83,56,53,62,32206,1000000
+Wendy Hayes,42,Female,No,3,1850452,Teacher,No,Yes,No,8,5,No,15,5,No,Home Insurance,41,54,72,87,89,38,40,34465,200000
+Jeremy Collins Jr.,57,Male,No,0,789088,Business,No,No,Yes,1,0,No,10,3,Yes,Life Insurance,44,99,86,95,37,35,34,2631,200000
+Mr. Anthony Miller DVM,51,Female,Yes,4,1163707,Teacher,Yes,No,Yes,1,3,Yes,15,1,Yes,Home Insurance,78,49,85,88,94,38,75,29011,500000
+Courtney Campbell,22,Female,Yes,0,2429443,Government Employee,No,No,No,2,4,Yes,3,1,No,Travel Insurance,61,41,61,81,43,74,95,41271,5000000
+Veronica Fernandez,37,Male,No,0,1399027,Doctor,Yes,No,Yes,2,3,No,6,5,Yes,Health Insurance,99,81,38,31,75,69,51,2078,1000000
+Amanda Morgan,54,Female,Yes,3,383567,Doctor,No,No,Yes,2,0,No,10,3,Yes,Life Insurance,64,84,63,82,59,20,60,43191,2000000
+Jennifer Turner,50,Male,No,0,569596,Student,Yes,No,No,2,3,No,5,3,No,Life Insurance,52,93,47,51,44,76,92,16895,5000000
+Thomas Buck,20,Female,Yes,3,1047883,Engineer,No,No,No,7,2,Yes,2,5,No,Health Insurance,98,51,94,96,30,97,46,48829,5000000
+Christopher Rowe,18,Male,No,0,1922207,Teacher,Yes,Yes,Yes,7,2,Yes,9,1,Yes,Travel Insurance,39,30,67,100,86,54,70,8032,2000000
+Shannon Bryant,26,Male,No,0,1990677,Farmer,No,No,Yes,8,2,Yes,9,1,No,Vehicle Insurance,39,42,75,74,47,98,84,13656,1000000
+Amanda Bennett,64,Female,Yes,3,2171971,Farmer,Yes,Yes,No,8,1,Yes,6,1,No,Travel Insurance,76,78,52,94,37,70,83,27003,1000000
+Alice Keith,24,Female,No,4,1853776,Doctor,Yes,No,Yes,4,3,No,9,5,No,Travel Insurance,94,30,31,95,82,34,74,33576,1000000
+Andrew Silva,24,Female,No,1,1977789,Engineer,No,No,No,6,0,No,11,2,Yes,Home Insurance,56,32,60,75,78,86,69,31881,2000000
+Mary Clark,50,Male,No,0,2207896,Engineer,Yes,No,Yes,4,4,Yes,14,3,Yes,Life Insurance,88,100,40,86,80,71,45,47946,500000
+Johnny Burton,52,Male,No,0,2093313,IT Professional,Yes,Yes,Yes,3,4,No,13,4,No,Home Insurance,88,71,55,59,92,86,30,5830,200000
+Samuel James,56,Male,No,0,364801,Student,Yes,No,No,1,0,Yes,15,5,Yes,Health Insurance,100,63,34,52,97,58,41,14626,200000
+Richard Brown,38,Female,No,2,841988,Engineer,No,Yes,Yes,6,4,No,9,1,Yes,Life Insurance,37,79,37,77,34,89,33,47310,2000000
+Michelle Adams,61,Male,No,0,1473407,Teacher,No,No,Yes,6,2,Yes,12,3,Yes,Life Insurance,63,75,36,61,51,76,81,39217,1000000
+Kevin Johnston,58,Male,No,0,1461374,Engineer,No,Yes,Yes,1,2,No,13,4,No,Travel Insurance,39,35,70,74,52,75,98,14116,2000000
+Maria Banks,43,Female,Yes,3,2210654,Government Employee,Yes,Yes,No,4,5,Yes,8,3,Yes,Health Insurance,96,33,47,60,89,49,47,34770,200000
+Michael Ortega,38,Male,No,0,1834797,Student,Yes,Yes,Yes,7,1,Yes,3,4,Yes,Life Insurance,33,81,35,80,37,61,63,36744,2000000
+Kelly Singh,59,Male,No,0,698437,Business,Yes,No,No,6,3,Yes,13,5,No,Travel Insurance,74,77,70,81,58,75,86,15039,5000000
+Nicole Phillips,31,Female,No,3,2113398,Farmer,No,Yes,No,3,1,No,8,3,No,Life Insurance,54,66,51,33,30,31,77,39768,2000000
+Nathan Hernandez,38,Male,No,0,2240254,Lawyer,Yes,No,Yes,8,2,No,15,3,No,Vehicle Insurance,49,63,97,58,32,60,87,26418,500000
+Michael Edwards,59,Male,No,0,1888188,Government Employee,No,Yes,Yes,7,1,No,9,2,Yes,Health Insurance,84,67,43,75,46,59,47,26426,200000
+Sharon Lopez,20,Male,No,0,755785,Teacher,Yes,Yes,Yes,6,3,Yes,2,1,No,Vehicle Insurance,75,80,91,43,69,66,43,7892,1000000
+Lori Molina,45,Male,No,0,456986,Student,No,Yes,Yes,2,3,Yes,12,4,Yes,Life Insurance,76,82,59,42,32,94,75,43749,500000
+Lisa Fowler,37,Male,No,0,2359789,IT Professional,No,No,No,6,4,Yes,13,2,No,Travel Insurance,72,48,50,89,30,72,93,12911,5000000
+Raymond Nichols,52,Female,Yes,4,1819114,Government Employee,No,No,No,1,2,Yes,5,3,No,Health Insurance,71,46,33,68,45,36,74,43283,5000000
+Angela Gregory,55,Male,No,0,904496,IT Professional,No,Yes,No,7,5,No,11,4,No,Vehicle Insurance,71,75,100,61,62,32,35,5037,500000
+Mark Bautista,60,Male,No,0,1903604,Engineer,No,No,Yes,8,2,Yes,3,2,Yes,Health Insurance,92,46,85,38,53,45,32,26832,5000000
+Lisa Mills,31,Male,No,0,1672813,Lawyer,No,No,No,5,1,Yes,13,3,Yes,Health Insurance,96,34,44,42,33,84,56,37038,1000000
+Stephanie White,37,Female,No,1,497388,Farmer,No,No,Yes,7,0,No,9,2,Yes,Home Insurance,78,37,57,47,86,76,69,18816,500000
+Nicole Lynch PhD,30,Female,Yes,4,1092184,IT Professional,No,No,No,6,5,Yes,11,5,Yes,Vehicle Insurance,42,56,76,67,62,76,76,49118,500000
+Angela Young,49,Female,Yes,0,1545489,Government Employee,No,No,No,2,4,No,11,5,Yes,Life Insurance,32,90,49,49,34,36,81,40971,200000
+Deborah Ellison,45,Male,No,0,1041364,Lawyer,No,Yes,No,8,1,No,14,1,Yes,Life Insurance,81,89,73,41,74,100,36,2866,1000000
+Kevin Williamson,58,Female,No,3,1383728,Student,No,Yes,No,6,2,Yes,4,5,Yes,Health Insurance,87,63,58,66,59,88,88,13283,500000
+Michael Johnson,18,Male,No,0,2047654,Doctor,No,Yes,No,6,3,No,11,2,Yes,Home Insurance,76,82,46,46,91,44,36,47258,2000000
+Stephanie Duarte,25,Female,No,2,1289105,Student,Yes,No,No,6,1,No,14,1,Yes,Home Insurance,80,80,64,41,100,37,55,9321,500000
+Mark Smith,20,Female,Yes,0,342770,Lawyer,No,No,Yes,8,0,No,5,5,No,Travel Insurance,47,96,94,100,82,69,88,14867,1000000
+Stacey Anderson,43,Male,No,0,630729,Government Employee,Yes,No,No,7,0,Yes,4,5,Yes,Home Insurance,52,48,67,57,88,31,46,17868,200000
+Erin Lucas,47,Male,No,0,657038,Government Employee,Yes,No,No,2,0,Yes,5,3,Yes,Vehicle Insurance,44,73,87,70,57,92,49,41718,5000000
+Alex Turner,49,Male,No,0,1362750,IT Professional,No,Yes,No,2,5,No,13,5,Yes,Vehicle Insurance,77,64,82,34,54,52,85,14879,200000
+Joseph Turner,42,Male,No,0,392709,Lawyer,Yes,Yes,Yes,3,1,No,6,2,No,Health Insurance,70,34,61,58,69,34,61,24461,1000000
+Mr. Brian Simpson MD,64,Female,No,4,895590,Engineer,No,Yes,No,2,4,Yes,14,5,No,Life Insurance,38,92,80,86,61,33,63,44163,200000
+Jessica Jimenez,27,Male,No,0,1234994,Lawyer,No,Yes,No,3,1,Yes,5,1,Yes,Life Insurance,69,100,41,48,32,20,83,29133,5000000
+Tyler Lindsey PhD,19,Female,No,3,2065759,Teacher,No,No,Yes,3,5,Yes,10,5,Yes,Travel Insurance,52,31,61,91,90,96,92,36377,1000000
+Elizabeth Reilly,61,Male,No,0,2133695,Government Employee,Yes,No,No,4,1,Yes,1,4,Yes,Health Insurance,96,94,89,65,33,23,49,20859,5000000
+Tina Henderson,36,Male,No,0,1278714,Teacher,Yes,No,Yes,8,0,Yes,5,3,No,Vehicle Insurance,65,30,76,60,46,76,72,39227,200000
+Stephanie Anderson,31,Female,Yes,0,1202901,Student,Yes,No,Yes,2,1,Yes,0,4,No,Life Insurance,35,88,68,32,68,87,42,16010,2000000
+Melanie Dean,63,Female,Yes,0,840909,Student,No,No,No,4,3,Yes,7,5,No,Travel Insurance,65,37,34,82,53,73,35,24385,500000
+Cindy Page,22,Male,No,0,2172354,Business,No,Yes,No,5,3,Yes,13,5,Yes,Vehicle Insurance,86,43,95,32,49,54,99,38782,1000000
+Joseph Owens,35,Male,No,0,544054,Doctor,No,No,Yes,6,1,Yes,4,4,Yes,Home Insurance,94,32,39,32,96,91,84,4587,2000000
+Amy Powell,39,Male,No,0,647474,Business,No,No,No,8,3,No,0,2,No,Life Insurance,59,86,49,46,33,29,81,16227,5000000
+Tammy Wilson,37,Female,No,4,1326003,Lawyer,No,Yes,Yes,3,4,No,11,3,No,Life Insurance,40,85,32,76,48,60,92,9492,200000
+Rachel Carter,23,Male,No,0,2454326,Farmer,Yes,No,Yes,3,5,Yes,11,1,No,Health Insurance,97,40,39,37,33,73,56,26157,5000000
+Eric Peters,20,Male,No,0,2428172,Student,Yes,No,Yes,3,5,Yes,11,5,No,Vehicle Insurance,53,35,89,81,52,56,70,17750,200000
+Jennifer Frederick,23,Male,No,0,2233663,Business,Yes,No,No,8,1,No,11,3,Yes,Life Insurance,34,65,35,45,62,39,64,20423,500000
+Alison Todd,43,Male,No,0,1176785,IT Professional,Yes,No,No,3,5,No,3,1,No,Home Insurance,88,41,40,71,90,49,100,27882,200000
+Christopher Velez,27,Male,No,0,472935,Lawyer,Yes,Yes,Yes,7,2,No,6,5,Yes,Health Insurance,92,84,83,43,89,63,54,30597,500000
+Danielle Wilson,37,Female,No,0,250014,Student,Yes,No,No,2,1,Yes,12,4,Yes,Vehicle Insurance,75,56,76,67,45,81,40,23667,5000000
+Jessica Cannon,21,Male,No,0,345146,Teacher,No,No,Yes,2,2,No,12,1,No,Home Insurance,50,75,58,47,76,96,42,46853,2000000
+Antonio Moore,58,Female,Yes,3,2416205,Government Employee,No,Yes,No,6,3,No,6,1,Yes,Vehicle Insurance,67,44,81,47,59,41,68,21559,1000000
+Barbara Robinson,18,Male,No,0,2480178,Engineer,No,No,Yes,2,2,Yes,7,2,Yes,Vehicle Insurance,55,41,71,66,63,24,89,3879,5000000
+Sherri Hurley,47,Female,No,2,580718,Teacher,No,Yes,Yes,6,1,No,6,3,No,Health Insurance,82,44,59,55,75,59,65,47148,2000000
+Dr. Joseph Harris,24,Female,Yes,0,2056854,Farmer,No,No,Yes,4,5,Yes,6,1,No,Health Insurance,81,47,48,60,32,63,32,10480,1000000
+David Holmes,29,Male,No,0,811890,Government Employee,Yes,Yes,No,1,4,No,11,1,No,Health Insurance,91,32,61,36,54,31,100,49966,500000
+Brett Bell,34,Male,No,0,1166155,Student,No,No,Yes,5,2,No,8,5,Yes,Health Insurance,81,68,37,49,45,42,58,36768,500000
+Katherine Lopez,56,Male,No,0,271132,Engineer,Yes,Yes,Yes,4,1,Yes,13,3,No,Life Insurance,41,73,37,31,52,95,50,3136,500000
+Ronald Williams,22,Male,No,0,1098941,Farmer,Yes,Yes,No,1,1,Yes,6,2,Yes,Home Insurance,95,79,47,44,96,83,46,6638,2000000
+Renee Murphy,57,Female,No,2,1052594,IT Professional,Yes,No,No,1,0,Yes,2,2,Yes,Health Insurance,100,63,37,87,38,81,99,20895,200000
+Samantha Thompson,63,Female,No,4,1704957,Lawyer,No,No,Yes,4,1,No,14,3,Yes,Vehicle Insurance,43,44,86,40,60,83,83,23846,1000000
+Cathy Frazier,29,Female,No,2,669862,Engineer,No,No,Yes,2,3,No,2,2,No,Life Insurance,57,92,75,56,53,69,71,14823,500000
+Robert Patterson,45,Male,No,0,363583,Business,No,Yes,No,4,4,Yes,15,2,Yes,Vehicle Insurance,39,53,88,80,74,23,84,10401,200000
+Steven Young,56,Female,Yes,2,2276352,Business,Yes,Yes,Yes,6,0,No,7,3,No,Vehicle Insurance,74,64,86,72,34,48,65,6855,200000
+Nicholas Dean,27,Female,Yes,4,1856624,Lawyer,No,No,No,7,3,No,4,4,No,Health Insurance,70,61,70,40,62,33,65,26710,200000
+Laura Hernandez,35,Female,No,1,1656124,Farmer,No,No,No,1,0,No,11,3,No,Travel Insurance,61,62,79,88,83,41,38,44483,5000000
+Melanie Perez,47,Female,No,4,892994,Lawyer,No,Yes,Yes,1,2,No,3,5,No,Travel Insurance,50,82,52,83,53,60,59,17304,5000000
+Tamara Peters DDS,38,Female,No,3,327999,Doctor,Yes,Yes,Yes,4,3,Yes,11,5,No,Vehicle Insurance,56,54,97,81,75,90,37,13298,500000
+Amber Rowland,35,Male,No,0,1184735,Engineer,Yes,Yes,Yes,8,1,Yes,10,5,No,Life Insurance,76,90,36,78,70,67,53,35636,1000000
+Eric Taylor,27,Female,Yes,4,787304,Business,Yes,Yes,Yes,8,5,No,1,3,Yes,Home Insurance,67,35,55,32,94,57,87,31712,500000
+Shannon Parker,48,Male,No,0,622918,Student,Yes,No,Yes,1,2,No,6,1,No,Home Insurance,59,42,30,41,74,42,63,29666,200000
+Monica Livingston,50,Male,No,0,603410,Teacher,No,Yes,No,7,5,No,4,4,Yes,Vehicle Insurance,58,91,95,43,72,69,65,33590,200000
+Kathryn Spencer,40,Male,No,0,1308255,Student,Yes,Yes,No,5,2,No,6,4,No,Travel Insurance,46,43,80,83,72,82,86,10950,200000
+Samuel Tucker,20,Female,No,4,1445671,Doctor,Yes,Yes,No,1,2,No,9,4,Yes,Travel Insurance,52,62,58,99,78,44,57,13350,1000000
+Jason Sullivan,32,Male,No,0,2327407,Engineer,No,Yes,No,4,0,No,11,3,Yes,Life Insurance,80,87,58,79,36,58,33,43864,1000000
+Mr. Mark Ruiz,34,Female,Yes,4,2422435,Government Employee,Yes,No,No,3,5,No,14,4,No,Life Insurance,31,69,42,37,38,90,94,14457,5000000
+Duane Lloyd,23,Male,No,0,1768614,Lawyer,Yes,Yes,No,8,5,No,3,4,No,Vehicle Insurance,60,58,77,69,37,27,65,47961,1000000
+Ann Perkins,62,Female,Yes,4,1319002,Student,Yes,Yes,Yes,2,2,No,0,3,No,Travel Insurance,93,37,37,97,62,47,81,17137,200000
+Olivia Berry,58,Female,No,4,1114996,IT Professional,Yes,No,Yes,5,5,No,6,1,Yes,Life Insurance,97,100,95,67,81,84,51,10666,2000000
+Jeremiah Ward,40,Male,No,0,2243162,Student,No,Yes,No,5,5,No,5,3,No,Life Insurance,79,95,72,71,92,88,77,18898,5000000
+Robert Anderson,57,Male,No,0,577364,Farmer,No,No,Yes,3,3,Yes,3,4,Yes,Life Insurance,47,99,39,61,90,84,30,12647,5000000
+Trevor Sheppard,56,Female,No,2,1675785,Farmer,Yes,No,No,8,2,No,2,5,Yes,Home Insurance,44,93,32,39,99,79,51,44730,1000000
+Tyler Roman,37,Female,Yes,3,1957097,Doctor,No,No,Yes,2,0,No,10,1,Yes,Vehicle Insurance,82,83,99,97,98,27,46,2451,5000000
+Ricardo Wilson,41,Female,No,4,1110612,Government Employee,No,No,Yes,7,0,Yes,3,3,Yes,Health Insurance,98,46,91,63,94,92,45,32315,200000
+Anna Freeman,40,Female,No,1,836710,Student,No,No,No,4,1,Yes,15,4,Yes,Health Insurance,99,96,86,68,83,26,54,47995,200000
+Darren Gill,18,Male,No,0,1496631,Government Employee,Yes,Yes,Yes,8,0,Yes,8,5,No,Life Insurance,88,97,34,37,89,25,46,40541,5000000
+Marcus Frost,25,Female,No,2,1625228,IT Professional,Yes,No,No,8,3,Yes,7,5,Yes,Health Insurance,93,91,86,65,91,54,94,33537,1000000
+Jordan Page,42,Female,Yes,0,1139101,Doctor,No,No,No,2,2,Yes,2,3,Yes,Travel Insurance,45,59,30,85,59,55,86,22712,5000000
+Olivia Choi,23,Male,No,0,1404081,Engineer,No,Yes,Yes,5,2,Yes,12,3,Yes,Home Insurance,89,74,56,34,97,91,55,28289,200000
+Gabriel Ramirez,48,Female,No,3,1406384,Doctor,Yes,Yes,Yes,7,1,Yes,8,2,No,Life Insurance,62,67,66,66,67,36,45,12020,1000000
+Sarah Morrison,59,Male,No,0,1628028,Farmer,No,No,No,5,5,Yes,15,1,No,Travel Insurance,57,59,34,76,45,60,76,15595,500000
+Gina Perez,51,Male,No,0,483646,Student,No,No,No,8,0,Yes,7,4,No,Travel Insurance,48,64,31,68,41,50,90,43420,2000000
+Tyler Wagner,44,Female,No,1,2283389,IT Professional,Yes,Yes,Yes,6,2,No,7,4,No,Travel Insurance,60,80,88,94,82,89,96,49668,1000000
+Kelly Shaw,41,Female,No,1,2156427,IT Professional,Yes,Yes,Yes,8,3,Yes,15,1,Yes,Life Insurance,54,95,75,60,69,90,31,41316,1000000
+Mr. John Nelson,22,Male,No,0,1369086,Government Employee,No,No,Yes,6,4,Yes,12,4,Yes,Home Insurance,51,49,64,41,71,55,82,38888,200000
+Charles Wright,37,Male,No,0,1531574,IT Professional,No,Yes,Yes,4,2,Yes,2,4,No,Travel Insurance,59,71,60,95,44,64,78,27296,1000000
+John Colon,45,Male,No,0,379727,Farmer,No,No,Yes,8,2,Yes,11,1,No,Health Insurance,100,72,53,95,69,91,30,31100,5000000
+Misty Turner,64,Female,No,3,760027,Government Employee,Yes,No,Yes,5,3,Yes,12,5,No,Vehicle Insurance,33,98,100,59,82,42,50,31536,5000000
+Stephanie Meyer,64,Female,Yes,2,507501,Government Employee,Yes,No,Yes,7,1,No,14,3,Yes,Vehicle Insurance,65,46,75,62,72,47,34,27822,5000000
+Kelly Dunn,46,Male,No,0,2185483,Engineer,Yes,No,No,7,5,No,9,3,Yes,Health Insurance,91,49,72,69,57,91,63,33626,500000
+Cynthia Pace,57,Female,Yes,1,338107,Engineer,Yes,No,Yes,6,2,Yes,2,4,Yes,Health Insurance,83,77,45,30,53,36,52,12569,2000000
+Anthony Thompson,53,Male,No,0,1471931,Doctor,No,Yes,Yes,4,1,No,15,5,No,Vehicle Insurance,65,72,80,67,61,100,57,7586,500000
+Miranda Morales,36,Female,No,3,841895,Government Employee,Yes,No,No,7,5,Yes,13,1,Yes,Travel Insurance,50,63,56,86,36,80,85,10627,200000
+Michael Blanchard,51,Male,No,0,822168,Teacher,No,Yes,Yes,5,1,No,5,1,No,Vehicle Insurance,37,82,89,68,39,92,94,40638,5000000
+James Greene,44,Female,Yes,3,1562076,IT Professional,No,No,No,3,4,Yes,4,3,Yes,Health Insurance,61,34,50,36,36,23,37,19042,500000
+Aaron Allen,40,Male,No,0,2458321,Farmer,No,No,No,8,1,No,4,4,Yes,Travel Insurance,83,36,69,89,44,33,86,11974,1000000
+Timothy Stephens,42,Male,No,0,1316769,Government Employee,Yes,No,No,6,0,Yes,0,5,Yes,Travel Insurance,52,51,40,99,88,24,60,36064,5000000
+Darrell Andrews,63,Female,No,2,2040910,Engineer,No,Yes,No,4,5,Yes,4,5,No,Life Insurance,74,94,42,38,84,99,41,46999,5000000
+Jeffrey Baker,47,Male,No,0,215009,Teacher,Yes,No,Yes,6,4,Yes,6,1,No,Travel Insurance,51,77,71,92,33,78,65,36747,200000
+Martha Jimenez,49,Female,No,0,1530828,Engineer,Yes,No,Yes,1,1,Yes,12,4,Yes,Life Insurance,81,95,87,62,90,82,69,35255,2000000
+Paul Adkins,32,Male,No,0,1869750,Business,No,No,Yes,2,1,No,2,2,Yes,Life Insurance,68,93,44,37,85,95,49,41492,5000000
+Amber Deleon,23,Female,No,1,1333851,Government Employee,Yes,Yes,Yes,5,3,Yes,2,5,No,Travel Insurance,33,53,58,89,34,56,57,35756,200000
+Richard Clark,28,Male,No,0,1611170,Doctor,No,No,No,5,0,No,11,2,No,Health Insurance,98,98,34,82,83,97,83,6074,2000000
+Heather Lara,50,Male,No,0,950216,Farmer,Yes,No,Yes,4,2,No,2,5,No,Health Insurance,97,78,41,81,96,82,86,19291,1000000
+Brittany Case DDS,50,Male,No,0,417123,Government Employee,Yes,No,Yes,5,2,Yes,10,4,No,Travel Insurance,80,40,81,82,69,31,50,38263,200000
+Michael Wilson,52,Male,No,0,1083203,Engineer,No,No,Yes,3,1,Yes,1,1,No,Home Insurance,59,68,30,59,69,57,73,27613,5000000
+Rachel Harrell,63,Female,No,0,2001779,Engineer,Yes,No,No,5,1,Yes,5,5,No,Vehicle Insurance,44,44,93,64,52,63,60,19591,5000000
+Eileen Cook,51,Female,No,1,2096358,Teacher,No,No,No,3,3,Yes,14,1,No,Health Insurance,93,64,74,56,62,60,84,29267,500000
+Kerri Gomez,54,Male,No,0,2159700,Doctor,Yes,No,Yes,3,1,No,5,4,No,Health Insurance,99,61,71,52,46,92,77,5390,2000000
+Daryl Kerr,18,Female,No,1,1035937,Engineer,No,No,No,6,5,Yes,13,2,No,Home Insurance,32,51,55,54,91,39,98,32057,1000000
+William Campbell,60,Female,Yes,2,2005415,Doctor,Yes,Yes,Yes,6,1,Yes,10,4,No,Travel Insurance,54,38,59,72,34,72,82,38590,1000000
+Craig Williams,61,Female,Yes,1,839401,Teacher,Yes,No,Yes,6,1,Yes,4,3,Yes,Health Insurance,86,43,82,36,85,48,45,5109,500000
+Adam Estes,50,Male,No,0,1511606,Business,Yes,No,No,1,2,Yes,1,5,Yes,Vehicle Insurance,31,42,68,37,33,79,71,4476,500000
+Rachel Hayes,44,Female,No,2,1391598,Farmer,Yes,Yes,No,4,4,No,11,2,No,Life Insurance,41,77,45,51,40,40,78,2919,5000000
+Michael Cooper,37,Female,Yes,1,2038203,Farmer,No,Yes,Yes,2,1,No,10,2,Yes,Health Insurance,82,65,77,33,73,54,60,27864,1000000
+Linda Evans,62,Male,No,0,1976287,Business,No,No,No,2,3,No,1,4,No,Home Insurance,56,89,89,86,92,83,69,31570,1000000
+Joel Rivera,33,Male,No,0,1514707,Government Employee,No,Yes,No,4,1,No,12,5,Yes,Home Insurance,36,40,49,71,93,79,59,4409,5000000
+William Jones,43,Male,No,0,744489,Farmer,Yes,No,No,2,1,Yes,4,5,Yes,Vehicle Insurance,80,34,83,47,45,55,97,38157,500000
+Miranda Mason,39,Male,No,0,1461340,Lawyer,Yes,No,Yes,1,4,No,2,2,Yes,Home Insurance,72,62,60,46,86,71,95,23880,5000000
+Ariana Butler,51,Male,No,0,502694,Doctor,Yes,No,Yes,4,0,No,1,4,No,Health Insurance,100,65,56,36,72,69,88,40548,5000000
+Susan Harrell,36,Male,No,0,1409679,Teacher,No,No,Yes,5,1,Yes,3,5,Yes,Health Insurance,93,53,68,86,83,84,39,43429,200000
+Jeffrey Jones,59,Female,No,0,472667,Farmer,No,No,Yes,3,1,Yes,1,1,Yes,Health Insurance,82,80,32,60,77,81,32,2808,2000000
+Dylan Harmon,25,Female,No,4,2466763,Doctor,No,Yes,Yes,4,5,Yes,3,1,Yes,Vehicle Insurance,39,39,91,42,65,89,40,8067,5000000
+Jill Davis,59,Male,No,0,1472254,Teacher,No,No,Yes,2,5,No,4,5,Yes,Life Insurance,54,97,58,82,51,80,86,7816,2000000
+Hayden Hamilton,62,Female,Yes,1,562061,Farmer,Yes,Yes,No,2,1,Yes,8,1,Yes,Vehicle Insurance,57,70,94,66,93,68,36,47085,500000
+Evan Waller,35,Female,Yes,2,251311,IT Professional,No,No,No,7,4,No,13,3,No,Travel Insurance,83,71,80,100,33,25,33,4422,500000
+David Anderson,56,Female,No,4,1705057,Engineer,Yes,No,Yes,5,0,No,14,1,No,Vehicle Insurance,60,81,90,74,33,48,61,12368,200000
+Teresa Collier,34,Female,No,4,1572568,Doctor,Yes,No,Yes,2,3,Yes,12,4,Yes,Health Insurance,89,58,88,66,66,95,64,8404,2000000
+Angelica Smith,57,Male,No,0,1981361,Student,Yes,No,No,8,1,Yes,5,2,Yes,Health Insurance,93,30,56,53,81,45,57,26620,2000000
+Paul Hicks,20,Male,No,0,1449938,Lawyer,No,No,Yes,7,1,Yes,7,5,Yes,Home Insurance,53,59,72,42,100,81,41,40464,2000000
+Matthew Weiss,28,Male,No,0,1484551,IT Professional,No,Yes,Yes,6,4,No,13,1,Yes,Health Insurance,84,53,84,73,71,31,65,5783,2000000
+Crystal Gill,63,Female,No,0,258301,Lawyer,No,Yes,No,8,5,Yes,11,4,Yes,Health Insurance,90,60,79,33,75,21,80,34287,1000000
+Hannah Nelson,28,Female,No,4,1436123,Teacher,No,No,No,2,1,Yes,12,4,Yes,Vehicle Insurance,72,78,98,77,77,32,42,25076,5000000
+John Wright,24,Female,No,2,1309942,Lawyer,No,Yes,Yes,8,3,No,9,2,Yes,Vehicle Insurance,70,49,88,68,66,20,91,10320,200000
+Sherri James,53,Female,No,0,2052888,Farmer,No,No,Yes,8,0,Yes,3,4,Yes,Travel Insurance,77,59,60,91,71,37,31,34536,1000000
+Dominique Tate,57,Male,No,0,1530443,Teacher,Yes,Yes,Yes,8,3,No,12,2,No,Home Insurance,98,63,46,78,99,29,43,9200,1000000
+Anthony Sherman,47,Male,No,0,1722315,IT Professional,No,Yes,Yes,2,3,Yes,8,5,No,Vehicle Insurance,45,77,97,88,50,82,96,47116,200000
+Jamie Collins,40,Female,No,3,1592790,Doctor,No,No,No,6,0,No,12,4,Yes,Home Insurance,40,60,43,31,80,82,45,48127,2000000
+Michael Martin,62,Female,No,4,844696,Teacher,No,No,Yes,8,1,Yes,1,5,Yes,Health Insurance,92,85,85,85,49,74,73,36835,200000
+Kara Coleman,36,Female,Yes,3,797364,Government Employee,Yes,No,Yes,8,5,Yes,9,3,No,Travel Insurance,60,52,35,69,39,39,64,2656,1000000
+Douglas Summers,41,Male,No,0,2463325,Government Employee,No,No,No,3,0,No,10,1,Yes,Home Insurance,62,62,74,63,99,94,74,34571,500000
+Natalie Meyer,57,Male,No,0,440498,Teacher,Yes,No,Yes,7,5,No,9,3,Yes,Vehicle Insurance,89,74,95,73,53,30,37,48825,200000
+Aaron Brooks,47,Male,No,0,2190217,IT Professional,Yes,Yes,No,4,0,No,10,1,Yes,Travel Insurance,64,72,77,82,77,71,83,20982,1000000
+Margaret Moore,23,Male,No,0,417419,Lawyer,No,No,No,1,1,No,13,2,Yes,Home Insurance,35,62,32,73,92,75,68,17252,500000
+Robert Baker,28,Female,No,3,2279970,Farmer,No,Yes,Yes,2,5,Yes,0,4,No,Home Insurance,52,81,51,48,91,31,91,38229,5000000
+Amy Phillips,22,Male,No,0,579531,Government Employee,Yes,No,No,3,1,Yes,12,3,No,Travel Insurance,53,68,81,95,74,67,32,45442,500000
+Brittany Peck,27,Male,No,0,885801,Student,Yes,Yes,Yes,4,5,Yes,6,5,No,Home Insurance,56,56,60,61,86,69,75,14298,5000000
+Ronald Johnson,58,Male,No,0,1530180,IT Professional,No,Yes,Yes,3,0,Yes,9,2,No,Travel Insurance,36,35,46,93,37,45,69,39292,2000000
+Sean Lozano,52,Female,No,4,1489488,Teacher,No,No,Yes,2,2,No,1,2,No,Travel Insurance,81,58,92,94,52,24,75,47843,1000000
+Jason Davis,50,Female,Yes,0,2095294,Student,No,No,Yes,4,1,No,10,1,No,Life Insurance,69,96,92,64,76,71,59,18601,200000
+Kelly Blake,53,Male,No,0,2372870,Student,Yes,Yes,Yes,1,2,Yes,0,4,No,Travel Insurance,72,75,59,81,51,41,92,17712,200000
+Edward Warren,20,Female,No,0,938851,Lawyer,No,Yes,Yes,8,2,Yes,0,3,Yes,Life Insurance,59,91,51,69,50,25,36,7116,5000000
+Jason Chavez,57,Male,No,0,677745,Government Employee,Yes,No,Yes,7,4,Yes,2,1,Yes,Travel Insurance,31,50,63,87,79,24,40,46887,1000000
+Catherine Chandler,25,Male,No,0,355882,Teacher,Yes,No,Yes,4,4,Yes,4,3,No,Vehicle Insurance,40,64,80,76,64,54,70,15747,2000000
+Daniel Parsons,49,Female,Yes,3,1425786,Student,Yes,Yes,No,1,5,No,10,2,Yes,Health Insurance,95,88,91,70,95,80,82,45366,200000
+Melinda Matthews,22,Male,No,0,307141,Student,Yes,No,No,1,4,No,10,5,Yes,Health Insurance,87,66,84,76,67,55,59,17566,1000000
+Kimberly Anderson,49,Female,Yes,1,1430898,IT Professional,Yes,Yes,Yes,1,0,Yes,2,1,Yes,Home Insurance,52,33,55,33,92,23,91,14366,1000000
+Gina Cole,35,Male,No,0,1667107,Business,No,Yes,Yes,3,5,No,13,3,Yes,Health Insurance,86,51,74,34,67,65,57,14730,500000
+Philip Chase,29,Female,No,4,806709,Student,Yes,No,No,2,2,No,13,4,Yes,Life Insurance,48,85,44,41,47,25,78,16104,200000
+Rebecca Hawkins,61,Female,Yes,4,728320,Teacher,Yes,Yes,Yes,1,2,Yes,6,3,No,Travel Insurance,35,49,71,76,34,25,30,20045,1000000
+Richard Mckinney,31,Female,Yes,1,1817676,Farmer,No,Yes,No,1,3,Yes,5,2,Yes,Vehicle Insurance,39,47,89,81,54,42,100,2068,2000000
+April Mccarthy,21,Male,No,0,2294826,Teacher,Yes,Yes,No,3,0,Yes,3,4,No,Travel Insurance,35,31,31,85,52,96,47,12664,500000
+Sara Mcdonald,25,Female,Yes,4,1832266,Business,Yes,Yes,Yes,2,1,No,5,2,No,Home Insurance,67,34,68,46,89,32,47,6114,1000000
+Gregory Lee,31,Female,Yes,0,970281,Government Employee,No,Yes,Yes,7,1,Yes,15,1,Yes,Home Insurance,44,51,54,42,77,32,35,6912,500000
+Jennifer Mueller,38,Male,No,0,916512,Farmer,No,No,No,2,1,Yes,0,4,No,Health Insurance,98,69,56,37,43,23,37,38581,1000000
+Tim Smith,43,Male,No,0,247778,IT Professional,No,Yes,Yes,1,1,No,12,5,Yes,Home Insurance,71,31,63,64,73,20,36,16333,1000000
+James Romero,22,Female,No,0,335472,Student,Yes,Yes,Yes,4,2,No,8,5,Yes,Vehicle Insurance,66,35,83,31,34,98,50,14195,200000
+Haley Ferrell,39,Female,No,2,1992632,IT Professional,Yes,No,Yes,4,4,No,10,2,Yes,Vehicle Insurance,67,42,93,53,55,58,32,4693,1000000
+Justin Gilmore,30,Male,No,0,825969,Farmer,No,Yes,No,5,2,No,5,5,Yes,Travel Insurance,31,75,65,83,64,71,37,22228,500000
+Javier Alvarez,34,Male,No,0,389437,Doctor,Yes,No,No,7,2,Yes,15,2,Yes,Life Insurance,51,87,50,64,86,97,32,10556,200000
+Hannah Barnes,26,Male,No,0,919514,Engineer,Yes,Yes,No,5,4,No,11,1,Yes,Travel Insurance,59,31,39,74,47,52,43,43816,500000
+Kimberly Bender,46,Male,No,0,2458106,Government Employee,No,Yes,Yes,7,5,Yes,2,1,Yes,Home Insurance,74,47,44,50,100,20,60,45412,1000000
+Stephanie Guerrero,53,Male,No,0,1183287,Doctor,No,No,No,4,4,No,10,5,Yes,Health Insurance,89,85,87,77,46,57,70,15921,1000000
+Pamela Cooper,32,Female,No,3,279347,Lawyer,No,Yes,No,2,3,No,2,3,No,Vehicle Insurance,63,44,81,79,37,64,100,16419,1000000
+Patricia Dennis,48,Female,No,1,1471805,Teacher,No,No,Yes,4,0,Yes,11,4,Yes,Health Insurance,87,59,40,65,47,53,94,8137,1000000
+Ashley Howard,57,Male,No,0,1303444,IT Professional,No,Yes,No,3,4,Yes,14,4,Yes,Home Insurance,70,71,87,80,93,60,52,28716,1000000
+Christopher Nicholson,30,Female,Yes,4,560914,Government Employee,No,No,No,2,5,Yes,1,5,No,Home Insurance,54,62,76,75,85,82,50,15004,1000000
+Michael Gill,49,Female,No,0,1138540,Teacher,Yes,Yes,No,3,3,No,0,4,No,Home Insurance,79,44,78,33,86,71,73,31585,1000000
+Paula Pham,57,Male,No,0,1734214,Student,No,Yes,Yes,6,4,Yes,13,4,No,Health Insurance,83,78,79,79,44,60,88,8770,5000000
+Cheryl Holt,31,Female,Yes,3,2368606,Government Employee,Yes,No,Yes,5,1,Yes,1,4,Yes,Vehicle Insurance,41,75,88,41,41,27,47,40755,1000000
+George Arias,21,Female,Yes,3,898112,Government Employee,No,Yes,Yes,6,1,No,2,4,Yes,Vehicle Insurance,35,53,80,61,61,54,93,45694,200000
+Jeffrey Harris,32,Male,No,0,482395,IT Professional,Yes,No,No,5,1,No,2,5,Yes,Travel Insurance,39,52,59,76,56,91,89,34682,500000
+Justin Johnson,28,Male,No,0,1126268,Doctor,Yes,No,Yes,6,0,No,13,2,Yes,Life Insurance,81,99,98,34,60,38,90,30935,1000000
+Angel Lara,63,Male,No,0,1735940,Business,No,Yes,No,4,5,Yes,4,1,No,Life Insurance,54,86,55,42,30,74,66,4914,1000000
+Matthew Curtis,42,Female,Yes,1,403357,Lawyer,No,No,Yes,7,4,No,14,3,Yes,Home Insurance,48,53,30,63,72,93,77,48512,1000000
+Alexa Owens,43,Female,Yes,1,1058449,IT Professional,No,No,No,7,4,No,9,2,No,Life Insurance,32,97,39,59,35,46,50,31080,5000000
+Stephanie Jenkins,20,Female,No,1,767384,Doctor,No,No,No,7,4,Yes,3,1,Yes,Health Insurance,71,61,38,30,45,48,45,19467,500000
+Theresa Jones,25,Male,No,0,297992,IT Professional,Yes,Yes,No,5,3,No,15,5,No,Vehicle Insurance,38,73,90,32,70,42,40,2600,2000000
+Charles Taylor,52,Female,No,4,1343544,Engineer,No,Yes,No,1,5,No,7,4,No,Life Insurance,40,64,41,55,38,65,85,6492,1000000
+Jeremy Morgan,62,Male,No,0,843215,Government Employee,Yes,Yes,Yes,8,3,No,5,2,No,Health Insurance,82,61,39,48,45,97,39,43853,1000000
+Jasmine Hall,61,Male,No,0,659273,Farmer,Yes,Yes,Yes,2,5,No,4,1,No,Life Insurance,65,70,35,51,50,30,36,5119,1000000
+Dr. Cody Rios,37,Female,No,3,1669840,Government Employee,No,Yes,No,3,3,No,8,1,No,Life Insurance,96,99,51,64,98,85,37,33041,200000
+Shawn Shaffer,52,Male,No,0,1976765,Government Employee,Yes,Yes,Yes,1,2,No,7,3,No,Travel Insurance,60,68,50,80,76,26,56,12374,2000000
+Tonya Brown,55,Male,No,0,362482,Engineer,No,No,Yes,4,3,No,12,3,No,Life Insurance,42,96,62,76,33,54,61,22299,200000
+Karen Benson,39,Female,Yes,3,1384130,Engineer,Yes,Yes,Yes,6,0,Yes,15,1,Yes,Health Insurance,99,97,49,30,31,26,99,48794,2000000
+Shannon Hernandez,35,Male,No,0,801906,Farmer,Yes,No,No,8,2,No,13,2,Yes,Home Insurance,62,45,71,51,87,51,34,6599,500000
+Joseph Sanders,45,Female,No,2,1268242,Government Employee,Yes,No,No,6,5,No,14,1,No,Vehicle Insurance,34,86,100,45,76,86,64,35442,5000000
+Sharon Clark,37,Female,No,0,1009748,Farmer,Yes,Yes,Yes,8,4,No,5,4,No,Travel Insurance,75,80,53,90,40,21,44,12098,5000000
+Mrs. Rebecca Jones,62,Female,Yes,3,1602486,Student,Yes,No,Yes,2,2,Yes,4,1,Yes,Home Insurance,48,37,51,48,76,22,35,41280,2000000
+Glenda Raymond,44,Female,No,0,640734,Lawyer,Yes,No,Yes,4,4,Yes,11,1,Yes,Travel Insurance,53,33,66,95,61,80,59,49040,1000000
+Becky Cooke,20,Female,No,4,1666392,Teacher,Yes,No,No,7,2,Yes,10,2,Yes,Vehicle Insurance,55,73,94,89,67,70,68,23362,1000000
+Alexandra King,25,Female,No,2,2283355,Farmer,Yes,No,No,7,1,No,9,4,No,Life Insurance,81,96,72,34,64,30,34,28656,2000000
+Christopher Hicks,56,Male,No,0,530274,Engineer,Yes,Yes,Yes,8,2,Yes,3,3,No,Health Insurance,99,51,76,44,49,36,77,29354,1000000
+Ryan Mcclain,63,Male,No,0,1763621,IT Professional,Yes,Yes,Yes,2,4,Yes,5,3,No,Vehicle Insurance,93,83,95,75,77,44,79,6961,500000
+Katie Rose,21,Female,Yes,3,2262132,Teacher,Yes,Yes,No,3,3,No,3,1,Yes,Home Insurance,57,77,76,63,95,98,99,37910,500000
+Cody Moreno Jr.,60,Female,No,4,634858,Government Employee,Yes,No,No,5,3,No,10,2,Yes,Travel Insurance,45,75,31,89,81,59,92,31154,200000
+Michael Johnson,45,Female,Yes,2,2122470,Doctor,No,No,No,1,1,No,12,5,No,Vehicle Insurance,74,53,98,65,86,69,35,20164,1000000
+Hannah Vargas,52,Female,No,1,2306164,Teacher,No,No,Yes,6,3,Yes,2,4,No,Home Insurance,65,61,42,61,66,26,60,16152,500000
+Toni Sawyer,32,Female,No,3,454751,Student,No,Yes,Yes,3,5,No,5,5,No,Health Insurance,88,40,38,85,37,48,50,35775,200000
+Sydney Evans,54,Female,No,4,2227238,Government Employee,Yes,Yes,Yes,4,2,Yes,8,1,No,Health Insurance,97,55,91,41,86,25,39,27289,2000000
+Kaylee Jackson,23,Female,No,1,2437444,Business,Yes,Yes,No,2,3,No,15,5,Yes,Health Insurance,98,98,30,50,95,55,64,5529,1000000
+James Cooper,53,Female,No,3,1730370,Engineer,No,Yes,No,3,5,No,12,4,No,Life Insurance,56,98,82,78,52,59,54,27354,5000000
+Steven Evans,32,Male,No,0,1504245,Business,Yes,Yes,Yes,3,0,Yes,4,2,No,Travel Insurance,65,54,30,100,74,69,80,8083,2000000
+Chad Mcgrath,44,Male,No,0,707914,Farmer,No,Yes,Yes,7,4,No,0,1,Yes,Travel Insurance,35,33,33,55,40,27,45,39355,500000
+Ashley Lopez,52,Female,Yes,3,2474146,Government Employee,Yes,Yes,No,7,2,Yes,6,5,No,Vehicle Insurance,54,31,92,87,62,49,71,47773,2000000
+Angel Vargas,47,Female,No,3,1717980,Student,No,Yes,Yes,8,3,Yes,3,2,Yes,Vehicle Insurance,52,88,96,78,30,66,55,45932,200000
+Joshua Walters,24,Male,No,0,688887,Business,No,Yes,No,5,4,No,14,5,No,Home Insurance,50,70,61,47,84,59,55,11842,200000
+Charles Wilson,65,Male,No,0,1336269,Doctor,Yes,No,No,7,2,No,1,2,No,Home Insurance,80,46,44,60,86,28,37,7024,500000
+Yvette Marshall,25,Female,Yes,4,1036628,Teacher,No,Yes,Yes,5,5,Yes,12,5,No,Home Insurance,71,77,32,53,97,57,75,40187,200000
+Jordan Ramirez,35,Male,No,0,352095,Doctor,Yes,Yes,Yes,8,5,No,15,5,No,Travel Insurance,53,48,64,84,73,58,65,13311,2000000
+Larry Price,58,Male,No,0,2245268,Lawyer,Yes,No,Yes,6,5,No,14,1,No,Travel Insurance,70,89,66,93,49,78,50,39369,2000000
+Ronald Phelps,49,Female,Yes,4,2375514,Lawyer,No,Yes,Yes,8,4,Yes,9,2,No,Health Insurance,77,36,51,35,69,25,98,35408,5000000
+Angela Parker,57,Female,No,1,880853,Government Employee,No,Yes,No,1,1,Yes,5,3,Yes,Health Insurance,96,80,82,32,65,41,75,5630,200000
+Kristi Watson,50,Female,Yes,2,1202331,Teacher,Yes,Yes,Yes,1,0,Yes,4,3,Yes,Home Insurance,34,33,45,62,80,53,93,18322,2000000
+Samantha Perez,31,Female,No,4,1923914,Lawyer,No,No,Yes,1,5,No,7,5,Yes,Life Insurance,33,92,52,75,50,91,49,42123,2000000
+Francis Wilson,32,Male,No,0,1683614,Government Employee,No,Yes,No,3,4,No,14,1,No,Vehicle Insurance,41,69,84,72,63,34,50,35420,2000000
+Larry Harrison,51,Female,Yes,2,1987644,IT Professional,Yes,No,No,3,3,No,0,3,No,Health Insurance,91,70,31,39,44,95,73,40622,1000000
+Sylvia Wright,26,Female,Yes,2,594072,Doctor,Yes,Yes,Yes,6,4,No,10,1,Yes,Home Insurance,66,65,44,41,91,95,83,46089,2000000
+Angela Patel,60,Male,No,0,1759115,Lawyer,Yes,No,Yes,6,5,No,3,3,Yes,Home Insurance,62,60,67,79,90,78,99,35061,1000000
+Taylor Stephens,34,Female,No,2,1139047,Government Employee,Yes,No,Yes,5,3,Yes,6,4,Yes,Travel Insurance,89,92,68,93,90,24,49,13976,2000000
+Jacob Mitchell,38,Male,No,0,1172615,Lawyer,Yes,Yes,No,1,5,No,0,5,Yes,Vehicle Insurance,81,81,82,39,80,60,47,37462,500000
+Michael Contreras,29,Male,No,0,784804,Government Employee,Yes,No,Yes,2,0,No,6,4,No,Life Insurance,74,83,72,76,36,82,54,35329,200000
+Danielle Anderson,60,Male,No,0,1765521,Business,Yes,No,Yes,3,2,Yes,2,1,No,Home Insurance,44,62,33,42,80,42,57,6690,200000
+Jo Wilson,63,Male,No,0,342120,Teacher,No,Yes,Yes,6,3,No,10,5,No,Life Insurance,72,95,94,44,48,85,41,26470,500000
+Amanda Hawkins,36,Male,No,0,1875215,Lawyer,No,No,Yes,7,2,No,1,4,Yes,Travel Insurance,52,51,85,91,87,30,58,37219,2000000
+Dr. Bradley Giles,63,Male,No,0,1966144,Student,Yes,No,Yes,7,2,No,12,2,Yes,Vehicle Insurance,67,43,88,51,70,29,90,22164,2000000
+Cheryl Butler MD,52,Male,No,0,1298627,Farmer,Yes,Yes,No,6,2,No,6,2,Yes,Life Insurance,57,73,31,38,62,72,62,9229,500000
+Lisa Duffy,57,Male,No,0,1325940,Doctor,No,Yes,No,5,5,No,15,5,No,Home Insurance,88,31,32,49,89,84,97,22123,200000
+Angela Parker,63,Male,No,0,1199504,IT Professional,No,No,No,1,0,No,8,2,No,Vehicle Insurance,84,55,90,59,47,91,86,46721,5000000
+David Pham,52,Male,No,0,1247403,Lawyer,Yes,No,Yes,6,4,Yes,7,2,No,Vehicle Insurance,57,52,76,35,65,43,49,7194,2000000
+Kelly Leon,27,Female,Yes,3,1107229,Lawyer,No,No,No,2,0,No,4,3,Yes,Home Insurance,62,62,52,67,90,67,43,13744,5000000
+Julie Sanders,41,Female,Yes,4,1118272,IT Professional,No,No,Yes,2,0,Yes,10,4,No,Health Insurance,91,64,41,68,58,82,59,11590,1000000
+Kenneth Parker,65,Male,No,0,2074976,Student,No,Yes,No,7,5,No,15,2,Yes,Home Insurance,64,49,44,54,78,50,91,18958,200000
+James Osborn,59,Female,No,2,663482,Lawyer,Yes,No,No,6,4,Yes,12,4,No,Home Insurance,37,46,66,72,91,96,90,16509,1000000
+Vincent Thomas,34,Male,No,0,1319147,Teacher,No,Yes,No,3,3,Yes,7,3,Yes,Home Insurance,89,87,67,41,96,51,67,6051,5000000
+Andrea Harper,21,Female,No,4,1556402,Business,No,No,Yes,2,5,Yes,5,5,No,Home Insurance,30,57,53,61,79,78,89,5648,5000000
+Randall Schroeder,54,Female,Yes,1,1290383,Engineer,Yes,Yes,No,2,2,Yes,2,2,Yes,Life Insurance,71,97,64,39,51,46,64,37931,1000000
+Denise Potter,23,Male,No,0,546437,Teacher,No,Yes,No,7,2,No,1,4,Yes,Travel Insurance,55,41,76,79,79,41,46,42103,5000000
+Steven Short,45,Female,No,3,1306353,Engineer,Yes,Yes,No,7,5,Yes,2,3,No,Home Insurance,75,30,44,62,96,80,84,22907,2000000
+Melissa Myers,50,Female,Yes,0,1915117,IT Professional,Yes,Yes,No,2,0,Yes,3,5,Yes,Travel Insurance,51,69,61,77,30,64,78,12626,5000000
+Kenneth Reed,64,Male,No,0,1916823,Business,Yes,Yes,No,5,0,Yes,4,4,No,Home Insurance,82,45,66,41,88,38,82,4465,5000000
+Valerie Grant,59,Male,No,0,1857051,Teacher,Yes,Yes,Yes,2,5,No,13,5,No,Vehicle Insurance,86,60,98,62,45,23,72,21513,200000
+Heather Alvarez,31,Female,No,3,2362508,Engineer,No,No,Yes,5,1,No,0,2,No,Health Insurance,87,68,60,37,56,67,60,24403,500000
+Kimberly Kelley,42,Male,No,0,378262,Business,No,No,Yes,4,2,No,15,3,Yes,Travel Insurance,34,55,62,96,93,76,91,12446,5000000
+Elizabeth Lara,23,Male,No,0,223034,Student,Yes,No,No,5,1,No,10,3,Yes,Home Insurance,33,53,54,52,88,64,40,25246,200000
+Jason Benson,42,Female,Yes,0,1538955,Lawyer,Yes,No,No,8,0,Yes,15,4,No,Life Insurance,43,94,69,35,53,29,97,28158,2000000
+Michael Roman,38,Female,No,1,265336,Doctor,Yes,Yes,Yes,8,5,No,0,4,Yes,Health Insurance,95,59,77,93,93,67,47,15587,1000000
+Alexandra Johnson,54,Male,No,0,1366615,IT Professional,Yes,No,Yes,1,2,Yes,5,2,Yes,Home Insurance,30,75,52,33,79,39,81,3516,1000000
+Tonya King,40,Male,No,0,516440,Engineer,No,No,No,1,4,No,6,5,No,Home Insurance,40,35,43,91,95,71,94,31259,2000000
+Anthony Perez,64,Male,No,0,1334583,IT Professional,Yes,No,No,4,0,No,7,2,Yes,Home Insurance,53,40,53,56,63,43,78,6279,200000
+Karen Martinez,31,Female,No,0,1369402,IT Professional,Yes,No,No,7,4,No,1,4,Yes,Health Insurance,96,70,46,74,56,20,80,37913,2000000
+Edward Grant,24,Male,No,0,1520585,Teacher,No,Yes,No,2,1,No,15,3,Yes,Travel Insurance,53,52,54,78,38,97,83,49306,200000
+Jillian Giles,47,Female,No,0,1377245,Farmer,Yes,Yes,No,8,5,No,5,1,Yes,Travel Insurance,81,84,90,95,38,80,49,49948,5000000
+Mark Anderson,40,Male,No,0,2414781,Engineer,No,No,No,6,0,Yes,15,1,No,Home Insurance,51,31,54,78,97,93,99,43732,5000000
+Eric Montgomery,44,Male,No,0,440723,Lawyer,No,No,Yes,4,0,Yes,9,4,Yes,Life Insurance,53,98,98,58,34,44,56,44528,1000000
+Cindy Woods,34,Male,No,0,878027,Student,No,No,Yes,5,2,No,11,2,No,Life Insurance,51,76,70,33,45,75,86,6828,1000000
+Crystal Henderson,21,Female,Yes,1,2015901,Teacher,No,No,No,1,3,Yes,12,4,No,Vehicle Insurance,46,91,98,69,38,40,43,48116,2000000
+James Watson,23,Male,No,0,1953105,Government Employee,Yes,Yes,Yes,1,2,Yes,6,4,Yes,Travel Insurance,89,46,33,96,34,84,47,26534,5000000
+Brandon Roberts,45,Female,Yes,3,1082404,IT Professional,No,No,Yes,8,4,No,15,1,Yes,Life Insurance,32,90,47,72,38,79,61,6896,500000
+Brittany Hill,62,Male,No,0,2066810,Teacher,Yes,Yes,No,3,5,No,1,1,No,Home Insurance,59,35,98,66,99,79,77,23564,2000000
+Maria Morgan,61,Male,No,0,1826510,Teacher,No,No,Yes,4,0,Yes,1,3,No,Health Insurance,62,61,59,36,45,31,68,40990,2000000
+James Taylor,58,Male,No,0,1617330,Teacher,No,No,No,1,4,No,13,1,No,Vehicle Insurance,74,68,90,75,44,63,43,38731,1000000
+Charles Wood,26,Male,No,0,1027568,IT Professional,Yes,No,Yes,3,4,No,2,4,No,Life Insurance,71,99,89,78,45,50,49,8967,5000000
+Jared Watson,57,Male,No,0,1903230,Student,No,Yes,No,8,2,No,10,1,Yes,Travel Insurance,67,76,52,80,68,51,70,4595,200000
+Amy White,28,Male,No,0,578544,IT Professional,No,No,No,7,3,No,10,4,Yes,Life Insurance,33,91,78,43,51,92,63,4863,200000
+Jason Jones,64,Male,No,0,2364810,Doctor,No,No,No,2,0,No,15,5,Yes,Health Insurance,100,97,54,70,66,77,59,19904,2000000
+Douglas Gomez,28,Male,No,0,1018413,Government Employee,Yes,Yes,Yes,3,4,No,2,3,No,Travel Insurance,34,45,41,52,43,42,99,38365,1000000
+Micheal Johns,37,Male,No,0,928032,Student,Yes,Yes,Yes,8,1,Yes,12,2,No,Home Insurance,84,85,44,80,90,82,72,35525,200000
+Vincent Brady,38,Female,Yes,0,1333913,Government Employee,Yes,No,No,1,2,No,3,5,Yes,Travel Insurance,74,48,55,97,56,21,36,28914,200000
+Jesse Gomez,24,Female,Yes,4,1696030,Government Employee,No,No,Yes,1,2,No,10,5,No,Home Insurance,98,37,55,61,100,30,57,17249,1000000
+James Mann,61,Male,No,0,795897,Lawyer,No,Yes,No,1,4,No,0,2,Yes,Vehicle Insurance,49,80,82,53,45,52,67,12389,500000
+Michael Brown,44,Female,No,0,2075015,Engineer,Yes,No,No,5,1,No,8,2,No,Home Insurance,45,40,83,53,91,82,60,19960,5000000
+Angela Manning,26,Female,No,2,1378645,Government Employee,Yes,No,No,4,1,Yes,2,4,No,Travel Insurance,45,56,62,81,65,39,96,49255,2000000
+Michael Johnson,62,Female,No,3,1374395,Farmer,Yes,Yes,Yes,2,2,Yes,13,1,No,Health Insurance,93,79,55,56,64,68,64,47844,200000
+Luis Hart,50,Male,No,0,607681,Student,Yes,Yes,No,8,0,Yes,15,5,No,Health Insurance,99,62,82,32,98,38,44,25361,500000
+Michael Thompson,55,Female,Yes,3,2083166,Teacher,Yes,No,No,8,4,Yes,14,3,No,Home Insurance,56,55,32,35,94,69,62,25489,200000
+James Miller,30,Male,No,0,1325852,Government Employee,No,No,Yes,3,3,No,2,5,Yes,Life Insurance,77,81,41,58,40,92,44,44277,500000
+Sandra Vega,35,Female,No,3,2096706,Engineer,No,No,No,6,2,No,7,3,Yes,Travel Insurance,32,83,36,94,75,36,85,19850,500000
+Steven Rivera,62,Female,Yes,3,607024,Business,Yes,No,No,8,2,No,7,1,No,Vehicle Insurance,71,36,94,85,62,45,53,16599,2000000
+Jonathan Clements,47,Female,No,1,908073,Lawyer,Yes,No,Yes,7,3,Yes,14,2,Yes,Life Insurance,85,94,34,80,58,26,90,45528,2000000
+Jocelyn Hendrix,57,Female,Yes,3,232272,Lawyer,Yes,No,No,6,4,No,2,1,Yes,Health Insurance,100,39,66,39,72,62,77,15147,5000000
+Dustin Cherry,54,Female,No,2,786864,Doctor,No,No,No,3,0,No,12,3,Yes,Vehicle Insurance,40,65,69,45,68,30,45,13920,500000
+Todd Cooper,43,Female,No,1,241641,Doctor,Yes,Yes,No,6,5,No,0,5,No,Health Insurance,99,72,93,72,78,34,100,38576,1000000
+Elizabeth Taylor,54,Male,No,0,811742,Teacher,Yes,No,Yes,4,3,No,9,5,No,Travel Insurance,51,83,35,98,74,83,57,45263,5000000
+Mary Washington,30,Male,No,0,1476627,Government Employee,No,No,Yes,4,1,Yes,9,5,No,Home Insurance,32,84,72,81,91,70,62,13627,2000000
+Carol Cruz,34,Female,No,3,1157607,Lawyer,No,Yes,No,3,1,No,2,2,No,Home Insurance,32,40,76,77,79,43,98,29767,200000
+Emily Wilson,54,Male,No,0,1572913,Student,No,No,No,8,5,Yes,12,4,Yes,Life Insurance,60,100,70,63,46,70,59,35091,2000000
+Jeffrey Curry,31,Female,Yes,1,2397500,Student,Yes,No,No,7,2,No,3,1,No,Life Insurance,95,100,63,79,44,49,59,21242,500000
+Danielle Bailey,59,Male,No,0,1928822,Lawyer,Yes,Yes,Yes,3,1,No,0,5,Yes,Life Insurance,64,99,65,36,85,91,65,39827,200000
+Adrienne Gomez,60,Male,No,0,2266075,IT Professional,Yes,No,Yes,6,1,Yes,7,3,Yes,Travel Insurance,68,70,59,94,43,48,96,30612,1000000
+Nicole Cook,57,Male,No,0,375389,Engineer,Yes,No,No,2,5,No,5,2,Yes,Health Insurance,100,62,43,31,45,71,42,39389,200000
+Kathy Mason,46,Male,No,0,2343111,Engineer,Yes,Yes,No,1,3,Yes,2,2,No,Travel Insurance,76,72,55,81,55,77,67,2404,1000000
+Ernest Ray,43,Female,Yes,0,2235168,Student,No,Yes,No,6,3,No,13,2,Yes,Life Insurance,72,92,49,38,67,83,74,5609,1000000
+Kimberly Garcia,50,Female,Yes,4,1251627,Business,No,Yes,Yes,6,3,Yes,10,1,Yes,Health Insurance,88,78,80,69,64,78,70,5182,2000000
+Brandon Martin,39,Male,No,0,2131140,Teacher,Yes,No,No,2,2,No,13,4,No,Home Insurance,45,50,59,37,63,25,83,47838,200000
+Laura Strong,47,Male,No,0,1076203,Farmer,No,Yes,No,8,3,Yes,6,1,Yes,Travel Insurance,34,69,31,81,41,57,43,27615,200000
+Tara Myers,60,Male,No,0,687682,Farmer,No,Yes,No,1,4,Yes,5,3,Yes,Vehicle Insurance,78,50,99,50,80,35,66,16245,2000000
+Lisa Carlson,32,Female,Yes,2,600866,Student,No,No,No,1,1,No,8,2,Yes,Health Insurance,100,59,80,32,74,28,56,24636,2000000
+Charles Brewer,52,Female,No,2,1267443,Government Employee,Yes,Yes,No,1,2,Yes,7,2,Yes,Health Insurance,94,44,49,94,67,71,43,45100,1000000
+David Simpson,59,Male,No,0,1884227,Lawyer,No,Yes,Yes,7,0,No,4,3,Yes,Health Insurance,80,47,57,73,31,38,54,37688,2000000
+Nancy Cohen,42,Male,No,0,1095469,Teacher,No,No,No,2,2,Yes,10,1,No,Health Insurance,86,46,63,68,42,60,71,19568,5000000
+Joyce Barnes,20,Female,Yes,3,1939822,Doctor,Yes,No,Yes,3,4,No,0,1,Yes,Home Insurance,43,56,74,90,96,75,82,19259,2000000
+Bridget Mayer,34,Female,No,2,775677,Lawyer,No,No,Yes,5,3,Yes,14,4,Yes,Vehicle Insurance,49,81,89,41,64,21,81,29130,2000000
+Holly Gallagher,44,Female,No,1,1944621,Business,Yes,Yes,Yes,2,2,Yes,14,4,No,Health Insurance,95,59,47,67,57,23,59,43089,2000000
+Paula Obrien,42,Female,Yes,0,779020,Teacher,No,Yes,No,6,5,No,2,2,Yes,Vehicle Insurance,87,52,99,52,31,42,47,48594,500000
+Kelly Adams,48,Male,No,0,1764154,Government Employee,Yes,Yes,Yes,1,5,Yes,12,5,No,Life Insurance,67,100,93,30,52,59,57,28865,1000000
+Jeffrey Orr,40,Female,No,0,1161624,Lawyer,No,No,Yes,2,5,No,0,3,No,Vehicle Insurance,78,80,94,85,50,50,92,37179,500000
+David Galvan,18,Male,No,0,1184271,Lawyer,No,Yes,Yes,7,4,No,4,4,Yes,Health Insurance,93,77,41,78,56,50,42,28229,500000
+Jordan Kim,55,Male,No,0,2162723,Government Employee,Yes,Yes,No,4,0,No,14,2,Yes,Health Insurance,68,60,43,53,59,52,58,41463,200000
+Andrea Stephens,48,Female,Yes,4,1927540,Government Employee,Yes,No,No,8,5,No,14,2,Yes,Life Insurance,87,98,45,63,68,61,65,14245,1000000
+Mark Harvey,54,Female,Yes,2,2024963,Government Employee,No,Yes,Yes,4,5,No,10,4,Yes,Life Insurance,67,99,82,47,68,53,44,38110,2000000
+Andrew Lopez,38,Female,Yes,0,845703,Engineer,No,No,Yes,1,1,Yes,6,5,Yes,Home Insurance,95,61,37,79,100,23,46,35130,2000000
+David Cook,56,Male,No,0,301001,Student,No,No,No,1,5,Yes,1,4,No,Vehicle Insurance,30,47,93,31,57,62,34,13655,500000
+Carlos Peters,49,Male,No,0,1481975,Lawyer,No,Yes,No,3,5,Yes,13,4,Yes,Vehicle Insurance,35,52,80,35,74,20,99,49827,500000
+James Carpenter,40,Male,No,0,2206507,Farmer,Yes,No,No,4,1,Yes,12,3,No,Home Insurance,89,76,79,53,97,62,63,17566,1000000
+Sharon Kramer,40,Male,No,0,1107627,Lawyer,Yes,Yes,No,8,3,No,4,3,No,Home Insurance,67,56,40,47,76,83,48,6774,1000000
+Drew Key,18,Male,No,0,592224,Engineer,Yes,Yes,Yes,4,0,Yes,2,2,No,Health Insurance,77,51,37,64,63,46,35,23890,1000000
+Jessica Cordova,46,Female,No,4,1709246,Business,Yes,No,Yes,1,5,Yes,0,4,Yes,Life Insurance,49,66,60,31,40,21,95,46141,500000
+Christine Butler,31,Female,No,0,1117351,Lawyer,Yes,No,Yes,4,1,Yes,8,2,Yes,Life Insurance,75,88,49,63,70,41,85,42237,5000000
+Lisa Cline,33,Male,No,0,442940,Teacher,No,No,No,7,1,No,2,3,Yes,Travel Insurance,83,84,32,95,84,21,43,11155,5000000
+Angela Vaughn,21,Male,No,0,2214357,Business,No,No,No,3,3,No,8,3,Yes,Health Insurance,99,43,63,56,52,41,98,41385,500000
+Laura Moon,34,Male,No,0,2223267,Engineer,No,No,Yes,7,0,No,15,5,No,Health Insurance,87,69,60,55,36,61,45,7458,200000
+Steven Pearson,38,Male,No,0,1276086,Doctor,No,No,No,7,1,Yes,12,1,Yes,Life Insurance,92,94,40,91,84,61,100,23077,200000
+Jack Cole,31,Male,No,0,1835658,Doctor,Yes,Yes,No,8,1,Yes,3,5,Yes,Life Insurance,65,66,34,31,38,69,45,8076,2000000
+Tracey Harris,26,Female,Yes,0,2020590,Teacher,No,Yes,Yes,2,3,No,11,3,Yes,Vehicle Insurance,64,52,92,46,74,85,84,27730,2000000
+Daniel Coleman,64,Male,No,0,1660400,Farmer,No,No,Yes,1,3,Yes,7,1,Yes,Home Insurance,67,47,54,93,95,42,76,7038,5000000
+David Martin,33,Female,Yes,1,539849,Farmer,No,Yes,Yes,6,1,No,12,2,No,Health Insurance,83,72,68,45,74,50,98,44909,5000000
+Shane Norman,25,Female,No,2,2161169,Teacher,No,No,Yes,5,2,No,11,3,Yes,Life Insurance,88,98,98,66,84,66,93,47294,2000000
+Daniel Foster,18,Female,Yes,0,2057859,IT Professional,No,Yes,No,4,1,Yes,9,4,No,Life Insurance,48,89,49,54,67,20,52,43912,1000000
+Curtis Wagner,54,Female,Yes,4,1344695,Farmer,No,No,No,8,3,No,0,5,No,Health Insurance,85,51,41,71,44,26,34,12445,200000
+Michele Cervantes,46,Male,No,0,504707,Government Employee,Yes,Yes,No,8,1,No,5,4,Yes,Vehicle Insurance,44,60,67,58,35,73,74,31365,5000000
+Raymond Cisneros,43,Male,No,0,1053485,Lawyer,No,No,Yes,2,3,Yes,11,4,Yes,Home Insurance,57,90,34,88,91,66,74,49097,200000
+David Galloway,56,Female,Yes,0,203440,Business,Yes,Yes,Yes,6,0,Yes,7,5,No,Travel Insurance,46,45,39,62,57,55,31,44442,500000
+Kathy Hall,65,Female,Yes,2,1299517,Government Employee,No,No,Yes,6,1,Yes,6,4,No,Vehicle Insurance,62,50,98,98,78,86,60,31179,1000000
+Isaac Johnson,33,Female,Yes,4,1236992,Lawyer,Yes,No,Yes,8,1,No,12,3,No,Home Insurance,47,39,41,41,90,93,86,46161,500000
+Steven Hall,19,Male,No,0,1154389,IT Professional,Yes,No,No,5,5,Yes,9,3,No,Home Insurance,38,77,62,60,91,72,61,43407,5000000
+Phillip Delacruz,50,Female,No,4,2146943,Teacher,Yes,Yes,No,4,4,Yes,15,5,Yes,Travel Insurance,39,61,52,62,42,47,38,7357,200000
+Laura Obrien,23,Female,Yes,1,1377696,Government Employee,No,Yes,No,4,2,Yes,2,3,Yes,Home Insurance,66,81,92,55,96,29,41,38078,2000000
+John Flores,21,Female,Yes,2,412766,Government Employee,No,No,Yes,7,0,No,0,5,No,Life Insurance,53,84,38,75,32,66,53,25441,1000000
+David Robinson,45,Male,No,0,1139641,Business,No,Yes,Yes,4,5,No,2,3,No,Home Insurance,36,75,63,31,95,100,88,4887,1000000
+Thomas Brown,35,Female,Yes,1,476567,Business,No,No,Yes,6,0,No,14,4,No,Vehicle Insurance,59,64,91,51,82,62,44,33250,200000
+Barbara Farley,35,Male,No,0,945231,Farmer,Yes,Yes,Yes,3,5,No,13,3,No,Home Insurance,68,75,45,76,100,65,91,28091,500000
+Cathy Hammond,24,Male,No,0,820888,IT Professional,Yes,Yes,Yes,8,5,No,12,5,Yes,Travel Insurance,74,40,77,79,41,43,78,42657,5000000
+Christopher Lopez,54,Female,Yes,4,414962,Farmer,No,Yes,Yes,6,4,No,4,5,No,Home Insurance,48,43,53,52,62,26,67,39550,500000
+Daniel Newton,58,Female,No,4,381446,Government Employee,Yes,No,No,8,1,Yes,1,3,No,Vehicle Insurance,70,62,88,33,48,40,53,11539,1000000
+Ruth Mueller,32,Male,No,0,1457027,Government Employee,No,Yes,Yes,4,3,Yes,9,1,No,Health Insurance,93,93,42,61,51,100,51,47188,2000000
+Tara Crawford,19,Female,No,1,1564586,Engineer,No,No,No,5,1,Yes,4,2,Yes,Life Insurance,39,99,40,91,30,28,60,39603,1000000
+Michelle Jacobs,40,Female,Yes,0,2246020,Teacher,No,No,No,6,2,Yes,2,3,Yes,Home Insurance,33,43,56,44,72,94,68,40230,5000000
+Emily Petersen,51,Female,Yes,1,2404708,Business,Yes,No,Yes,6,5,No,13,2,Yes,Travel Insurance,37,95,39,100,75,91,74,34542,5000000
+David Marshall,40,Male,No,0,313041,Student,No,Yes,Yes,8,0,Yes,9,4,Yes,Home Insurance,58,88,80,94,96,36,52,8692,2000000
+Krista Morales,22,Female,No,3,1406167,Business,No,No,Yes,5,1,No,14,2,Yes,Travel Insurance,72,35,31,89,42,94,93,4410,200000
+Lindsay Hernandez,26,Female,No,1,1099852,Doctor,Yes,Yes,Yes,1,0,No,5,3,No,Life Insurance,75,89,78,75,58,40,45,12591,2000000
+Andrew Munoz,58,Female,No,0,1333142,Doctor,No,No,No,4,3,No,8,5,Yes,Health Insurance,86,39,86,50,50,52,48,5654,1000000
+Julia Thomas,58,Male,No,0,943917,IT Professional,Yes,No,Yes,7,3,Yes,2,1,Yes,Life Insurance,35,82,78,61,33,93,89,37326,500000
+Diane Thomas,38,Male,No,0,1509858,IT Professional,No,No,No,3,3,No,13,4,Yes,Travel Insurance,47,56,31,100,57,83,94,35454,500000
+Bruce Perez,29,Female,Yes,4,734208,Farmer,No,Yes,Yes,8,2,Yes,9,5,Yes,Health Insurance,95,46,66,44,60,77,54,34881,2000000
+Jesse Garrison,45,Male,No,0,437669,Farmer,Yes,No,Yes,6,3,No,8,3,No,Travel Insurance,74,53,42,75,61,40,58,19093,200000
+Jessica Moore,58,Male,No,0,320312,Business,Yes,No,Yes,4,2,Yes,14,4,Yes,Life Insurance,36,87,84,77,85,76,41,30325,2000000
+Jerry Baker,62,Female,No,3,2185502,Doctor,Yes,Yes,Yes,5,1,No,3,5,Yes,Vehicle Insurance,69,36,78,30,75,89,89,45446,1000000
+Joseph Hansen,36,Male,No,0,1100316,Doctor,No,Yes,Yes,1,1,No,7,1,Yes,Life Insurance,66,90,69,32,77,52,50,23432,500000
+Karen Ayers,25,Male,No,0,1880071,Lawyer,No,No,No,4,3,Yes,6,1,Yes,Life Insurance,51,82,77,56,76,47,53,15514,5000000
+Lance Joseph,33,Female,No,2,2368482,Lawyer,Yes,No,No,5,1,No,2,2,Yes,Travel Insurance,34,65,45,72,39,33,36,11295,200000
+Blake Barton,41,Female,Yes,0,601479,Doctor,No,No,Yes,4,3,Yes,3,1,No,Travel Insurance,50,43,68,100,80,37,31,13999,5000000
+Derrick Alexander,53,Female,Yes,4,1282065,Student,No,No,Yes,5,1,No,0,5,No,Life Insurance,54,79,61,43,42,32,76,2091,200000
+Christina Keller,50,Male,No,0,1629810,IT Professional,Yes,Yes,No,3,5,No,3,5,Yes,Life Insurance,35,94,44,60,49,94,63,28713,500000
+Jessica Scott,63,Female,No,1,683686,IT Professional,No,Yes,Yes,2,5,Yes,3,4,No,Vehicle Insurance,54,52,86,75,67,39,61,39754,200000
+Cindy Powers,52,Male,No,0,1113689,Government Employee,No,Yes,No,2,1,No,7,1,Yes,Life Insurance,63,76,63,36,72,61,46,23213,1000000
+Priscilla Mendoza,47,Female,No,3,309020,Lawyer,No,No,Yes,1,1,No,1,2,Yes,Life Insurance,39,87,69,78,82,65,65,14792,200000
+Joseph Ramos,25,Male,No,0,976725,Student,No,No,Yes,7,3,No,3,5,No,Travel Insurance,67,48,59,79,61,44,42,7316,5000000
+Sean Jenkins,61,Female,No,4,837068,Government Employee,Yes,Yes,Yes,4,2,Yes,0,5,Yes,Home Insurance,31,93,56,75,100,47,53,46151,500000
+Gary Santana,46,Male,No,0,777597,Student,Yes,Yes,No,8,0,No,0,1,No,Home Insurance,33,49,73,89,90,100,55,10726,2000000
+Courtney Johnston,64,Female,No,3,1926118,Doctor,No,No,No,2,2,Yes,15,4,No,Vehicle Insurance,32,84,95,66,71,98,70,43462,500000
+Troy Wilcox,37,Female,Yes,4,701974,Doctor,Yes,No,Yes,7,4,No,13,3,No,Home Insurance,66,56,62,45,68,56,67,48298,1000000
+Melanie Johnson,23,Female,No,2,307945,Teacher,No,No,Yes,6,5,No,12,1,No,Life Insurance,68,95,45,51,77,66,87,34961,5000000
+Kathryn Kelley,47,Male,No,0,821185,Student,Yes,Yes,No,7,4,Yes,6,5,Yes,Health Insurance,66,60,31,51,43,84,63,31174,2000000
+Mrs. Haley Wade,25,Male,No,0,1982057,IT Professional,Yes,Yes,No,3,5,Yes,5,2,No,Home Insurance,59,74,62,64,84,68,40,14959,5000000
+William Brown,22,Female,No,0,1637836,IT Professional,Yes,No,No,8,5,No,14,1,No,Travel Insurance,72,60,57,95,36,28,84,23686,2000000
+Mr. Jermaine Ramsey Jr.,34,Female,No,2,1578391,Engineer,Yes,No,Yes,4,2,No,9,3,Yes,Health Insurance,85,81,58,48,35,92,86,44046,2000000
+Nathaniel Vargas,46,Female,Yes,1,447421,IT Professional,No,No,Yes,8,2,Yes,4,2,Yes,Home Insurance,95,78,49,59,98,28,83,41930,5000000
+Danielle Hicks,61,Male,No,0,384537,Student,Yes,No,Yes,3,5,Yes,13,4,No,Life Insurance,36,67,45,33,61,66,33,42888,1000000
+Diane Miller,48,Male,No,0,1809650,Doctor,Yes,No,No,8,4,No,8,5,Yes,Vehicle Insurance,84,67,90,37,41,95,64,6066,200000
+Joshua Osborn,54,Male,No,0,830885,Government Employee,No,Yes,Yes,6,5,Yes,11,5,Yes,Travel Insurance,48,51,47,87,53,60,63,15346,200000
+Sergio Crawford,58,Male,No,0,473890,Government Employee,Yes,Yes,Yes,1,0,No,4,5,Yes,Health Insurance,90,48,70,78,67,100,56,12412,5000000
+Julie Wilson,32,Male,No,0,207323,Business,Yes,No,No,6,2,Yes,1,5,No,Travel Insurance,39,43,69,87,77,25,45,29886,500000
+Mary Orozco,44,Female,No,0,290736,Farmer,No,No,Yes,8,5,Yes,7,5,Yes,Travel Insurance,56,59,58,72,35,88,67,6148,5000000
+Teresa Johnson,51,Female,Yes,1,2237431,Engineer,Yes,Yes,Yes,3,4,No,7,3,Yes,Vehicle Insurance,65,54,97,88,94,46,45,13527,500000
+Mary Delacruz,44,Female,No,4,363810,IT Professional,Yes,Yes,Yes,5,4,Yes,7,1,No,Life Insurance,55,76,50,45,42,94,96,48256,1000000
+Daniel Walters,53,Male,No,0,555019,Farmer,No,No,Yes,6,2,Yes,6,5,Yes,Vehicle Insurance,63,96,100,81,57,57,81,30040,5000000
+John Brown,44,Male,No,0,315663,Farmer,No,Yes,No,4,2,Yes,13,2,Yes,Vehicle Insurance,92,92,96,87,87,93,84,38653,5000000
+Aaron Mccormick,26,Male,No,0,754665,Doctor,Yes,No,Yes,8,4,No,3,1,Yes,Health Insurance,85,72,55,72,66,72,35,42737,200000
+Justin May,25,Female,Yes,3,2391463,Teacher,Yes,Yes,Yes,7,4,No,9,3,No,Life Insurance,71,99,36,66,99,20,50,15812,200000
+Karen Wright,61,Female,No,4,1281342,Farmer,Yes,Yes,No,6,3,No,10,4,No,Health Insurance,74,60,36,30,38,21,75,5261,1000000
+Kathy Ellis,19,Male,No,0,246051,Lawyer,Yes,Yes,Yes,7,3,No,14,4,Yes,Health Insurance,89,45,31,84,44,33,57,31930,200000
+Victoria Pope,50,Male,No,0,1035120,Farmer,Yes,Yes,Yes,4,0,No,15,5,Yes,Health Insurance,61,37,33,50,53,71,32,40426,2000000
+Stephanie Mcdowell,58,Male,No,0,944794,Student,Yes,Yes,Yes,6,0,Yes,4,1,Yes,Travel Insurance,70,83,71,93,71,46,45,25600,500000
+Jasmine Carey,23,Female,Yes,0,949141,Lawyer,No,No,Yes,3,2,Yes,6,4,Yes,Life Insurance,33,98,77,82,44,39,80,4354,5000000
+Kyle Wilcox,18,Male,No,0,264626,Student,No,No,Yes,2,5,No,6,2,Yes,Life Insurance,61,95,37,86,52,61,31,16971,1000000
+Larry Brown,39,Male,No,0,1174827,Business,No,Yes,Yes,7,5,Yes,8,2,Yes,Home Insurance,62,85,47,59,87,47,65,3195,1000000
+Jane Jacobs,59,Female,Yes,1,1381484,Farmer,No,Yes,No,7,1,No,11,1,Yes,Health Insurance,98,78,61,65,69,98,61,9093,1000000
+John Johnson,28,Female,No,4,499728,IT Professional,Yes,No,No,5,0,Yes,9,5,Yes,Life Insurance,63,95,66,45,43,45,72,18874,2000000
+Matthew Bauer,18,Male,No,0,1905334,Government Employee,Yes,Yes,No,8,3,No,14,2,No,Health Insurance,93,57,48,38,36,79,39,47015,500000
+James Thomas,26,Female,No,0,2053435,Engineer,No,No,Yes,2,4,Yes,8,4,No,Health Insurance,91,47,40,45,61,85,68,47070,200000
+Heidi Cervantes,38,Male,No,0,949320,Engineer,No,Yes,No,2,5,Yes,4,4,No,Vehicle Insurance,44,34,100,62,77,20,58,21319,200000
+Renee Henderson,54,Female,No,0,427378,Farmer,Yes,Yes,No,6,3,No,12,4,No,Health Insurance,94,89,81,83,83,23,35,36542,2000000
+Daniel Krueger,33,Female,Yes,1,2048004,IT Professional,No,Yes,Yes,5,2,No,13,5,Yes,Life Insurance,54,97,74,50,62,81,62,9267,2000000
+Brenda Lyons,47,Female,No,3,2251354,Engineer,Yes,No,No,2,3,No,7,3,No,Home Insurance,44,80,76,43,91,84,56,42578,2000000
+Jason Yang,35,Female,No,3,1787825,Farmer,No,No,Yes,2,4,No,5,2,No,Vehicle Insurance,38,70,89,67,51,98,82,38083,5000000
+Daniel Wilson,38,Male,No,0,1925000,Student,No,No,Yes,8,1,Yes,6,2,Yes,Health Insurance,97,87,67,58,59,30,76,29321,200000
+Laura Wolfe,52,Female,Yes,1,224890,Farmer,Yes,Yes,Yes,5,4,Yes,3,4,Yes,Health Insurance,97,76,67,59,76,32,68,49934,200000
+Maureen Brown,48,Male,No,0,867369,Doctor,No,No,Yes,4,5,No,10,4,Yes,Health Insurance,84,53,74,61,58,46,100,42715,5000000
+Eric Bradford,40,Male,No,0,1063293,Doctor,Yes,No,Yes,7,4,No,15,2,No,Home Insurance,44,48,65,38,89,88,74,23480,1000000
+Yolanda Hughes,20,Female,No,1,1473653,Teacher,Yes,No,Yes,6,2,No,11,3,No,Vehicle Insurance,48,35,64,60,43,44,42,41698,5000000
+Lynn Nichols,18,Male,No,0,2353566,Business,No,No,Yes,1,3,No,10,2,Yes,Life Insurance,81,84,40,58,43,26,46,17724,200000
+Travis Rivera,55,Female,No,1,403338,Engineer,No,No,Yes,3,2,No,3,4,Yes,Vehicle Insurance,38,31,90,53,35,70,48,27342,500000
+Theresa Mckinney,39,Male,No,0,1588548,Government Employee,Yes,Yes,No,7,4,Yes,13,2,Yes,Health Insurance,63,36,58,37,31,70,72,7729,500000
+Alan Woods,40,Male,No,0,961182,Farmer,Yes,Yes,No,4,5,Yes,14,2,No,Health Insurance,85,76,40,76,71,53,41,3403,5000000
+Megan Meyer,38,Female,Yes,0,247305,Teacher,No,Yes,No,8,0,Yes,1,2,Yes,Health Insurance,92,92,39,57,41,66,80,33974,500000
+Terry Burton,52,Female,No,3,2022351,Lawyer,No,No,No,1,4,Yes,1,1,No,Vehicle Insurance,33,66,95,39,75,64,97,33220,200000
+Michael Hill,47,Female,Yes,4,1565145,Government Employee,No,No,No,6,2,Yes,6,5,No,Health Insurance,99,77,82,71,54,87,65,40777,5000000
+Michael Gonzales,20,Male,No,0,534841,Lawyer,No,Yes,Yes,1,2,Yes,9,5,No,Travel Insurance,33,96,70,100,99,56,76,24063,200000
+Tina Wallace,59,Female,Yes,1,2427607,Farmer,No,Yes,No,7,2,Yes,10,3,No,Life Insurance,32,94,38,65,78,62,81,14534,5000000
+Shane Miller,47,Male,No,0,1697190,Student,No,No,Yes,6,4,Yes,8,3,Yes,Home Insurance,42,43,43,34,94,44,31,31225,2000000
+Philip Reynolds,35,Female,No,2,252348,Teacher,Yes,Yes,Yes,3,4,Yes,2,4,No,Vehicle Insurance,66,42,95,90,76,59,75,34845,1000000
+Rodney Smith,18,Female,No,4,1826944,Government Employee,Yes,Yes,Yes,4,4,Yes,13,5,Yes,Health Insurance,97,32,32,68,41,26,84,5454,1000000
+Daniel Garcia,36,Female,Yes,1,404776,Doctor,Yes,Yes,Yes,7,4,Yes,4,3,Yes,Health Insurance,66,50,58,33,31,58,74,38580,2000000
+Brittany Weaver,65,Male,No,0,937205,Engineer,Yes,No,No,8,4,Yes,12,4,Yes,Life Insurance,54,98,38,94,58,28,100,21859,1000000
+Aaron Williams,27,Male,No,0,2170630,Business,No,No,Yes,5,4,Yes,14,3,No,Home Insurance,79,48,49,45,98,22,45,23859,500000
+Kelly Harrison,54,Female,No,2,2409361,Lawyer,No,No,No,5,1,Yes,12,3,Yes,Health Insurance,97,42,84,40,48,22,65,12096,5000000
+Glen Lee,61,Female,Yes,2,1790388,Business,No,Yes,Yes,2,0,No,5,1,No,Travel Insurance,87,90,91,96,32,56,38,38406,1000000
+Elizabeth Rangel,48,Female,No,2,1326063,Farmer,Yes,Yes,No,6,3,Yes,11,4,Yes,Health Insurance,100,69,41,92,34,40,35,9164,500000
+Michael Spencer,44,Female,No,3,1102191,IT Professional,Yes,Yes,No,6,5,Yes,12,2,Yes,Travel Insurance,80,43,87,90,82,41,96,41243,5000000
+Diane Acosta,53,Male,No,0,204872,Teacher,Yes,Yes,Yes,7,2,No,13,3,Yes,Health Insurance,70,66,70,54,62,88,62,33751,500000
+Rodney Williams,44,Male,No,0,1537005,Lawyer,Yes,No,Yes,6,0,Yes,11,5,No,Life Insurance,71,99,34,97,71,26,63,17539,200000
+Erica Robinson,23,Male,No,0,2348272,Engineer,Yes,Yes,No,2,4,Yes,9,1,No,Vehicle Insurance,56,69,95,59,84,63,37,41601,1000000
+Christine Jones,65,Male,No,0,214056,Teacher,No,Yes,No,8,4,Yes,15,5,Yes,Health Insurance,76,64,73,54,76,58,47,2974,2000000
+Kurt Robbins,21,Male,No,0,1023839,Lawyer,Yes,No,Yes,4,3,Yes,4,3,Yes,Travel Insurance,77,57,59,92,48,78,45,27725,2000000
+Lindsay Mcneil,26,Male,No,0,2341010,Lawyer,No,Yes,Yes,5,0,Yes,0,4,No,Home Insurance,70,52,63,69,83,90,55,7341,200000
+Michael Coffey,54,Female,Yes,4,1901377,Engineer,Yes,No,Yes,7,2,Yes,4,1,Yes,Vehicle Insurance,92,70,94,56,88,90,30,30697,5000000
+Tina Lee,46,Male,No,0,2375940,Lawyer,Yes,No,No,5,4,No,0,4,Yes,Home Insurance,64,71,74,57,78,51,93,11521,500000
+Vicki Thompson,44,Male,No,0,1913443,Government Employee,Yes,No,Yes,5,4,Yes,7,3,No,Home Insurance,66,51,34,70,73,33,38,47987,5000000
+Gregory Yu,63,Female,No,4,762400,Farmer,Yes,Yes,Yes,5,5,Yes,4,4,Yes,Vehicle Insurance,91,47,97,56,71,78,38,27474,5000000
+Ronald Taylor,62,Male,No,0,412785,Government Employee,Yes,No,No,5,1,Yes,9,2,No,Vehicle Insurance,45,49,86,46,60,81,81,20914,200000
+Amanda Bailey,43,Male,No,0,307771,Engineer,Yes,Yes,Yes,2,1,No,5,5,No,Travel Insurance,34,89,51,97,46,87,78,47937,200000
+Alexander Murillo,43,Female,No,3,2142326,IT Professional,No,Yes,No,6,1,Yes,15,1,Yes,Vehicle Insurance,70,54,95,76,68,65,40,23491,5000000
+Kristen Pennington,62,Female,Yes,2,510974,Lawyer,No,Yes,No,4,1,No,3,2,No,Life Insurance,33,99,72,96,45,36,60,19831,500000
+Richard Clark,46,Female,Yes,0,1662609,IT Professional,No,No,No,8,2,No,11,1,No,Home Insurance,49,76,50,30,96,75,51,10315,5000000
+Colleen Higgins,50,Male,No,0,1367258,Teacher,Yes,No,No,1,5,No,14,2,No,Vehicle Insurance,48,43,96,73,72,97,99,11335,200000
+Steven Oneal,61,Female,Yes,1,1077869,Business,No,No,No,6,1,No,12,5,Yes,Home Insurance,94,34,75,88,100,38,98,15688,2000000
+Kristina Lang,32,Male,No,0,1703684,Lawyer,Yes,Yes,Yes,1,0,No,14,3,No,Vehicle Insurance,55,62,80,74,68,90,72,42624,2000000
+Tiffany Riley,33,Male,No,0,2182302,Teacher,No,No,No,2,5,No,3,3,No,Health Insurance,91,31,59,58,54,55,80,23158,200000
+Monica Brooks,45,Male,No,0,1302367,Student,No,No,Yes,4,2,No,15,1,Yes,Home Insurance,46,77,96,68,97,40,61,7463,2000000
+Jean Coleman,25,Male,No,0,1998884,Teacher,No,No,Yes,6,5,No,7,1,Yes,Life Insurance,60,89,30,79,87,68,34,21917,2000000
+Joshua Wade,49,Male,No,0,452419,Farmer,No,Yes,No,1,0,No,8,4,Yes,Home Insurance,77,78,33,74,87,67,79,31167,5000000
+Julie Stephens,29,Male,No,0,1485799,Farmer,No,No,Yes,2,2,Yes,4,4,Yes,Vehicle Insurance,78,38,81,81,55,65,78,19747,200000
+Christopher Daniels,53,Male,No,0,1618193,Teacher,Yes,No,No,5,3,No,11,2,No,Home Insurance,38,61,49,60,68,94,77,42255,1000000
+Russell Foster,57,Male,No,0,1012661,Business,Yes,Yes,No,8,2,Yes,7,1,No,Travel Insurance,35,94,38,97,78,77,69,34224,1000000
+Candace Perez,57,Male,No,0,1440964,Student,No,No,No,1,2,Yes,5,1,Yes,Home Insurance,75,50,72,60,84,90,46,46318,1000000
+Melanie Morris,45,Female,Yes,3,1311316,Lawyer,Yes,Yes,Yes,6,2,Yes,12,5,Yes,Health Insurance,98,75,88,73,87,84,94,20960,5000000
+Rebecca Baker,24,Male,No,0,1520941,Engineer,No,Yes,No,7,0,Yes,13,3,Yes,Home Insurance,46,71,75,30,99,48,77,37482,2000000
+Sharon Farmer,53,Female,No,0,662972,Student,No,No,No,6,4,Yes,13,2,Yes,Health Insurance,81,72,70,32,39,57,98,26402,200000
+Todd Brown,53,Male,No,0,933741,Engineer,Yes,No,Yes,3,5,Yes,9,3,Yes,Travel Insurance,59,87,38,100,81,63,50,17036,500000
+Donna Brown,43,Male,No,0,1210473,Business,Yes,Yes,Yes,1,1,Yes,0,4,Yes,Health Insurance,94,58,64,40,62,44,90,23622,1000000
+Nicole Mcgrath,44,Male,No,0,1634401,Business,No,Yes,No,6,0,No,3,4,No,Life Insurance,50,85,84,64,36,57,54,15794,2000000
+Kimberly Bailey,20,Female,No,2,1834352,IT Professional,No,No,Yes,6,4,Yes,9,1,No,Life Insurance,45,83,45,68,41,75,71,36012,1000000
+Kristina Green,55,Male,No,0,1062527,Teacher,Yes,Yes,No,8,0,No,2,2,Yes,Health Insurance,87,35,71,39,33,27,67,45718,500000
+David Oconnell,32,Female,No,2,1832214,IT Professional,Yes,No,No,5,3,No,8,1,Yes,Vehicle Insurance,72,37,95,43,62,61,72,2406,500000
+Anna Johnson,39,Male,No,0,1198173,IT Professional,No,Yes,Yes,7,1,No,2,2,No,Life Insurance,59,76,67,42,42,39,38,26607,200000
+William Flores,47,Male,No,0,1269063,Teacher,No,Yes,No,6,1,No,5,5,Yes,Travel Insurance,66,86,36,89,51,31,72,24662,2000000
+Nicole Griffith,31,Female,No,0,1320189,Business,Yes,Yes,Yes,8,3,No,10,3,Yes,Life Insurance,40,99,34,49,75,79,46,36095,2000000
+Christopher Anderson,46,Male,No,0,221580,Engineer,No,No,Yes,3,4,No,9,4,Yes,Vehicle Insurance,66,66,90,45,80,70,46,20273,2000000
+Deborah Hall,56,Female,No,4,2197778,Student,No,Yes,No,6,4,Yes,0,1,No,Life Insurance,78,88,68,60,66,43,48,16125,200000
+Andrea Ballard,52,Male,No,0,2026053,Student,No,Yes,No,6,5,No,3,1,No,Home Insurance,40,50,62,70,89,71,43,36884,500000
+Amanda Burns,35,Male,No,0,1698416,Government Employee,Yes,No,Yes,6,2,No,11,1,No,Life Insurance,56,99,52,85,93,36,77,24723,1000000
+Sara Snyder,19,Female,Yes,0,2418703,Student,No,No,Yes,6,5,Yes,1,3,No,Vehicle Insurance,61,80,93,32,35,77,100,37510,500000
+Amanda Norton,46,Male,No,0,2134461,Government Employee,No,Yes,Yes,4,5,No,7,2,Yes,Life Insurance,50,67,47,52,34,31,56,43491,1000000
+Sheena Peterson,38,Female,Yes,1,722445,Lawyer,Yes,Yes,No,7,2,No,4,4,No,Vehicle Insurance,62,69,72,39,70,74,40,6952,1000000
+Tiffany Miller,55,Female,No,1,1612992,IT Professional,No,Yes,Yes,7,5,Yes,0,3,No,Travel Insurance,33,47,69,75,73,82,54,42745,1000000
+Tasha Graham,20,Female,No,0,419029,Lawyer,No,No,No,3,0,Yes,7,3,Yes,Health Insurance,100,38,45,75,68,47,83,12830,2000000
+Garrett Johnson,52,Female,Yes,1,1768690,Doctor,No,Yes,No,6,4,No,11,3,No,Health Insurance,92,42,51,70,64,90,49,36364,200000
+Steven Gonzalez,34,Female,Yes,3,1884344,Doctor,Yes,No,Yes,8,1,No,10,5,No,Health Insurance,94,40,79,83,39,23,58,43065,200000
+James Mills,24,Male,No,0,1213957,Engineer,No,No,Yes,7,0,No,2,2,No,Health Insurance,58,43,37,39,57,38,88,47227,5000000
+Kimberly Walker,58,Female,No,3,392213,Business,Yes,Yes,No,5,4,No,15,5,Yes,Home Insurance,61,72,68,53,90,27,33,40067,200000
+Brandi Moore,58,Male,No,0,420780,Teacher,Yes,Yes,No,6,5,No,12,4,Yes,Travel Insurance,60,44,87,97,38,69,97,47039,5000000
+Melissa Bruce,51,Female,No,2,1911827,Teacher,Yes,No,No,5,2,Yes,11,1,No,Health Insurance,96,96,66,37,92,81,82,14387,1000000
+Michael Wang,23,Female,No,2,293377,Teacher,Yes,Yes,Yes,7,0,Yes,3,5,No,Vehicle Insurance,41,54,72,35,41,34,46,12480,2000000
+Larry Freeman,20,Female,No,0,2372280,Doctor,Yes,Yes,Yes,2,2,No,12,2,Yes,Health Insurance,86,31,52,58,72,98,91,45927,500000
+Megan Jenkins,28,Male,No,0,2338013,Lawyer,Yes,No,No,5,5,No,8,5,No,Vehicle Insurance,38,47,86,72,52,48,66,16188,1000000
+Evan Johnson,64,Female,No,2,1516567,Engineer,No,No,Yes,7,4,Yes,9,2,No,Vehicle Insurance,76,94,95,48,45,22,40,9017,2000000
+Kevin Welch,28,Male,No,0,2041039,IT Professional,No,Yes,No,8,5,Yes,8,5,Yes,Health Insurance,91,43,69,88,53,69,58,20589,5000000
+Anna Spencer,53,Female,Yes,3,1859374,Farmer,No,Yes,Yes,8,4,No,10,1,Yes,Vehicle Insurance,35,52,91,39,91,59,59,32292,1000000
+Chad Rangel,44,Male,No,0,373212,Lawyer,No,No,Yes,1,0,Yes,6,1,No,Travel Insurance,82,84,82,91,81,28,51,30072,500000
+Diane Beasley,34,Male,No,0,2381546,Business,No,Yes,No,5,5,No,8,3,Yes,Vehicle Insurance,76,34,88,86,72,61,97,5354,1000000
+Danielle Johnson,22,Male,No,0,1851189,Engineer,No,Yes,Yes,4,4,No,14,4,Yes,Home Insurance,52,48,46,64,92,70,67,49037,500000
+Melissa Parsons,47,Female,Yes,3,1221987,Engineer,No,Yes,No,7,0,Yes,1,3,No,Travel Insurance,80,58,74,95,57,51,61,2884,500000
+Joseph Gomez,52,Male,No,0,2013017,Doctor,No,No,Yes,7,0,No,10,2,No,Travel Insurance,76,79,50,91,33,91,77,36414,500000
+Tracy Perez,28,Female,Yes,2,1735339,Engineer,No,Yes,Yes,1,1,Yes,11,5,Yes,Health Insurance,100,99,68,61,93,61,36,29199,200000
+Lori Green,20,Male,No,0,2182341,Government Employee,No,No,Yes,5,2,No,13,2,Yes,Health Insurance,94,32,67,38,42,92,44,40598,5000000
+Tiffany Fisher,42,Male,No,0,879501,IT Professional,No,Yes,No,5,5,Yes,3,5,No,Health Insurance,95,44,50,87,87,56,75,3140,1000000
+Bradley Edwards,51,Male,No,0,1928225,Government Employee,Yes,No,Yes,8,1,Yes,10,3,Yes,Vehicle Insurance,37,52,85,73,33,44,60,18309,2000000
+Jake Porter,59,Male,No,0,1639354,Business,No,Yes,Yes,6,2,Yes,7,3,No,Travel Insurance,86,52,56,97,34,91,73,21430,200000
+Karen Hensley,29,Female,Yes,4,1165050,Business,No,Yes,No,1,0,Yes,15,4,Yes,Vehicle Insurance,58,63,100,37,70,68,49,45868,1000000
+Monica Vaughan,32,Female,Yes,3,1353165,Teacher,No,Yes,Yes,3,5,No,0,4,Yes,Life Insurance,85,98,58,41,67,30,37,40344,500000
+Jon Molina,34,Female,No,2,398012,Business,No,Yes,No,2,0,No,8,5,No,Travel Insurance,40,61,76,93,80,59,51,10626,500000
+Caroline Downs,55,Female,No,0,1094528,Farmer,Yes,Yes,Yes,6,1,Yes,7,3,Yes,Health Insurance,98,43,91,84,44,53,72,42044,5000000
+Michael Smith,19,Male,No,0,2415592,Doctor,Yes,Yes,No,2,5,Yes,3,5,No,Vehicle Insurance,86,62,100,60,53,59,61,6729,200000
+Michael Sanchez,58,Male,No,0,833622,Doctor,No,Yes,Yes,7,4,Yes,10,5,Yes,Home Insurance,97,80,53,84,98,95,62,33605,5000000
+Elizabeth Berry,36,Male,No,0,769031,IT Professional,Yes,Yes,Yes,5,4,Yes,5,4,Yes,Health Insurance,83,43,59,81,62,48,52,31293,1000000
+Holly Best,23,Female,No,3,2057451,Engineer,No,No,Yes,5,4,Yes,14,5,No,Home Insurance,37,53,30,61,71,52,47,10105,500000
+David Walters,40,Male,No,0,1975636,Business,No,Yes,Yes,5,4,Yes,7,3,Yes,Home Insurance,35,46,43,50,66,23,76,30596,2000000
+Russell Schmidt,27,Male,No,0,1270775,Doctor,Yes,No,Yes,1,4,No,0,3,Yes,Travel Insurance,31,95,58,99,76,23,65,5370,5000000
+Heather Copeland,56,Female,No,1,2345595,Teacher,Yes,Yes,No,8,4,No,0,1,No,Vehicle Insurance,95,37,98,87,39,94,49,21128,5000000
+Leah Mccarthy,39,Female,No,1,838251,Teacher,Yes,Yes,No,7,5,Yes,2,2,Yes,Life Insurance,37,90,51,31,33,36,33,18281,2000000
+Jasmine Mckee PhD,48,Male,No,0,483025,Business,Yes,Yes,No,6,2,No,2,3,Yes,Health Insurance,63,60,62,51,44,32,86,24668,2000000
+Jeffrey Owen,25,Male,No,0,1680243,Business,No,Yes,No,5,2,Yes,1,4,No,Home Insurance,83,88,74,45,99,57,76,6898,5000000
+Felicia Gomez,42,Male,No,0,1100817,IT Professional,Yes,Yes,No,5,1,No,8,4,No,Travel Insurance,40,57,48,93,92,45,66,22636,500000
+Edward Moody,24,Female,Yes,4,1256515,Lawyer,Yes,Yes,Yes,8,2,No,4,4,No,Life Insurance,90,100,66,71,74,47,42,13768,200000
+James Ruiz,20,Male,No,0,1343313,Farmer,Yes,No,Yes,8,3,No,8,2,Yes,Life Insurance,37,96,43,78,58,32,78,44565,200000
+Stacy Estes,33,Female,No,4,2056735,Engineer,No,No,No,6,3,No,3,4,No,Health Insurance,89,46,49,45,46,68,73,12679,5000000
+Robin Williams,64,Male,No,0,740914,Teacher,Yes,Yes,No,4,0,Yes,8,2,No,Travel Insurance,61,85,76,95,71,45,65,3153,500000
+Kenneth Lester,40,Male,No,0,2146134,Government Employee,Yes,No,No,2,5,No,12,4,No,Vehicle Insurance,63,83,97,60,56,58,63,47563,1000000
+Kristin Johnson,29,Female,No,1,1058716,Student,Yes,No,Yes,3,4,Yes,0,5,Yes,Life Insurance,90,99,75,78,59,47,58,18861,2000000
+Juan Smith,26,Female,No,1,1821348,IT Professional,No,Yes,No,8,4,No,2,5,Yes,Vehicle Insurance,35,37,83,64,40,72,83,49282,200000
+Amy Hammond,48,Female,Yes,1,684493,Student,No,No,Yes,3,5,No,4,5,No,Vehicle Insurance,37,59,72,35,53,81,54,3372,5000000
+Nicholas Curry,20,Male,No,0,987655,Doctor,No,No,Yes,3,3,Yes,13,4,Yes,Health Insurance,91,47,46,40,73,98,76,28944,200000
+Beth Welch,54,Male,No,0,2057444,Farmer,No,No,Yes,2,2,Yes,4,4,No,Life Insurance,43,92,31,90,40,48,45,40084,2000000
+Barbara Patel,46,Female,Yes,1,2128336,Student,Yes,No,Yes,5,2,No,3,1,No,Health Insurance,94,79,47,35,36,81,61,14306,5000000
+Jennifer Martinez,62,Female,No,0,2413151,Business,No,Yes,No,2,5,No,6,3,No,Travel Insurance,39,89,41,98,92,25,96,40580,1000000
+Rhonda Wagner,39,Female,No,1,479901,Farmer,Yes,No,Yes,1,2,Yes,9,2,No,Health Insurance,94,38,54,46,57,84,31,17960,1000000
+Kristine Williams,51,Male,No,0,1642332,Business,No,No,Yes,1,3,No,13,3,Yes,Life Insurance,80,81,56,44,43,91,66,3719,500000
+Cynthia Sutton,27,Female,No,2,2067773,Doctor,No,Yes,No,5,0,No,4,5,No,Health Insurance,97,45,63,68,54,43,94,8000,2000000
+Kelly Weaver MD,50,Female,No,1,1193969,Lawyer,No,No,No,3,3,No,4,1,Yes,Travel Insurance,53,58,91,100,93,33,44,9572,1000000
+Olivia Smith,50,Male,No,0,409935,Student,Yes,No,No,4,2,Yes,5,2,Yes,Travel Insurance,36,44,69,85,47,20,56,24925,1000000
+Michael Maddox,38,Female,No,1,1408305,Government Employee,Yes,Yes,No,8,1,Yes,1,3,No,Home Insurance,31,57,42,79,89,50,88,15165,500000
+Diane Peck,46,Female,Yes,4,1651396,Doctor,No,No,No,2,3,Yes,8,3,Yes,Life Insurance,74,96,39,63,73,51,75,27187,2000000
+Dr. Alexandra Williams MD,61,Female,No,3,1516079,Lawyer,No,No,Yes,6,2,Yes,12,5,Yes,Vehicle Insurance,62,90,94,58,75,73,59,13279,500000
+Mario Green,60,Male,No,0,665585,Engineer,Yes,No,No,2,4,Yes,7,2,No,Travel Insurance,35,50,56,98,33,55,74,30378,1000000
+Brian Cole,26,Female,Yes,4,567853,IT Professional,No,Yes,No,6,4,Yes,3,5,Yes,Travel Insurance,40,70,54,92,66,44,65,7111,5000000
+Maria White,46,Female,No,4,267849,Government Employee,No,No,No,3,5,No,15,1,Yes,Travel Insurance,54,78,32,96,35,38,74,9367,5000000
+Amanda Sanders,64,Female,Yes,3,1933169,Engineer,Yes,No,No,4,4,Yes,12,3,Yes,Life Insurance,33,92,92,83,73,64,51,30326,2000000
+Laura Martin,41,Male,No,0,845632,Farmer,Yes,No,Yes,6,5,No,7,3,Yes,Vehicle Insurance,55,36,68,39,55,56,59,16163,200000
+Jonathon Williamson,39,Female,Yes,1,1551797,Business,Yes,Yes,Yes,3,5,Yes,13,2,No,Vehicle Insurance,32,53,55,30,30,74,69,5010,5000000
+Lisa Jefferson,38,Female,No,3,1070719,Business,Yes,No,No,1,4,Yes,15,4,No,Vehicle Insurance,49,61,79,35,56,67,77,46894,1000000
+John Parsons,26,Male,No,0,243063,Lawyer,Yes,No,Yes,4,4,Yes,4,4,No,Travel Insurance,72,76,51,82,34,78,99,10206,500000
+Alexa Brown,19,Female,Yes,0,1303985,Business,Yes,No,No,1,0,Yes,5,4,Yes,Home Insurance,54,55,77,77,88,52,40,11371,500000
+Michael Mcdonald,27,Female,No,1,442799,Doctor,Yes,No,Yes,4,4,Yes,15,4,No,Travel Insurance,30,52,71,77,70,51,83,29312,2000000
+Sharon Jones,24,Female,Yes,3,623528,Teacher,No,No,Yes,6,1,Yes,9,3,No,Travel Insurance,30,73,86,93,44,81,67,20853,1000000
+Michael Smith II,51,Male,No,0,471144,Government Employee,Yes,Yes,No,7,4,No,2,4,Yes,Life Insurance,59,79,38,66,77,68,79,21954,200000
+Jeffrey Brown,39,Male,No,0,575966,Lawyer,Yes,No,No,4,0,Yes,13,1,Yes,Home Insurance,57,77,76,48,93,35,59,20639,2000000
+Trevor Payne,35,Female,No,2,924302,Student,No,No,No,2,2,Yes,14,3,No,Travel Insurance,44,87,43,94,61,25,52,36995,500000
+Krista Martinez,28,Male,No,0,499696,Government Employee,No,No,No,5,1,No,13,3,Yes,Vehicle Insurance,30,97,100,83,35,53,91,44277,200000
+Reginald Palmer,59,Female,No,2,1885403,Engineer,Yes,Yes,Yes,4,3,No,14,4,Yes,Vehicle Insurance,47,77,99,56,83,44,57,38906,1000000
+Erin Roberts,36,Female,No,3,852770,Government Employee,Yes,Yes,No,4,1,No,7,3,No,Life Insurance,30,79,43,49,71,87,48,40038,1000000
+Gloria Martin,38,Male,No,0,1328902,IT Professional,Yes,Yes,No,8,4,Yes,2,5,Yes,Health Insurance,76,59,50,58,52,30,74,38988,5000000
+Anne Lane MD,18,Male,No,0,848330,IT Professional,Yes,No,No,2,5,No,6,3,No,Travel Insurance,62,60,52,91,39,75,88,4097,2000000
+Sarah Johnson,65,Male,No,0,483577,Student,Yes,No,No,3,2,Yes,15,2,Yes,Home Insurance,61,47,79,62,97,49,65,25162,500000
+Jodi Hunter,41,Male,No,0,1486627,Doctor,No,Yes,No,5,5,No,14,4,No,Health Insurance,91,53,82,60,62,52,96,11264,2000000
+William Bonilla,27,Male,No,0,797265,Doctor,No,Yes,Yes,7,4,No,3,3,Yes,Health Insurance,98,70,63,97,65,79,47,41536,200000
+Stephanie Berger,48,Female,Yes,2,1328384,Government Employee,Yes,No,Yes,7,0,No,8,2,No,Travel Insurance,46,70,50,100,74,49,74,30278,500000
+Edward Dennis,49,Female,No,4,1980820,Government Employee,Yes,No,No,3,0,No,10,1,Yes,Travel Insurance,36,69,42,84,81,98,54,2686,5000000
+Jenna Garza,24,Female,Yes,2,387797,Government Employee,No,Yes,Yes,3,4,No,14,5,No,Health Insurance,87,73,45,36,41,60,59,38652,200000
+Jim Martin,60,Male,No,0,514771,Student,Yes,No,Yes,4,4,No,5,5,Yes,Vehicle Insurance,79,66,88,47,68,100,95,43185,2000000
+Teresa Cohen,57,Female,No,2,2298041,Engineer,No,No,Yes,4,3,No,1,3,No,Vehicle Insurance,47,54,95,55,81,59,64,48937,200000
+Jessica Martinez,39,Male,No,0,432162,Government Employee,Yes,Yes,Yes,8,4,No,11,2,Yes,Home Insurance,32,87,57,43,88,53,72,28351,5000000
+Dustin Velasquez,65,Female,Yes,0,1853136,Lawyer,Yes,No,No,3,4,Yes,7,2,Yes,Home Insurance,36,39,77,65,92,70,59,19592,500000
+Stephen Obrien,22,Female,No,1,1605602,Engineer,Yes,No,No,4,4,Yes,12,5,Yes,Health Insurance,74,44,72,58,53,36,93,10198,500000
+Kenneth Reed,22,Male,No,0,1227251,Student,No,No,Yes,6,1,Yes,0,3,No,Life Insurance,52,98,36,84,46,93,83,6561,500000
+Melissa Davidson,64,Male,No,0,2313314,Engineer,Yes,Yes,No,8,4,No,7,4,Yes,Home Insurance,45,55,74,53,99,45,40,13479,200000
+Benjamin Allen,25,Male,No,0,1162749,Student,Yes,Yes,Yes,7,3,Yes,9,5,Yes,Life Insurance,62,97,89,91,34,51,31,6681,5000000
+Christopher Mullen,36,Male,No,0,761062,Engineer,No,Yes,No,8,5,Yes,11,3,Yes,Life Insurance,64,86,40,65,73,82,66,12190,2000000
+James Davis,38,Female,Yes,3,1271085,Doctor,Yes,Yes,No,8,2,Yes,0,2,Yes,Vehicle Insurance,49,35,85,70,54,81,65,39552,1000000
+Mark Diaz,19,Male,No,0,826347,Doctor,No,No,No,2,4,No,14,5,Yes,Vehicle Insurance,33,92,93,47,70,65,70,13114,1000000
+Donna Davis,51,Male,No,0,1535527,Government Employee,Yes,Yes,No,7,5,No,5,2,No,Travel Insurance,50,54,50,79,61,32,37,39201,500000
+Teresa Castaneda,25,Male,No,0,1280542,Lawyer,Yes,No,Yes,7,4,No,14,4,No,Health Insurance,78,58,56,51,30,48,46,49064,5000000
+Donna Golden,32,Female,No,2,1634206,Doctor,No,Yes,No,6,5,No,12,1,Yes,Health Insurance,81,31,47,35,53,56,95,41045,5000000
+Louis Kelly,59,Male,No,0,344978,Doctor,No,Yes,Yes,4,2,Yes,11,1,Yes,Home Insurance,37,52,46,39,71,67,62,40122,5000000
+Michael Lee,32,Male,No,0,1898672,Teacher,Yes,Yes,No,7,0,No,14,4,No,Vehicle Insurance,61,66,94,49,47,30,43,16820,200000
+Arthur Campbell,51,Male,No,0,1385422,Business,No,No,No,4,0,Yes,14,5,No,Home Insurance,54,47,52,64,97,71,86,16646,1000000
+Nicole Freeman,42,Female,No,0,307259,Government Employee,Yes,Yes,Yes,3,5,Yes,10,4,No,Travel Insurance,50,74,74,94,65,80,90,5660,1000000
+Stacy Young,64,Male,No,0,366228,IT Professional,Yes,Yes,No,2,5,Yes,4,5,Yes,Home Insurance,44,53,91,82,98,89,93,47958,2000000
+Jennifer Smith,30,Female,Yes,1,2262004,Student,Yes,Yes,No,1,3,Yes,12,3,No,Travel Insurance,46,70,80,85,73,84,93,26158,500000
+Ronald Perkins,34,Female,Yes,3,1545763,Business,No,No,Yes,7,5,No,5,3,No,Health Insurance,91,42,65,87,35,28,35,16681,2000000
+Holly Dalton,45,Male,No,0,2118583,IT Professional,Yes,Yes,No,2,0,Yes,15,2,No,Travel Insurance,36,87,39,88,41,39,35,32683,2000000
+Leah Tucker,45,Male,No,0,1006429,Lawyer,No,No,No,4,3,Yes,4,1,No,Travel Insurance,50,63,71,98,95,37,35,8575,5000000
+Corey Moore,56,Female,Yes,1,2487050,Government Employee,Yes,No,Yes,5,3,No,5,1,No,Vehicle Insurance,52,80,81,30,66,51,78,11517,200000
+Mary Mcclain,55,Male,No,0,1015210,Engineer,No,Yes,Yes,8,3,No,13,2,Yes,Travel Insurance,70,37,67,88,58,46,60,25482,5000000
+Michael Mills,51,Female,Yes,4,482545,Teacher,Yes,Yes,Yes,4,1,No,0,5,Yes,Life Insurance,82,98,48,94,96,30,83,26434,500000
+Michelle Stafford,32,Female,Yes,3,1955810,Teacher,Yes,Yes,Yes,8,4,No,7,2,No,Travel Insurance,63,61,78,83,37,60,41,21395,2000000
+Zachary Smith,26,Male,No,0,2421400,Doctor,No,Yes,No,2,4,No,2,3,No,Vehicle Insurance,51,74,78,50,66,96,73,37138,1000000
+Nicole Callahan,57,Female,Yes,4,900303,Engineer,No,Yes,Yes,8,3,No,7,1,Yes,Life Insurance,78,94,88,57,84,20,81,19526,2000000
+Brenda Martinez,48,Male,No,0,2314681,Business,No,No,No,5,4,No,0,5,No,Vehicle Insurance,70,47,94,70,76,58,67,48602,1000000
+Natalie Day,56,Female,Yes,0,437739,Teacher,Yes,Yes,Yes,4,3,No,8,3,Yes,Life Insurance,73,87,72,44,48,35,39,2354,200000
+Kelly Lucero,31,Male,No,0,909235,Business,Yes,Yes,Yes,8,0,No,11,2,Yes,Health Insurance,98,83,64,65,86,63,100,44342,2000000
+Jerry Perez,64,Female,No,4,1614787,Teacher,No,Yes,Yes,8,2,Yes,7,1,Yes,Home Insurance,92,84,55,34,94,58,52,13662,200000
+Shawn Hayden,24,Male,No,0,634517,Engineer,No,No,Yes,6,4,Yes,14,3,No,Vehicle Insurance,89,58,97,40,69,26,31,15553,1000000
+Kelly Stevens,35,Female,Yes,2,844572,Student,No,No,No,4,0,No,0,5,No,Home Insurance,30,53,61,63,73,62,34,36684,500000
+Kathryn Patel,21,Male,No,0,950967,Lawyer,No,Yes,No,8,4,Yes,13,4,Yes,Travel Insurance,37,90,63,99,95,99,30,5985,2000000
+Catherine Lyons,63,Female,No,1,2042256,Business,No,No,No,6,0,No,3,2,No,Health Insurance,85,68,37,34,32,52,94,43493,200000
+Cory Francis,21,Male,No,0,633841,IT Professional,Yes,Yes,No,3,0,No,3,5,No,Vehicle Insurance,79,68,93,39,65,89,93,17024,1000000
+Rhonda Briggs,54,Female,Yes,1,2460409,Business,No,No,No,3,1,No,7,2,Yes,Health Insurance,98,69,94,58,44,50,72,44740,500000
+Heather Young,18,Male,No,0,1247062,Teacher,Yes,Yes,No,5,1,No,12,3,No,Travel Insurance,79,75,79,89,31,23,63,7430,5000000
+Cynthia Burns,54,Male,No,0,2173810,Doctor,No,Yes,No,7,4,Yes,8,3,No,Home Insurance,37,53,36,34,55,100,53,13074,200000
+Patricia Fuller,40,Male,No,0,869063,Business,Yes,No,Yes,2,5,Yes,9,2,No,Travel Insurance,43,37,50,84,37,39,37,17512,500000
+Dr. Darin Greer,24,Female,Yes,2,1902760,Government Employee,Yes,No,Yes,8,3,Yes,11,5,Yes,Life Insurance,32,76,53,46,65,100,30,7631,2000000
+Donna Gomez,49,Male,No,0,2174863,Lawyer,No,Yes,Yes,6,5,Yes,0,3,No,Vehicle Insurance,38,59,92,57,52,99,40,15281,2000000
+Andrew Fields,39,Male,No,0,1929331,Lawyer,Yes,No,Yes,2,4,Yes,15,4,Yes,Travel Insurance,46,51,67,92,34,41,87,30991,5000000
+Francis Smith,59,Male,No,0,2464108,Teacher,No,Yes,No,8,0,No,4,3,No,Vehicle Insurance,87,93,96,61,38,69,36,22393,1000000
+Gabriel Booker,39,Female,Yes,1,1485569,IT Professional,Yes,Yes,No,3,5,Yes,3,4,No,Travel Insurance,46,60,51,98,74,65,97,19910,500000
+Brenda Potts,44,Female,No,4,1506373,Government Employee,No,Yes,No,4,2,Yes,10,4,No,Travel Insurance,89,48,84,97,48,83,67,31974,2000000
+Tommy Harper,59,Male,No,0,2412887,Student,Yes,Yes,Yes,7,0,Yes,15,3,Yes,Home Insurance,65,50,46,32,72,69,53,11790,500000
+Jonathan Taylor,22,Female,Yes,4,2310559,Farmer,Yes,No,Yes,5,5,No,12,3,No,Home Insurance,93,58,63,30,96,37,56,44423,5000000
+Amy Reed,35,Male,No,0,759195,Farmer,No,Yes,Yes,6,2,Yes,9,3,Yes,Health Insurance,97,78,44,83,87,56,54,29386,1000000
+Jeffrey Wilson,52,Male,No,0,1379486,Doctor,No,No,No,1,0,Yes,15,2,No,Life Insurance,38,100,50,58,50,98,35,37164,1000000
+Joanna Rojas,63,Male,No,0,1571716,Student,No,No,No,4,2,Yes,8,3,No,Health Insurance,77,65,55,58,58,97,78,9174,1000000
+Monique Chavez,40,Female,Yes,1,870818,Student,No,Yes,No,3,1,No,3,5,No,Life Insurance,61,90,79,63,32,64,68,21428,2000000
+Connie Allen,64,Female,No,3,454772,Engineer,No,No,Yes,6,1,Yes,12,2,Yes,Travel Insurance,37,64,60,100,90,76,31,6781,2000000
+Kelly Baker,46,Female,No,0,2184626,Business,Yes,Yes,No,3,0,Yes,12,3,Yes,Travel Insurance,55,34,37,71,47,20,48,15530,1000000
+Damon Harper,55,Female,No,1,1284306,Doctor,No,Yes,Yes,4,2,Yes,15,3,Yes,Health Insurance,85,36,60,74,58,71,87,38835,500000
+Shawn Roberts,28,Male,No,0,592194,Teacher,Yes,Yes,Yes,3,3,No,1,1,Yes,Travel Insurance,60,93,80,100,82,54,97,2365,5000000
+Jennifer Griffith,63,Male,No,0,911779,Engineer,No,Yes,No,3,1,Yes,1,1,Yes,Home Insurance,87,69,78,67,97,57,79,19718,500000
+Jennifer White,46,Female,No,4,1120806,Engineer,No,No,Yes,5,4,No,2,3,No,Travel Insurance,48,60,50,96,86,38,82,26078,5000000
+Brittney Kirby,63,Male,No,0,1440798,IT Professional,No,No,No,6,3,Yes,11,4,Yes,Vehicle Insurance,30,62,79,32,59,26,87,17855,200000
+Jon Brown,37,Female,Yes,3,2122501,Student,No,No,No,8,0,No,14,2,No,Life Insurance,42,93,70,88,35,95,98,9111,500000
+Christine Matthews,22,Male,No,0,2487431,Lawyer,No,No,Yes,1,5,Yes,10,2,No,Health Insurance,98,78,43,71,79,93,53,18491,5000000
+Steven Riddle,34,Male,No,0,1428282,Student,No,Yes,No,5,5,No,7,5,No,Home Insurance,39,43,71,37,100,75,37,9880,200000
+Kristen Smith,30,Female,No,3,1179767,Engineer,No,No,No,5,1,Yes,7,1,Yes,Vehicle Insurance,85,75,92,90,63,80,76,15594,1000000
+Sheila Smith,50,Female,Yes,3,1055475,Engineer,Yes,No,Yes,7,5,No,9,5,Yes,Home Insurance,38,33,66,80,96,78,55,11431,200000
+Amanda Perry,61,Male,No,0,1934705,Business,Yes,Yes,No,8,1,Yes,9,5,No,Home Insurance,51,60,31,38,82,91,68,25590,500000
+James Rush,30,Male,No,0,1928885,Student,Yes,Yes,No,6,0,No,12,4,No,Health Insurance,89,84,58,34,44,97,46,30365,200000
+Whitney Bailey,32,Male,No,0,1863179,Government Employee,Yes,No,Yes,1,1,No,14,2,Yes,Home Insurance,32,56,36,45,79,30,52,29263,1000000
+Mark Lewis MD,54,Male,No,0,601407,Doctor,No,No,No,7,4,No,6,1,No,Home Insurance,57,32,32,31,66,45,43,6130,2000000
+Beth Sullivan,42,Female,No,3,1567058,Engineer,No,Yes,No,8,5,Yes,14,2,No,Vehicle Insurance,78,51,90,30,52,97,81,8141,200000
+Andrew Vega,60,Female,Yes,3,812810,Doctor,No,No,Yes,7,0,Yes,9,5,No,Travel Insurance,65,59,59,100,94,74,86,22536,5000000
+Troy Brown,48,Male,No,0,802319,Lawyer,No,No,No,5,5,No,3,5,Yes,Home Insurance,39,61,52,48,70,60,65,28237,1000000
+Christopher Dunn,20,Male,No,0,2098834,Farmer,Yes,Yes,No,2,5,Yes,1,5,Yes,Health Insurance,88,52,40,34,64,75,92,24606,5000000
+Carolyn Escobar,29,Male,No,0,2082159,Engineer,Yes,Yes,No,3,2,Yes,7,1,No,Home Insurance,77,54,42,37,89,86,33,48607,5000000
+Ms. Rebecca Waters,40,Male,No,0,2143638,Lawyer,Yes,Yes,Yes,7,3,Yes,5,5,No,Home Insurance,33,63,43,53,80,100,45,16416,1000000
+Courtney Clayton,30,Male,No,0,1594466,Farmer,No,No,No,3,4,No,8,2,No,Health Insurance,98,36,56,48,55,52,51,44351,5000000
+Seth Mcbride,37,Male,No,0,1108232,Doctor,Yes,Yes,Yes,5,1,Yes,5,4,Yes,Home Insurance,37,83,47,46,88,35,71,29105,5000000
+Susan Drake,59,Female,Yes,3,328687,Business,Yes,Yes,Yes,3,4,No,3,1,No,Home Insurance,56,89,43,63,99,62,73,30014,200000
+Jessica Anderson,51,Male,No,0,1419228,Government Employee,Yes,No,Yes,1,5,Yes,1,3,Yes,Health Insurance,78,43,37,39,74,91,68,3376,5000000
+Kristin Ortega,62,Female,No,3,2278473,Teacher,No,Yes,Yes,4,4,Yes,2,4,No,Life Insurance,33,85,80,69,78,56,85,9491,1000000
+Stephanie Carter,28,Male,No,0,2061848,Business,No,No,Yes,5,2,Yes,2,1,Yes,Health Insurance,100,43,36,89,36,40,64,42486,1000000
+Michael Roberts,39,Male,No,0,1436251,Doctor,Yes,Yes,No,5,3,No,9,5,Yes,Vehicle Insurance,70,51,82,43,82,95,41,21274,500000
+Allison Chavez,49,Female,No,2,1409070,Business,Yes,Yes,Yes,6,4,No,1,3,No,Vehicle Insurance,63,85,99,69,76,98,99,11705,200000
+Hector Stewart,52,Female,Yes,2,1462136,IT Professional,Yes,Yes,No,4,4,No,7,4,Yes,Life Insurance,38,98,44,93,80,82,66,7479,500000
+Jeremy Cohen,41,Female,Yes,0,2042350,Student,Yes,Yes,No,2,1,No,11,5,Yes,Life Insurance,80,99,77,61,89,54,68,18638,5000000
+Gina Rogers,23,Female,No,2,1167752,Farmer,Yes,Yes,No,2,0,No,6,3,Yes,Home Insurance,33,80,49,41,86,20,42,34672,2000000
+Nathan Hogan,53,Male,No,0,358824,Business,No,Yes,Yes,5,4,No,0,2,No,Health Insurance,96,60,78,51,58,23,100,7636,1000000
+Derek Contreras,27,Female,Yes,4,2239147,Engineer,Yes,Yes,Yes,2,2,Yes,5,2,Yes,Home Insurance,89,67,68,91,95,36,83,32136,500000
+Kimberly Griffin,51,Male,No,0,1797389,Engineer,No,Yes,No,1,3,Yes,14,1,No,Vehicle Insurance,60,35,88,49,74,100,94,14111,500000
+William Delacruz,34,Female,No,1,1383465,Lawyer,No,No,Yes,6,2,No,4,3,Yes,Life Insurance,83,91,54,33,55,55,34,39135,5000000
+Michelle Monroe,61,Male,No,0,2385153,Engineer,No,No,No,6,2,Yes,15,4,Yes,Home Insurance,78,75,39,42,92,62,32,4925,500000
+Karen Garcia,50,Female,No,0,1172746,Student,Yes,No,Yes,2,5,Yes,2,5,Yes,Home Insurance,56,55,50,49,65,23,96,38605,500000
+Lisa Garcia,20,Male,No,0,240744,Business,No,No,Yes,1,1,Yes,14,5,No,Life Insurance,64,100,61,96,30,87,78,47372,5000000
+Christine Nolan,53,Male,No,0,1966484,Government Employee,Yes,Yes,No,8,1,No,5,2,No,Vehicle Insurance,75,49,99,72,71,92,39,46477,200000
+Christopher Davis,18,Female,No,4,2383489,Teacher,Yes,Yes,No,3,4,Yes,9,1,Yes,Life Insurance,30,81,35,81,51,87,60,7550,500000
+Carla Gamble,41,Male,No,0,1531326,Lawyer,No,Yes,Yes,2,2,Yes,4,1,No,Vehicle Insurance,68,73,97,56,69,84,80,48405,2000000
+Joshua Hale,26,Male,No,0,993140,Farmer,Yes,No,No,3,3,Yes,12,1,No,Life Insurance,67,87,83,33,41,87,46,26724,200000
+Frank Patel,64,Male,No,0,2164527,Government Employee,No,No,Yes,2,1,No,3,5,Yes,Life Insurance,83,84,64,39,44,58,50,11100,200000
+Jennifer Schneider,54,Female,Yes,0,247996,Engineer,No,No,Yes,5,4,No,0,2,Yes,Travel Insurance,51,62,41,69,36,69,99,48786,2000000
+Rose Ortiz,18,Female,No,0,411800,Lawyer,No,Yes,No,8,5,No,0,4,Yes,Travel Insurance,32,33,80,99,53,55,71,34540,5000000
+Sarah Gallegos,36,Female,No,1,2336641,Engineer,Yes,Yes,Yes,2,5,No,12,1,Yes,Home Insurance,36,89,82,30,90,57,91,21150,200000
+Jennifer Sexton,47,Male,No,0,1529971,Teacher,Yes,No,Yes,1,5,No,11,1,Yes,Life Insurance,55,98,37,60,55,57,53,26204,1000000
+Sarah Smith,46,Female,Yes,0,2258928,Teacher,Yes,Yes,No,4,0,No,14,2,No,Life Insurance,35,92,78,70,31,30,33,13675,1000000
+Jacob Williams,46,Male,No,0,1370531,Engineer,No,No,No,1,1,Yes,13,2,No,Home Insurance,74,34,52,81,98,53,72,23313,500000
+Ashley Smith,56,Male,No,0,2353025,Student,Yes,No,No,5,4,Yes,8,2,Yes,Vehicle Insurance,67,83,89,36,78,65,79,9422,1000000
+Scott Shepard,41,Female,Yes,4,1220654,Business,Yes,Yes,Yes,2,3,Yes,9,2,No,Vehicle Insurance,42,58,93,38,85,84,63,43459,5000000
+Gary Davis,32,Female,No,2,520641,IT Professional,Yes,Yes,No,8,3,Yes,3,2,Yes,Travel Insurance,38,73,85,89,88,98,39,8548,500000
+Emily Nelson,40,Male,No,0,667450,Government Employee,No,No,Yes,1,3,Yes,3,5,Yes,Vehicle Insurance,60,62,95,61,43,91,98,28447,5000000
+Michelle Welch,64,Male,No,0,961163,Engineer,Yes,Yes,Yes,5,5,Yes,3,2,Yes,Vehicle Insurance,41,36,73,32,57,65,55,40348,500000
+Ashley Moody,64,Female,Yes,4,2241632,Lawyer,No,Yes,Yes,4,4,Yes,3,4,No,Life Insurance,46,99,71,61,51,97,76,5466,200000
+Shannon Becker MD,37,Male,No,0,937744,Farmer,No,Yes,No,5,1,No,0,5,No,Home Insurance,66,47,43,32,77,28,45,49383,200000
+Nicole Hampton,55,Female,No,2,2287031,Teacher,No,Yes,No,3,2,Yes,11,3,No,Health Insurance,98,94,35,94,48,23,93,27998,200000
+Michael Hansen,48,Male,No,0,2243158,IT Professional,Yes,No,No,6,1,No,8,1,No,Home Insurance,60,76,43,52,98,20,77,18301,2000000
+Sean Mayo,39,Male,No,0,1695070,Engineer,Yes,No,Yes,5,1,No,7,1,Yes,Home Insurance,30,31,59,48,90,91,40,15254,200000
+Sherri Brown,33,Female,Yes,1,944138,Student,Yes,No,No,1,2,Yes,14,2,No,Life Insurance,32,86,80,46,38,42,72,14044,500000
+Samuel Morrison,19,Female,No,4,570314,Doctor,Yes,No,No,8,0,Yes,0,3,Yes,Vehicle Insurance,39,93,94,48,63,96,60,29556,2000000
+Gabriella Young,44,Female,No,2,400393,Government Employee,No,No,No,2,3,No,10,1,No,Home Insurance,42,76,57,33,98,67,44,20877,1000000
+John Ray,30,Female,No,3,557463,Farmer,Yes,Yes,No,6,3,No,9,3,No,Travel Insurance,44,40,45,91,49,70,77,43065,1000000
+Diamond Porter,19,Male,No,0,815227,Farmer,No,No,Yes,3,3,No,10,1,No,Health Insurance,88,48,57,35,33,80,70,17669,2000000
+Dustin Walker,43,Female,No,1,741714,Lawyer,Yes,No,Yes,5,3,Yes,4,1,Yes,Health Insurance,98,77,75,56,82,77,94,46614,1000000
+Michael Warner,56,Female,Yes,3,2177381,Engineer,Yes,Yes,Yes,6,3,No,9,2,No,Home Insurance,32,82,43,76,88,23,96,17182,5000000
+Melissa Burns,53,Female,Yes,2,422313,IT Professional,Yes,No,Yes,6,4,No,15,4,Yes,Health Insurance,89,38,89,77,81,50,67,49661,2000000
+Monica Potts,58,Male,No,0,2267940,Doctor,Yes,No,Yes,5,3,No,5,3,Yes,Vehicle Insurance,51,64,82,50,40,67,36,42415,500000
+Taylor Stark,51,Male,No,0,2299141,IT Professional,No,Yes,No,2,2,No,4,3,No,Life Insurance,53,99,88,56,94,56,35,46200,5000000
+Dr. Jordan Andrade,48,Female,No,1,2468536,Teacher,No,Yes,No,8,1,No,3,3,No,Health Insurance,66,54,60,59,48,55,49,28123,500000
+Carrie Jenkins,42,Female,Yes,2,1601670,Government Employee,Yes,Yes,No,2,1,No,8,2,Yes,Vehicle Insurance,45,63,87,85,74,58,46,46000,200000
+Tiffany Peters,29,Male,No,0,398210,Teacher,No,No,No,4,5,Yes,1,4,Yes,Life Insurance,31,77,30,67,36,52,34,18827,200000
+Joseph Lawrence,54,Male,No,0,2317905,Doctor,No,Yes,No,4,0,No,3,3,Yes,Vehicle Insurance,84,96,97,86,54,48,46,31895,2000000
+Mark Arias,51,Female,Yes,1,1837692,Farmer,No,No,Yes,4,4,Yes,2,2,No,Life Insurance,43,84,54,37,73,70,90,8960,2000000
+Michele Evans,37,Female,Yes,0,714192,Business,Yes,No,Yes,4,0,Yes,9,5,No,Life Insurance,39,93,81,39,55,58,84,49606,200000
+Mary Reeves,19,Female,Yes,4,1998007,Teacher,Yes,No,Yes,4,2,Yes,13,5,Yes,Home Insurance,40,55,64,78,94,93,86,25846,200000
+Jacob Robinson,27,Female,Yes,4,2415368,Doctor,Yes,No,No,3,3,No,4,4,No,Vehicle Insurance,67,35,99,57,32,20,31,23005,500000
+Jennifer Campbell,58,Male,No,0,2047575,IT Professional,Yes,Yes,Yes,6,4,Yes,1,4,No,Travel Insurance,69,71,42,89,85,46,49,43010,1000000
+Katie Parsons,58,Female,No,4,413748,Government Employee,Yes,Yes,No,1,4,No,8,4,Yes,Life Insurance,77,86,69,86,62,76,71,17039,1000000
+Anne Barry,64,Male,No,0,1806078,Engineer,No,Yes,Yes,2,1,Yes,14,5,No,Life Insurance,65,92,46,72,82,65,63,23976,2000000
+Stephen Castillo,62,Male,No,0,494951,Business,No,Yes,No,6,1,Yes,15,4,No,Life Insurance,83,97,54,65,47,62,87,41042,2000000
+April Morris,42,Female,No,4,1072748,Doctor,No,No,No,4,4,Yes,1,3,Yes,Health Insurance,95,30,55,71,76,22,51,6987,5000000
+Michael White,61,Female,Yes,2,268308,Business,Yes,Yes,No,2,4,Yes,4,1,Yes,Home Insurance,32,58,62,54,83,100,82,4828,500000
+Michael Wells,23,Male,No,0,2021187,Farmer,No,No,Yes,1,5,No,12,1,No,Travel Insurance,60,48,31,99,70,34,91,22666,200000
+Brittany Carter,63,Female,Yes,1,570123,Farmer,Yes,No,No,2,1,Yes,8,5,Yes,Health Insurance,83,62,60,55,59,97,39,7570,200000
+Stephen Herman,64,Female,No,0,2054864,Teacher,Yes,Yes,Yes,3,4,No,7,5,No,Vehicle Insurance,52,45,99,69,96,77,61,22067,5000000
+Mary Swanson,26,Female,No,2,689489,Lawyer,No,No,Yes,2,1,Yes,12,2,No,Home Insurance,57,47,52,52,85,53,99,47370,2000000
+Megan Williams,27,Female,Yes,4,2380150,Lawyer,No,Yes,No,3,1,No,8,2,Yes,Health Insurance,78,33,54,47,38,27,84,3823,2000000
+Timothy Hernandez,31,Female,No,1,393615,IT Professional,No,Yes,Yes,2,1,No,5,1,Yes,Life Insurance,60,99,63,46,59,88,72,30836,1000000
+Eric Deleon,35,Male,No,0,1042435,Doctor,No,No,No,2,3,Yes,1,4,No,Home Insurance,30,53,64,40,94,42,88,23024,5000000
+Charlotte Carroll,33,Male,No,0,2457482,Engineer,Yes,No,Yes,4,2,Yes,7,5,No,Travel Insurance,72,55,76,85,42,41,47,13978,500000
+Justin Vazquez,25,Female,No,1,2173410,Engineer,No,No,Yes,2,2,Yes,3,4,Yes,Home Insurance,69,30,61,58,82,78,36,42669,1000000
+Eric Bond,33,Female,Yes,3,1155818,Lawyer,No,Yes,No,5,2,Yes,4,1,No,Vehicle Insurance,83,58,86,31,45,25,81,31379,5000000
+Garrett Kidd,30,Male,No,0,1529265,IT Professional,No,No,Yes,4,1,Yes,0,4,Yes,Life Insurance,67,93,78,33,39,42,48,8941,200000
+Andre Brown,46,Male,No,0,331032,IT Professional,No,Yes,No,5,1,Yes,8,1,No,Life Insurance,51,99,33,76,44,59,88,28670,2000000
+Christina Hansen,54,Male,No,0,1351492,Lawyer,Yes,Yes,No,3,0,No,1,2,Yes,Health Insurance,78,76,61,67,70,81,95,10195,200000
+Matthew Santiago,20,Female,No,0,857054,Engineer,Yes,Yes,No,7,4,Yes,8,1,No,Travel Insurance,36,51,89,94,93,72,67,17206,2000000
+Mary Moore,57,Female,No,0,1567247,Government Employee,Yes,No,Yes,4,5,Yes,11,3,No,Vehicle Insurance,31,68,99,36,56,69,92,46500,1000000
+Karen Flowers,51,Female,Yes,3,2284123,Government Employee,Yes,No,No,3,1,Yes,3,5,No,Life Insurance,69,94,48,59,84,49,87,24891,200000
+Robin Bradford,27,Female,No,2,998234,IT Professional,Yes,No,Yes,3,0,Yes,9,1,No,Travel Insurance,30,67,73,79,61,65,34,15482,500000
+Emma Jackson,50,Male,No,0,298020,Student,No,Yes,Yes,4,2,No,8,2,No,Health Insurance,97,78,69,62,69,44,84,5240,2000000
+Ian Wright,42,Female,No,0,1120070,Engineer,Yes,Yes,Yes,4,1,No,9,4,Yes,Vehicle Insurance,64,51,91,57,75,73,52,26221,5000000
+Anna Wilson,38,Female,No,4,737255,Doctor,Yes,No,No,6,3,No,8,1,Yes,Vehicle Insurance,92,42,94,68,45,33,89,14681,5000000
+Cindy Smith,18,Female,No,2,2306628,Business,No,No,Yes,3,5,Yes,7,2,No,Health Insurance,88,45,77,69,68,45,99,27845,500000
+David Phelps,28,Male,No,0,2473982,Lawyer,Yes,No,Yes,2,3,No,7,2,No,Health Insurance,74,36,72,62,39,88,97,47472,5000000
+Melinda Washington,44,Male,No,0,1240303,Engineer,No,No,No,6,4,Yes,15,5,Yes,Vehicle Insurance,46,83,84,51,65,41,70,28061,5000000
+Daniel Grimes,56,Female,Yes,0,706097,Lawyer,No,Yes,No,4,5,Yes,15,2,Yes,Home Insurance,61,59,85,38,92,46,30,41397,5000000
+Frederick Smith,54,Female,Yes,1,1150505,Farmer,Yes,No,No,8,1,Yes,13,1,No,Health Insurance,63,38,57,38,59,44,45,19791,5000000
+Olivia Williams,36,Female,Yes,4,1491411,Business,No,Yes,Yes,1,5,No,8,5,No,Life Insurance,36,98,36,98,56,60,91,13242,2000000
+Michael Mcgrath,64,Male,No,0,1499430,Business,Yes,Yes,No,3,1,Yes,9,5,Yes,Home Insurance,43,34,89,93,94,21,50,24497,500000
+Derek Dixon,43,Male,No,0,664848,Business,Yes,No,No,4,5,Yes,9,4,Yes,Home Insurance,75,70,58,48,77,68,79,34609,200000
+Tyler Clements,21,Male,No,0,2131325,Engineer,No,Yes,Yes,6,1,No,10,5,Yes,Travel Insurance,67,43,88,94,77,32,76,34045,2000000
+April Miller,21,Male,No,0,667473,IT Professional,Yes,No,No,7,1,No,7,1,Yes,Vehicle Insurance,61,90,97,57,61,95,38,24389,5000000
+Sabrina Lopez,55,Male,No,0,977548,Government Employee,Yes,Yes,Yes,5,4,Yes,6,2,No,Home Insurance,83,40,47,89,99,59,44,3423,500000
+Gary Noble,44,Female,No,3,1866356,Business,No,No,Yes,7,5,No,3,4,Yes,Travel Insurance,83,57,36,88,65,78,82,32742,500000
+Melissa Johnson,40,Female,No,4,2184648,Teacher,No,No,No,8,0,Yes,7,3,Yes,Travel Insurance,38,60,39,77,30,68,56,35125,500000
+Michelle Petersen,42,Female,Yes,1,447992,Farmer,No,No,Yes,1,0,Yes,9,3,Yes,Home Insurance,73,69,39,72,75,22,58,44255,5000000
+Darren Wang,56,Male,No,0,2261838,Business,No,Yes,No,2,0,No,10,2,No,Life Insurance,92,94,41,46,52,69,50,32195,2000000
+Faith Smith,51,Male,No,0,693093,Government Employee,No,No,No,3,0,Yes,12,3,No,Vehicle Insurance,98,34,99,40,81,64,65,21321,200000
+Natasha Matthews,64,Male,No,0,1205895,Government Employee,Yes,No,No,1,3,No,8,1,Yes,Vehicle Insurance,36,53,79,76,49,44,52,22141,2000000
+Taylor Patrick,40,Female,Yes,1,1077872,Student,No,No,Yes,2,5,No,10,2,No,Health Insurance,99,96,67,66,32,32,46,6935,1000000
+Mike Gross,36,Male,No,0,936486,Teacher,No,Yes,No,3,2,Yes,15,3,Yes,Health Insurance,79,37,68,59,79,67,43,25319,2000000
+Thomas Howard,34,Male,No,0,717220,Student,No,Yes,Yes,2,0,No,15,3,No,Home Insurance,49,70,45,39,72,83,90,30075,500000
+Stuart King,41,Male,No,0,1653567,Government Employee,No,Yes,Yes,2,0,Yes,3,1,Yes,Travel Insurance,71,67,34,97,40,63,34,20930,200000
+Dawn Li,25,Female,No,0,764511,Government Employee,Yes,Yes,No,7,2,No,7,2,Yes,Travel Insurance,83,76,94,96,81,24,70,41789,200000
+Michael Collins,53,Male,No,0,1765997,Business,Yes,Yes,Yes,6,3,Yes,2,4,Yes,Vehicle Insurance,34,70,95,32,68,71,92,27469,200000
+Kimberly Willis,19,Male,No,0,1706538,Lawyer,Yes,No,No,7,1,Yes,4,1,No,Vehicle Insurance,55,70,74,41,33,47,47,15203,1000000
+Brooke Murphy,41,Female,No,1,1042570,IT Professional,No,No,Yes,2,4,No,15,4,No,Home Insurance,94,77,94,76,97,30,79,13249,2000000
+Allen Farrell,52,Male,No,0,2426004,Student,Yes,Yes,Yes,4,4,No,1,1,Yes,Life Insurance,54,95,40,63,78,65,80,43311,200000
+Angela Daniel,59,Female,Yes,1,1722196,Business,No,Yes,Yes,5,3,No,6,4,Yes,Vehicle Insurance,83,41,97,82,48,74,44,11231,5000000
+James Williams,63,Male,No,0,1045043,Farmer,No,Yes,No,1,0,No,11,5,No,Travel Insurance,77,95,71,100,69,78,100,30579,5000000
+Diane Stevens,55,Female,Yes,3,727054,Farmer,No,No,No,1,1,No,8,4,No,Vehicle Insurance,85,68,95,80,64,31,91,47993,2000000
+Rachel Taylor,44,Male,No,0,1956218,IT Professional,Yes,Yes,No,8,1,Yes,9,5,No,Health Insurance,81,63,46,46,31,44,32,35483,2000000
+Regina Rice,35,Male,No,0,1015309,Engineer,Yes,No,No,6,1,No,1,4,Yes,Vehicle Insurance,78,63,97,36,65,27,49,21998,2000000
+Dalton Escobar,62,Female,Yes,0,1632567,Business,Yes,Yes,No,3,2,Yes,4,3,Yes,Travel Insurance,75,53,55,96,68,66,37,11542,5000000
+Robert Martinez,20,Male,No,0,1128069,Farmer,No,Yes,No,5,0,Yes,11,4,Yes,Life Insurance,84,97,68,65,63,31,68,42768,2000000
+Jamie Johnson,24,Male,No,0,802339,Teacher,No,Yes,Yes,6,5,No,1,5,Yes,Health Insurance,92,45,80,51,75,86,92,16211,5000000
+Rebecca Keller,54,Female,No,0,2384276,IT Professional,Yes,Yes,Yes,7,3,Yes,6,1,Yes,Travel Insurance,32,78,39,89,65,82,41,43833,5000000
+Cynthia Little,42,Female,No,0,593671,Teacher,No,No,No,7,1,No,13,2,No,Home Insurance,64,71,84,56,85,66,31,33549,2000000
+Cassandra Price,54,Female,Yes,2,1135190,Farmer,No,Yes,Yes,5,2,No,3,5,No,Home Insurance,65,45,52,35,89,78,66,43434,5000000
+Michelle Mcgee,56,Male,No,0,1629005,Student,No,Yes,No,8,0,No,4,4,Yes,Life Insurance,38,84,45,43,37,40,44,2504,2000000
+Anthony Weaver,54,Female,Yes,4,427598,Business,Yes,Yes,Yes,4,1,No,0,5,Yes,Travel Insurance,64,45,49,81,69,35,69,5122,200000
+Shelly Woods,28,Female,No,3,2207650,Teacher,Yes,No,No,6,2,Yes,8,2,No,Life Insurance,75,79,71,54,61,73,78,48922,5000000
+Ashley Nelson,35,Male,No,0,561601,Lawyer,Yes,Yes,Yes,2,0,No,10,1,No,Health Insurance,94,65,93,66,78,23,76,33832,500000
+Patrick Scott,46,Female,No,4,1937029,Government Employee,No,Yes,No,7,3,No,9,4,Yes,Life Insurance,85,86,56,46,67,91,69,26889,2000000
+Johnathan Ramsey,24,Female,No,4,620517,Farmer,No,Yes,No,4,3,No,11,5,No,Life Insurance,56,88,72,45,84,40,41,7434,5000000
+Michael Robbins,33,Male,No,0,594878,Teacher,No,No,Yes,1,2,Yes,12,5,No,Life Insurance,55,99,70,33,70,97,49,32547,2000000
+Samantha Simpson,28,Male,No,0,1142367,Lawyer,Yes,Yes,No,4,3,Yes,4,5,Yes,Home Insurance,60,63,55,32,88,45,71,33101,1000000
+Sandra Williams,45,Male,No,0,992745,Business,Yes,No,No,7,5,Yes,2,3,No,Vehicle Insurance,57,42,94,57,72,57,53,44257,2000000
+Troy Meadows,40,Male,No,0,2448702,IT Professional,No,Yes,Yes,6,4,No,15,5,No,Life Insurance,56,93,81,54,59,65,62,12701,500000
+Benjamin Lopez,64,Female,No,1,1332439,Business,Yes,Yes,No,1,0,Yes,0,5,Yes,Home Insurance,84,81,50,42,96,33,31,8454,200000
+Kayla Hughes,20,Male,No,0,2430055,Engineer,Yes,Yes,No,4,0,Yes,8,5,No,Travel Insurance,83,73,74,88,59,68,73,15747,500000
+John Wilson,37,Female,Yes,1,1459810,IT Professional,No,Yes,No,6,4,No,6,1,Yes,Health Insurance,76,37,30,38,68,44,37,46854,500000
+Tamara Barr,46,Male,No,0,2373113,Business,No,No,No,3,3,Yes,12,1,No,Life Insurance,82,98,53,49,89,45,87,46152,5000000
+Amanda Howard,60,Female,Yes,3,295667,Business,Yes,No,Yes,4,5,Yes,6,4,Yes,Life Insurance,36,80,73,53,40,58,63,42098,5000000
+Charles Schmidt,22,Female,No,1,1934811,Engineer,Yes,No,Yes,4,0,No,8,4,Yes,Health Insurance,95,78,51,70,63,49,62,7192,5000000
+Maria Ward,29,Female,No,0,490911,Engineer,No,No,No,7,3,No,4,5,No,Home Insurance,54,97,55,96,98,92,54,8038,500000
+Elizabeth Garcia,46,Male,No,0,1016685,Teacher,No,No,Yes,6,2,Yes,1,1,Yes,Home Insurance,42,51,34,71,81,69,59,26014,2000000
+Emily Perez,18,Female,Yes,3,1108886,Lawyer,No,No,Yes,4,4,No,12,3,Yes,Vehicle Insurance,66,35,84,62,55,84,45,16228,200000
+Kenneth Johnson,51,Female,No,1,2008175,Business,No,Yes,No,2,1,No,0,4,No,Life Insurance,78,94,85,65,34,55,90,2896,1000000
+James Miller,57,Male,No,0,2448993,Student,Yes,Yes,No,8,4,No,6,4,No,Life Insurance,46,95,66,77,92,96,44,49514,5000000
+Katelyn Taylor,61,Female,Yes,1,213402,IT Professional,Yes,Yes,No,2,3,No,3,3,Yes,Travel Insurance,49,94,40,99,64,35,83,2889,200000
+Rachel Cook,19,Female,No,2,1264582,Doctor,No,Yes,No,7,1,No,0,4,Yes,Travel Insurance,77,66,39,94,60,57,89,38580,500000
+Angelica Gregory,38,Female,Yes,4,256289,Teacher,No,No,Yes,8,2,No,12,1,No,Vehicle Insurance,78,89,94,92,31,91,71,41647,5000000
+Elizabeth Gomez,32,Female,Yes,4,1936137,Business,No,No,Yes,1,3,No,3,1,No,Life Insurance,46,93,66,85,75,37,51,5667,500000
+David Kerr,63,Female,Yes,1,227830,Farmer,No,Yes,No,3,0,Yes,8,5,Yes,Life Insurance,42,95,66,55,34,75,77,9820,500000
+Dr. David Wright MD,58,Male,No,0,713106,Farmer,No,Yes,Yes,8,3,Yes,0,2,Yes,Home Insurance,64,82,48,34,97,82,66,25134,500000
+Eugene Brown,27,Male,No,0,982103,IT Professional,No,Yes,Yes,1,5,Yes,15,5,No,Life Insurance,30,71,55,60,55,56,61,18979,5000000
+James Castro,61,Female,No,3,2054489,Government Employee,Yes,No,Yes,7,0,No,15,5,Yes,Home Insurance,75,79,88,86,96,23,90,8989,500000
+Lisa Meyer,61,Male,No,0,1225013,IT Professional,Yes,Yes,No,5,3,Yes,9,2,No,Health Insurance,100,81,48,82,95,93,100,39932,200000
+Robert Koch,33,Male,No,0,799972,Government Employee,Yes,No,No,6,0,No,9,5,No,Travel Insurance,92,94,90,100,71,73,76,33561,200000
+Mr. Robert Hart,27,Male,No,0,2369785,Lawyer,No,No,No,8,5,No,11,2,No,Vehicle Insurance,63,92,100,45,47,86,79,14180,1000000
+Jessica Johnson,35,Female,Yes,0,1773970,IT Professional,Yes,No,Yes,5,0,Yes,10,4,No,Life Insurance,31,79,36,34,68,22,41,12272,2000000
+Felicia Perry,30,Female,Yes,0,2485873,Farmer,Yes,Yes,Yes,2,0,Yes,6,5,No,Vehicle Insurance,87,32,99,62,49,57,47,21505,2000000
+Steve Johnson,23,Male,No,0,1924488,Doctor,No,No,No,5,1,No,7,4,Yes,Health Insurance,78,73,31,69,48,99,33,48259,2000000
+Allen Johnson,56,Male,No,0,1852002,Government Employee,Yes,Yes,No,3,0,Yes,5,5,No,Vehicle Insurance,67,93,95,87,32,74,34,27477,5000000
+Janet Smith,43,Female,Yes,3,1936582,Teacher,No,No,Yes,7,0,No,0,1,No,Life Insurance,60,67,58,39,52,92,62,43833,2000000
+Jacqueline Lee,26,Female,Yes,0,2425354,IT Professional,No,No,No,6,1,No,13,3,No,Vehicle Insurance,32,95,97,63,71,91,32,26142,2000000
+Colleen Berry,60,Male,No,0,1094065,Teacher,Yes,Yes,Yes,7,5,No,0,4,Yes,Travel Insurance,79,51,39,100,40,26,63,41139,1000000
+Stacy White,23,Male,No,0,2389051,Lawyer,Yes,Yes,No,1,5,No,12,4,No,Life Insurance,66,86,42,71,34,73,37,49942,1000000
+Matthew King,24,Male,No,0,1691761,Student,Yes,No,Yes,8,2,Yes,5,1,No,Life Insurance,88,93,77,82,62,89,55,30359,1000000
+Frederick Bell,60,Male,No,0,2368560,Engineer,Yes,Yes,No,7,3,No,11,5,Yes,Home Insurance,33,77,68,77,81,87,56,31547,500000
+Aaron Hall,20,Male,No,0,1753665,Engineer,Yes,Yes,No,1,1,No,9,5,No,Life Insurance,58,100,86,50,80,21,97,23320,2000000
+Christopher Cole,28,Male,No,0,617678,Teacher,No,No,No,3,1,Yes,9,2,No,Travel Insurance,57,55,68,72,45,81,38,2286,2000000
+Michael Porter,44,Female,Yes,1,2328773,Business,Yes,Yes,Yes,7,5,Yes,5,3,No,Travel Insurance,72,87,81,96,38,63,90,14430,200000
+Rhonda Gibson,52,Male,No,0,744411,Engineer,No,Yes,No,8,2,No,12,2,No,Vehicle Insurance,53,34,99,38,66,24,60,12029,200000
+Bradley Rivers,33,Female,No,2,2113143,Farmer,Yes,Yes,Yes,1,5,No,10,4,No,Travel Insurance,85,44,84,89,89,53,55,33505,1000000
+Kevin Campbell,41,Female,Yes,4,1248097,Teacher,No,No,Yes,2,2,No,3,1,Yes,Home Insurance,37,73,81,50,84,22,54,31930,5000000
+Sara Mckenzie,31,Female,Yes,1,2364440,Teacher,No,No,Yes,7,3,No,10,2,No,Travel Insurance,43,57,34,64,38,30,100,45564,1000000
+Edward Scott,31,Male,No,0,459784,Doctor,Yes,No,Yes,5,2,Yes,5,5,No,Home Insurance,74,74,57,78,84,40,64,47432,200000
+Sergio Lee,64,Female,Yes,2,2226875,Student,Yes,Yes,No,6,4,No,7,5,No,Vehicle Insurance,55,74,87,72,64,58,48,12791,5000000
+Paul Stephens,60,Female,Yes,4,559772,Student,No,No,No,5,3,Yes,9,5,Yes,Health Insurance,91,83,68,74,61,23,34,44150,200000
+Melissa Sullivan,50,Male,No,0,2081150,Lawyer,Yes,No,No,2,0,Yes,6,3,Yes,Home Insurance,78,39,71,64,81,92,61,13558,500000
+Anna Lam,40,Female,Yes,0,491740,Engineer,No,Yes,Yes,4,0,Yes,13,1,Yes,Life Insurance,50,99,98,96,30,97,90,16744,500000
+Kelly Morales,49,Male,No,0,1921756,Business,Yes,Yes,Yes,2,1,No,15,4,No,Travel Insurance,84,63,50,91,38,34,56,33086,1000000
+Denise Sparks,43,Male,No,0,2427415,Doctor,Yes,Yes,Yes,5,5,Yes,6,4,No,Life Insurance,86,92,87,61,54,29,34,8591,500000
+Taylor Palmer,24,Female,Yes,4,2489517,Farmer,No,No,Yes,8,3,No,0,3,No,Home Insurance,60,86,82,52,96,50,99,23106,2000000
+Andrew Silva,61,Male,No,0,665580,Business,Yes,No,No,6,1,Yes,0,5,Yes,Travel Insurance,33,62,43,91,46,82,97,21771,200000
+Larry Marshall,26,Female,No,0,379634,IT Professional,Yes,Yes,Yes,6,4,No,7,3,Yes,Vehicle Insurance,35,44,97,45,34,47,33,42875,5000000
+Daniel Carter,49,Female,Yes,1,875155,Business,Yes,Yes,Yes,1,1,No,12,1,Yes,Travel Insurance,50,67,81,83,48,51,91,39364,2000000
+Jeffrey Davis,35,Male,No,0,378482,Lawyer,No,No,No,7,3,No,11,3,Yes,Health Insurance,83,66,39,81,35,32,44,43163,5000000
+Christian Smith,64,Female,Yes,3,216303,Teacher,No,Yes,No,3,3,No,11,5,Yes,Travel Insurance,42,82,31,90,31,59,34,17896,1000000
+Jacob Watson,41,Male,No,0,1393004,Engineer,Yes,Yes,No,5,2,Yes,10,2,No,Health Insurance,96,62,76,32,37,24,48,36206,500000
+Amy Bright,20,Male,No,0,1895358,IT Professional,Yes,Yes,No,7,4,No,0,4,No,Vehicle Insurance,83,38,100,64,56,84,68,38320,200000
+Jason Smith,54,Male,No,0,441583,Student,Yes,No,No,2,1,Yes,15,4,No,Life Insurance,39,85,40,32,33,50,77,49616,200000
+Jennifer Johnston MD,64,Male,No,0,352783,Doctor,Yes,Yes,No,2,1,No,6,2,No,Travel Insurance,39,66,34,99,57,95,70,38711,5000000
+Collin Kelly,55,Male,No,0,1274161,Teacher,No,Yes,No,1,4,No,8,1,Yes,Vehicle Insurance,45,74,88,74,81,28,67,29323,500000
+Matthew House,55,Female,No,1,1368392,Engineer,No,No,No,2,2,No,14,2,No,Travel Insurance,67,30,64,86,79,74,52,31336,200000
+Mackenzie Lawson,52,Male,No,0,1752396,Student,Yes,Yes,No,5,0,No,11,4,Yes,Travel Insurance,68,45,38,86,75,96,66,15141,500000
+Jessica Hayes,18,Female,Yes,2,740583,Engineer,Yes,Yes,No,2,3,Yes,8,5,No,Travel Insurance,43,40,38,96,63,81,59,10462,1000000
+Catherine Brennan,35,Male,No,0,2479243,Farmer,Yes,Yes,Yes,6,4,Yes,14,2,Yes,Health Insurance,87,48,58,67,43,46,65,24096,2000000
+Marc Allen,49,Male,No,0,404810,Doctor,Yes,No,No,6,0,Yes,12,3,Yes,Vehicle Insurance,46,32,96,73,61,55,80,11338,500000
+Audrey Johnson,50,Male,No,0,939949,Doctor,No,Yes,Yes,3,4,Yes,5,3,Yes,Life Insurance,63,98,72,88,86,37,51,34160,5000000
+Nicole West,34,Female,Yes,3,1614456,Government Employee,No,Yes,Yes,8,5,No,12,1,No,Home Insurance,36,47,46,33,84,43,52,15871,5000000
+Amanda Rodriguez,20,Female,No,3,1004016,Lawyer,Yes,Yes,No,7,1,No,0,5,Yes,Health Insurance,65,65,59,54,37,41,62,18008,1000000
+Katherine Lynch,49,Male,No,0,1739467,Farmer,No,Yes,Yes,7,4,Yes,9,4,No,Vehicle Insurance,62,51,80,59,77,27,87,13644,200000
+Gary Hoffman,50,Male,No,0,2345232,Lawyer,No,No,Yes,1,2,No,15,2,No,Home Insurance,47,71,49,62,87,78,94,16580,1000000
+Mark Evans,24,Male,No,0,1446195,Government Employee,Yes,No,No,8,2,No,6,5,Yes,Travel Insurance,54,62,67,99,37,28,79,12894,200000
+Gabriel Williams,49,Male,No,0,1110308,IT Professional,Yes,Yes,Yes,5,1,Yes,8,3,Yes,Life Insurance,89,94,45,81,59,97,72,8615,1000000
+Carla Simpson,56,Male,No,0,707293,IT Professional,No,Yes,Yes,4,0,No,0,4,No,Life Insurance,52,91,64,54,84,91,98,7709,1000000
+Theresa Howard,60,Male,No,0,1978973,Lawyer,Yes,No,No,7,0,Yes,3,2,No,Health Insurance,86,72,59,53,49,75,84,37428,5000000
+Daniel Brown,57,Male,No,0,2370218,Student,Yes,Yes,Yes,8,4,No,13,5,No,Travel Insurance,58,63,80,97,43,66,97,47520,2000000
+Kristine Johnson,43,Male,No,0,2383011,Doctor,No,No,No,7,4,Yes,0,3,Yes,Travel Insurance,78,66,87,98,91,69,88,44593,2000000
+Douglas Morris,18,Male,No,0,935495,Doctor,No,No,No,4,0,No,13,4,No,Vehicle Insurance,45,48,97,43,84,54,73,9099,500000
+David Harper,33,Male,No,0,1176909,Teacher,No,Yes,No,4,1,Yes,4,1,Yes,Health Insurance,92,75,80,52,83,79,80,24457,5000000
+Michelle Reid,48,Male,No,0,2272418,Lawyer,Yes,No,No,5,5,Yes,1,3,Yes,Vehicle Insurance,52,68,93,81,54,100,56,16925,500000
+Karla Schneider,35,Female,No,3,1387544,IT Professional,No,No,No,5,2,No,13,3,Yes,Travel Insurance,52,77,78,80,39,39,90,36592,500000
+Heather Gutierrez,32,Female,Yes,4,736360,Lawyer,Yes,No,Yes,8,2,No,2,5,No,Home Insurance,49,58,66,30,78,55,51,42777,200000
+Michelle Rogers,45,Female,Yes,2,871248,Teacher,No,Yes,Yes,5,0,No,8,5,Yes,Vehicle Insurance,38,40,95,61,92,66,66,19060,5000000
+Melanie Phillips,55,Female,Yes,2,1048433,Engineer,No,No,No,8,5,Yes,2,5,Yes,Travel Insurance,98,82,85,100,74,74,81,10136,1000000
+Elizabeth Chandler,43,Male,No,0,1415929,Farmer,Yes,Yes,No,8,2,Yes,13,5,No,Vehicle Insurance,57,83,95,34,62,97,59,44819,1000000
+David Chambers,21,Female,No,0,345406,Student,Yes,No,Yes,8,5,Yes,13,2,No,Home Insurance,39,40,73,43,89,35,85,13392,200000
+Bruce Dennis,54,Female,No,2,1045967,Teacher,Yes,Yes,No,1,2,Yes,4,4,No,Travel Insurance,82,84,49,99,77,90,77,10957,200000
+Maxwell Powell,63,Male,No,0,354137,Student,No,Yes,No,7,4,Yes,6,1,Yes,Vehicle Insurance,49,82,91,68,89,84,58,2327,200000
+Sarah Hinton,34,Male,No,0,744015,IT Professional,Yes,No,No,1,0,No,10,4,Yes,Life Insurance,87,97,50,70,86,91,84,13178,2000000
+Gary Adams,28,Male,No,0,875153,Engineer,Yes,Yes,No,4,3,Yes,0,4,Yes,Travel Insurance,80,82,88,90,68,79,89,48214,1000000
+Hayden Powell,48,Female,Yes,4,469172,Student,No,Yes,Yes,1,2,No,0,4,No,Travel Insurance,79,48,83,93,63,28,54,43851,200000
+Jeffery Walker,49,Male,No,0,1482499,Student,No,No,No,7,3,Yes,9,1,No,Life Insurance,94,95,40,51,45,73,97,16813,2000000
+Gregory Mejia,33,Male,No,0,428867,Teacher,Yes,No,No,1,4,Yes,8,5,No,Home Insurance,44,30,42,35,63,51,34,34137,200000
+Matthew Ramsey,23,Male,No,0,1815599,Lawyer,No,No,Yes,7,0,Yes,4,1,Yes,Vehicle Insurance,92,92,94,61,57,25,62,37096,500000
+Mr. Ryan Christian,45,Male,No,0,2359678,Government Employee,Yes,Yes,No,5,1,No,11,5,No,Life Insurance,61,98,60,60,45,28,42,4294,200000
+Deanna King,57,Male,No,0,1842627,Farmer,Yes,No,No,2,4,No,0,1,No,Home Insurance,89,74,46,57,100,58,52,11500,1000000
+Robert Raymond,27,Male,No,0,209513,Doctor,No,Yes,Yes,3,3,No,7,3,Yes,Home Insurance,63,71,79,37,95,25,96,40557,2000000
+Hannah Cannon,24,Male,No,0,1329878,IT Professional,No,Yes,No,8,1,Yes,2,4,Yes,Life Insurance,32,78,41,63,47,47,73,14677,200000
+Samuel Hall,29,Male,No,0,2127896,IT Professional,Yes,Yes,No,8,5,No,15,2,No,Travel Insurance,78,31,48,91,53,40,99,37087,500000
+Madison Walls,50,Female,Yes,0,1501697,Government Employee,No,No,Yes,2,3,No,6,1,No,Home Insurance,39,63,61,49,79,52,67,30915,200000
+Melanie Smith,29,Female,Yes,3,425484,Engineer,Yes,No,Yes,3,3,No,14,5,Yes,Home Insurance,67,66,56,38,85,38,31,13520,1000000
+Debra Mitchell,32,Female,Yes,1,314102,Student,No,Yes,Yes,2,1,Yes,7,3,Yes,Vehicle Insurance,70,57,75,49,64,80,75,8008,2000000
+Michael Armstrong,43,Female,Yes,2,979153,Business,No,No,Yes,7,0,Yes,3,4,No,Vehicle Insurance,37,30,38,33,38,55,67,28724,1000000
+Sharon Williams,51,Female,Yes,3,254595,Doctor,Yes,Yes,Yes,8,2,No,1,4,No,Travel Insurance,38,45,31,71,30,46,71,44279,200000
+Alex Williams,34,Male,No,0,397950,IT Professional,No,No,No,7,0,No,2,1,Yes,Home Insurance,86,86,64,77,93,63,47,45963,2000000
+John Perez,18,Female,No,1,1600546,Student,Yes,No,No,6,3,Yes,11,4,Yes,Vehicle Insurance,84,84,96,58,80,44,44,16343,5000000
+Jay Watson,52,Female,No,2,1036656,Teacher,Yes,Yes,No,2,0,No,5,4,Yes,Vehicle Insurance,33,69,75,59,56,36,66,39872,1000000
+Mary Wright,20,Female,No,3,2475276,Teacher,No,No,No,4,3,Yes,10,1,No,Travel Insurance,48,34,55,88,80,39,96,24798,5000000
+Joshua Quinn,20,Male,No,0,1638158,Student,No,No,No,2,5,Yes,15,4,Yes,Travel Insurance,97,59,97,100,40,70,64,39054,5000000
+Greg Rojas,31,Female,No,0,1386851,Engineer,No,No,No,4,0,Yes,12,5,Yes,Vehicle Insurance,63,35,97,72,50,71,79,40653,200000
+Dr. April Booth,50,Male,No,0,636581,Doctor,Yes,No,Yes,4,0,Yes,7,3,Yes,Vehicle Insurance,57,88,95,61,56,51,45,19887,200000
+Alexandra Diaz,63,Male,No,0,1171325,Government Employee,Yes,Yes,Yes,5,0,Yes,9,1,No,Life Insurance,53,88,59,75,45,37,32,32859,500000
+Colton Molina,21,Male,No,0,1367251,Doctor,No,No,Yes,2,4,Yes,2,4,No,Health Insurance,71,71,55,63,67,94,31,8076,500000
+Brian Massey,49,Female,Yes,3,1732971,Student,Yes,Yes,Yes,2,0,Yes,15,1,Yes,Travel Insurance,58,35,42,60,53,83,80,3155,1000000
+Jose Reed,34,Male,No,0,1243563,Student,Yes,No,Yes,4,4,No,10,3,Yes,Travel Insurance,33,64,77,93,81,68,42,36798,200000
+Lisa Hudson,63,Female,No,1,2177016,Lawyer,Yes,Yes,No,2,1,Yes,8,2,Yes,Vehicle Insurance,57,51,61,33,46,74,72,26427,5000000
+Susan Benson,40,Male,No,0,1140333,Government Employee,Yes,No,No,6,2,No,2,5,Yes,Vehicle Insurance,42,31,95,42,91,23,66,8910,2000000
+Sheila Acevedo,22,Male,No,0,2274043,Engineer,No,Yes,No,6,5,Yes,0,1,Yes,Home Insurance,96,91,38,30,100,83,35,2832,500000
+Kelsey Valdez,63,Female,No,4,2148666,Farmer,Yes,Yes,Yes,2,2,Yes,6,5,Yes,Travel Insurance,90,31,70,100,81,92,85,27054,200000
+Amanda Foley,61,Female,No,4,2163397,Farmer,Yes,No,Yes,8,1,Yes,9,5,Yes,Health Insurance,99,50,46,96,77,42,90,45998,200000
+Alice Tyler,57,Male,No,0,1019668,Teacher,Yes,Yes,Yes,2,0,No,11,3,Yes,Life Insurance,60,100,52,36,39,69,60,5624,200000
+Raymond Mckay,47,Female,No,4,945765,IT Professional,No,No,Yes,6,4,No,3,5,Yes,Home Insurance,65,55,57,62,73,98,33,24989,500000
+Christopher Harrington,51,Male,No,0,957268,Business,Yes,Yes,No,6,0,No,13,1,No,Travel Insurance,54,42,70,78,45,65,67,27305,1000000
+Pamela Mccoy,48,Female,Yes,1,694546,Government Employee,No,No,No,7,5,Yes,3,2,No,Health Insurance,99,55,84,65,67,52,73,9756,2000000
+Brenda Brown,59,Female,Yes,0,2106348,Teacher,No,No,No,2,2,No,11,3,No,Travel Insurance,46,39,57,61,45,58,77,20326,1000000
+Debra Wilson,52,Female,Yes,0,1157608,IT Professional,No,Yes,Yes,2,2,No,3,4,No,Vehicle Insurance,52,73,90,33,71,92,52,37064,200000
+Daniel Wallace,18,Male,No,0,2091430,Government Employee,Yes,No,Yes,8,3,No,9,5,Yes,Vehicle Insurance,53,78,95,92,42,93,33,17478,1000000
+Ricardo Mcdonald,56,Male,No,0,1683392,Engineer,No,Yes,No,5,5,No,5,5,No,Travel Insurance,95,35,56,100,66,69,73,9192,500000
+Edward Williams,60,Female,Yes,0,620542,Student,No,Yes,Yes,8,1,Yes,6,1,Yes,Home Insurance,75,59,56,68,88,95,71,25865,1000000
+Lisa Collins,56,Female,Yes,3,1159042,Business,No,Yes,Yes,8,4,Yes,12,4,No,Home Insurance,46,46,33,64,65,26,43,19494,200000
+Lisa Brown,20,Male,No,0,1363306,Student,Yes,No,Yes,6,0,No,8,4,No,Health Insurance,78,52,57,70,55,96,84,19833,1000000
+Dillon White,43,Male,No,0,296434,Engineer,No,No,Yes,2,4,Yes,15,2,No,Travel Insurance,94,77,92,99,81,79,99,33439,2000000
+David Atkins,52,Female,Yes,3,1440950,Government Employee,No,No,Yes,3,1,No,5,2,No,Home Insurance,36,74,77,39,79,74,56,31388,5000000
+Paul Green,52,Female,No,2,1670392,Doctor,No,No,No,7,1,No,11,3,Yes,Home Insurance,37,79,62,75,93,50,35,46039,200000
+Mark Compton,40,Male,No,0,617000,Business,No,No,No,7,3,Yes,6,4,Yes,Vehicle Insurance,84,76,90,47,73,37,73,45289,500000
+Emily Hunter,55,Male,No,0,1276252,Student,No,No,Yes,3,3,Yes,0,2,Yes,Home Insurance,64,35,46,45,82,62,51,33453,200000
+John Scott,21,Male,No,0,1612108,Farmer,Yes,No,Yes,1,3,No,12,4,Yes,Travel Insurance,38,89,83,94,83,77,94,19591,5000000
+Kathy Lewis,37,Female,Yes,3,1930623,Doctor,Yes,No,No,3,0,Yes,14,2,No,Vehicle Insurance,68,91,96,39,61,80,67,9242,5000000
+Lori Griffith,20,Female,No,3,557932,Farmer,Yes,Yes,Yes,8,2,Yes,4,2,No,Health Insurance,98,57,97,98,94,82,37,12899,200000
+Monica Werner,46,Female,Yes,4,2416466,Teacher,No,Yes,Yes,8,5,No,1,1,Yes,Life Insurance,48,92,92,63,57,64,70,13177,1000000
+Alejandro Munoz DDS,30,Male,No,0,2108786,Lawyer,No,No,No,8,4,No,6,5,Yes,Life Insurance,72,92,50,83,87,61,54,37946,1000000
+Christopher Woodard,57,Male,No,0,2046651,Government Employee,No,No,No,2,4,No,8,4,No,Health Insurance,98,65,96,80,32,46,37,2931,200000
+Dawn Ruiz,45,Male,No,0,2293155,Lawyer,Yes,Yes,Yes,7,2,No,5,3,Yes,Home Insurance,78,53,80,47,96,51,79,21262,5000000
+John King,45,Male,No,0,255034,Engineer,Yes,No,Yes,2,0,Yes,1,3,No,Vehicle Insurance,35,45,93,36,49,22,52,43313,500000
+Regina Chavez,59,Female,Yes,3,2314982,Business,No,No,Yes,4,1,Yes,10,3,No,Health Insurance,93,32,30,67,41,83,51,10020,1000000
+Kevin Bryant,65,Female,Yes,3,1578593,Student,Yes,Yes,Yes,5,2,Yes,5,2,No,Vehicle Insurance,40,72,100,76,70,66,48,38892,500000
+Jamie Church,64,Male,No,0,867868,Engineer,No,Yes,No,2,4,Yes,14,5,No,Vehicle Insurance,39,75,92,74,92,92,86,28598,1000000
+Emily Roberts,45,Male,No,0,1562224,Lawyer,Yes,No,Yes,4,1,Yes,15,1,Yes,Health Insurance,99,34,84,35,89,75,72,4827,2000000
+Jeffery Robinson,63,Female,No,1,1510715,Student,No,Yes,No,6,4,No,1,4,No,Life Insurance,70,89,47,65,34,27,65,37121,1000000
+Darren Taylor,64,Male,No,0,686293,Business,Yes,No,No,4,4,Yes,5,3,Yes,Home Insurance,56,32,39,60,64,47,54,40940,200000
+Donna Dennis,18,Male,No,0,1601670,Lawyer,Yes,No,Yes,7,2,Yes,7,2,Yes,Travel Insurance,91,45,44,94,59,66,40,13841,1000000
+Sarah Ellis,63,Female,No,0,219962,Student,Yes,No,No,8,1,Yes,0,5,Yes,Health Insurance,83,44,48,49,63,37,44,4393,5000000
+Barbara Davis,65,Female,Yes,1,646931,Engineer,Yes,Yes,No,5,5,No,8,3,No,Vehicle Insurance,63,69,71,59,32,75,50,29282,500000
+Kevin Moore,23,Male,No,0,981292,Government Employee,No,Yes,Yes,6,1,Yes,3,3,Yes,Health Insurance,70,62,34,57,58,24,33,7885,1000000
+Catherine Saunders,42,Male,No,0,1281895,Student,No,Yes,Yes,3,0,No,14,1,Yes,Health Insurance,95,81,83,46,90,97,36,5794,2000000
+Shelley Vargas,65,Female,Yes,2,886373,Business,No,No,Yes,1,5,No,2,3,Yes,Vehicle Insurance,95,53,98,97,74,23,84,43877,200000
+Tyler White,34,Male,No,0,1187633,Student,No,Yes,Yes,1,1,No,8,1,Yes,Travel Insurance,76,78,45,96,66,34,39,44540,500000
+Gary York,26,Male,No,0,1454349,Teacher,Yes,No,Yes,3,3,No,13,3,No,Vehicle Insurance,95,90,99,42,59,89,94,22580,5000000
+Alicia Bray,35,Male,No,0,2236991,Lawyer,No,Yes,Yes,7,5,Yes,4,5,Yes,Life Insurance,86,92,48,43,46,21,95,6927,200000
+Thomas Swanson,51,Male,No,0,1627157,Business,No,No,Yes,2,3,No,10,2,Yes,Life Insurance,72,75,42,44,33,59,87,12809,1000000
+Laura Cox,41,Male,No,0,2246860,Doctor,No,Yes,Yes,8,4,No,11,1,Yes,Vehicle Insurance,58,48,95,73,57,38,74,41991,1000000
+Michael Blackburn,55,Female,No,3,831405,Government Employee,Yes,No,No,7,5,Yes,2,3,Yes,Health Insurance,100,68,95,66,43,77,78,6416,1000000
+Daniel Green,40,Female,No,3,2020752,Farmer,Yes,Yes,Yes,4,2,Yes,3,1,No,Home Insurance,85,86,65,74,95,95,92,38439,5000000
+Michael Hernandez,20,Male,No,0,216576,Business,Yes,No,Yes,8,1,Yes,11,5,Yes,Vehicle Insurance,82,91,97,71,42,38,64,7375,1000000
+Nathan Grimes,29,Male,No,0,1682311,Government Employee,Yes,No,No,3,2,No,7,1,No,Vehicle Insurance,41,43,81,60,46,66,74,36144,1000000
+Tom Berry,46,Male,No,0,1442745,Engineer,Yes,No,No,1,0,No,1,2,Yes,Health Insurance,71,32,50,61,59,20,79,8432,200000
+Joseph Rodriguez,60,Female,Yes,1,1102432,Doctor,No,Yes,Yes,8,3,Yes,4,2,No,Health Insurance,97,49,62,50,55,76,93,22208,1000000
+Joshua Fitzgerald,42,Male,No,0,1121873,IT Professional,No,No,No,1,4,Yes,11,1,Yes,Vehicle Insurance,67,80,88,47,65,77,33,26435,500000
+Michael Chen,32,Male,No,0,931880,Lawyer,No,Yes,Yes,3,4,No,9,5,No,Health Insurance,74,40,64,30,71,94,45,21901,200000
+Margaret Johnson,23,Male,No,0,1218310,Business,No,No,No,7,0,Yes,8,4,No,Vehicle Insurance,62,59,73,45,47,91,36,12205,200000
+Sonya Steele,40,Male,No,0,535656,Business,Yes,No,No,7,3,Yes,0,5,Yes,Health Insurance,84,61,75,61,65,21,41,43223,1000000
+Edward Hill,54,Male,No,0,2156298,Student,Yes,Yes,Yes,8,0,Yes,10,5,No,Travel Insurance,68,48,54,91,77,86,88,10888,5000000
+Samantha Jackson,64,Male,No,0,302030,Engineer,Yes,Yes,No,5,2,Yes,2,3,No,Home Insurance,34,77,77,55,95,64,58,21368,500000
+Steven Diaz,33,Male,No,0,2068142,IT Professional,Yes,Yes,No,1,3,No,13,1,Yes,Travel Insurance,86,84,89,91,55,98,43,40309,500000
+William Mclaughlin,42,Male,No,0,1437118,Farmer,Yes,No,Yes,8,5,No,15,5,No,Vehicle Insurance,74,68,80,77,45,66,46,15467,2000000
+Stephanie Mays,49,Male,No,0,2336987,IT Professional,No,No,Yes,8,5,Yes,13,2,Yes,Life Insurance,82,96,53,35,32,88,60,32070,200000
+Crystal Jackson,36,Male,No,0,1473602,Farmer,No,No,Yes,1,4,Yes,1,1,Yes,Life Insurance,40,75,73,51,45,23,37,42041,2000000
+Sarah Herring,30,Male,No,0,1110685,Government Employee,Yes,Yes,No,2,2,Yes,0,1,Yes,Home Insurance,59,55,61,50,74,66,72,2965,1000000
+Kevin Jones,63,Female,No,4,1568053,IT Professional,Yes,Yes,Yes,5,3,Yes,5,3,No,Life Insurance,87,100,32,85,64,41,32,11324,5000000
+Cody Meyers,45,Female,No,3,1074332,Student,Yes,Yes,No,8,3,Yes,6,1,Yes,Health Insurance,92,49,62,64,63,95,53,16521,5000000
+Yolanda Carter,18,Female,Yes,0,2176657,Engineer,Yes,No,Yes,6,2,No,15,1,Yes,Vehicle Insurance,64,77,94,61,58,59,41,20313,2000000
+Timothy Sherman,43,Male,No,0,1743936,Doctor,No,Yes,Yes,5,0,Yes,0,2,No,Life Insurance,78,90,61,39,74,48,80,48460,5000000
+Melinda Roach,29,Male,No,0,2086979,Lawyer,No,Yes,Yes,5,3,No,6,2,Yes,Vehicle Insurance,48,51,86,33,30,60,94,18230,5000000
+Michael Robinson,58,Male,No,0,1708504,Lawyer,Yes,No,Yes,8,2,Yes,14,3,Yes,Travel Insurance,68,55,79,88,75,70,30,15757,500000
+Melissa Anderson,25,Female,No,0,2284777,Farmer,No,No,No,3,5,No,1,2,Yes,Travel Insurance,38,88,34,98,70,48,90,22727,1000000
+John Banks,44,Female,Yes,3,1395436,Doctor,Yes,Yes,No,2,2,No,14,3,No,Vehicle Insurance,69,34,86,55,61,43,76,41765,1000000
+Anthony Rivas,51,Male,No,0,973072,Lawyer,Yes,No,Yes,1,1,Yes,9,5,Yes,Home Insurance,47,48,56,93,98,41,58,38607,5000000
+Sharon Gordon,42,Female,Yes,3,672713,Government Employee,No,No,No,7,3,Yes,6,1,No,Home Insurance,70,79,50,90,98,61,46,2802,500000
+Erik Li,63,Female,Yes,3,1614391,IT Professional,Yes,Yes,Yes,8,5,Yes,2,4,No,Life Insurance,34,86,43,32,75,87,96,14109,2000000
+Lisa Pollard,28,Male,No,0,1879407,IT Professional,No,No,Yes,5,5,Yes,8,1,No,Life Insurance,57,72,45,32,68,99,94,45338,200000
+Becky Daniels,55,Female,No,4,1424515,Engineer,Yes,No,Yes,4,0,Yes,8,3,Yes,Vehicle Insurance,65,60,77,43,70,29,57,11581,200000
+Joanne Terry,46,Male,No,0,693784,Government Employee,No,Yes,Yes,6,5,Yes,7,3,Yes,Travel Insurance,86,50,89,94,41,71,50,4531,2000000
+Mike Patterson,34,Female,No,0,349635,IT Professional,Yes,No,No,8,5,No,2,2,Yes,Travel Insurance,94,60,74,96,38,66,78,21403,5000000
+Donald Williams,65,Female,Yes,1,2215523,Teacher,No,No,No,8,1,Yes,2,5,No,Health Insurance,93,61,74,93,33,47,38,13980,5000000
+Michael Alvarado,24,Female,Yes,1,2004050,IT Professional,Yes,Yes,No,2,0,No,15,5,No,Health Insurance,96,36,86,81,67,42,53,24405,200000
+Jeffrey Rogers,29,Female,Yes,1,1661059,Lawyer,No,Yes,No,8,4,No,13,1,Yes,Vehicle Insurance,84,67,92,74,86,63,85,12414,200000
+David Jensen,41,Male,No,0,2133700,Lawyer,No,Yes,Yes,3,4,No,14,4,Yes,Health Insurance,97,52,42,87,71,78,34,3163,500000
+Ronald Ross,27,Male,No,0,2437960,Doctor,Yes,No,No,5,1,No,4,4,No,Travel Insurance,67,78,64,87,63,46,31,49010,5000000
+Jonathan Alexander,38,Male,No,0,2311045,Government Employee,Yes,No,No,7,2,Yes,3,1,No,Travel Insurance,94,34,67,99,66,38,77,4726,500000
+Brandon Quinn,38,Male,No,0,1765257,IT Professional,No,Yes,No,3,3,No,10,1,No,Home Insurance,45,47,52,55,56,75,86,7727,1000000
+Gregory Sexton,21,Female,No,4,793607,Teacher,No,Yes,Yes,2,2,No,13,3,Yes,Life Insurance,67,75,30,74,51,81,45,47978,5000000
+Kristen Cohen,53,Male,No,0,1912337,Teacher,Yes,Yes,Yes,3,2,Yes,7,2,Yes,Travel Insurance,69,33,96,99,99,42,36,12291,2000000
+Amy Douglas,22,Male,No,0,992507,Business,Yes,Yes,Yes,3,4,No,2,5,No,Home Insurance,60,85,51,51,99,97,91,45416,500000
+Ryan Mason,28,Male,No,0,1491938,Government Employee,Yes,No,Yes,2,1,No,6,4,Yes,Vehicle Insurance,49,41,95,69,80,58,44,13496,500000
+Katie Barrett,27,Male,No,0,1148334,Engineer,No,No,Yes,8,0,No,9,3,Yes,Life Insurance,69,75,33,50,54,25,69,39035,500000
+Kaitlyn Martinez,42,Female,Yes,4,2287520,Government Employee,No,Yes,No,1,0,No,0,4,No,Vehicle Insurance,67,57,89,64,75,72,33,25748,2000000
+Charles Diaz,24,Female,No,0,1493392,Farmer,Yes,Yes,No,6,5,Yes,7,5,Yes,Health Insurance,88,47,41,35,55,28,42,16371,500000
+Deanna Alvarado,47,Female,No,3,857727,Doctor,Yes,No,No,4,0,No,3,1,Yes,Home Insurance,61,79,81,57,82,76,49,8865,500000
+Edward Kennedy,44,Male,No,0,1159505,Government Employee,Yes,No,No,4,5,Yes,9,1,No,Health Insurance,68,68,59,47,47,69,51,17067,5000000
+Pamela Ferrell,27,Female,No,4,699948,IT Professional,Yes,No,Yes,4,2,Yes,3,5,Yes,Life Insurance,62,65,34,64,32,30,60,35209,2000000
+Stephanie Bennett,28,Male,No,0,2103049,Doctor,No,No,Yes,5,5,No,9,3,Yes,Home Insurance,79,57,79,64,95,67,53,18211,500000
+Sabrina Frank,21,Male,No,0,1873781,Business,Yes,No,No,2,1,Yes,10,1,No,Home Insurance,38,53,51,63,93,67,84,22658,2000000
+Mark Brown,31,Male,No,0,2074921,Farmer,No,No,Yes,1,2,Yes,11,5,No,Vehicle Insurance,63,55,92,79,55,94,68,33735,500000
+William Willis,39,Female,Yes,0,1228490,Doctor,No,No,Yes,6,4,No,15,1,Yes,Home Insurance,76,37,49,79,96,52,40,24009,200000
+Micheal Gomez,22,Female,No,4,382107,IT Professional,Yes,No,Yes,6,3,No,6,2,Yes,Life Insurance,38,90,36,41,66,40,76,15442,200000
+Matthew Hampton,41,Female,Yes,0,1478413,Business,Yes,Yes,No,5,0,Yes,13,4,Yes,Home Insurance,69,53,41,30,100,39,38,13221,500000
+Craig Sheppard,34,Female,No,4,256540,Farmer,No,Yes,No,1,4,No,2,3,No,Health Insurance,84,78,72,82,42,32,92,19448,1000000
+Abigail Anderson,59,Female,Yes,3,1765166,Engineer,No,No,Yes,7,4,Yes,4,1,Yes,Health Insurance,88,87,42,41,69,95,31,9034,200000
+Brianna Carney,49,Female,No,0,1727900,Farmer,No,Yes,Yes,6,3,No,2,2,No,Life Insurance,70,94,74,37,35,53,85,21661,1000000
+Todd Smith,18,Female,No,0,648017,Student,No,No,Yes,4,4,No,6,5,Yes,Vehicle Insurance,56,47,81,51,57,91,96,46732,5000000
+Lindsey Moore,33,Female,No,3,1848313,Farmer,Yes,No,Yes,6,1,No,9,1,Yes,Travel Insurance,44,58,79,86,38,64,81,18788,1000000
+Rebecca Carey,29,Female,Yes,3,1901868,Doctor,Yes,No,No,5,1,No,4,5,Yes,Health Insurance,89,82,70,55,87,82,85,16231,1000000
+Denise Coleman,24,Male,No,0,983595,Teacher,No,No,No,8,2,Yes,4,3,No,Travel Insurance,72,61,60,86,64,97,70,29022,2000000
+Kenneth Anderson,49,Male,No,0,1203152,Lawyer,No,No,Yes,3,3,No,15,5,Yes,Travel Insurance,34,43,92,99,38,90,50,33185,500000
+Lauren Brown,29,Female,Yes,4,1631998,Student,No,No,Yes,3,1,Yes,3,3,No,Life Insurance,55,88,83,32,43,44,49,13964,5000000
+Jesse Jefferson,23,Female,Yes,0,1907784,Student,Yes,No,No,7,1,Yes,8,1,Yes,Health Insurance,98,71,36,89,95,71,74,14680,1000000
+Carol Lozano,40,Female,Yes,4,623979,Teacher,Yes,Yes,Yes,5,5,No,12,4,No,Life Insurance,45,95,84,33,67,20,80,17963,1000000
+Connie Ware,56,Female,No,3,260954,Government Employee,Yes,Yes,No,8,5,Yes,14,1,No,Travel Insurance,59,43,33,70,63,58,72,24310,5000000
+Edwin Lawrence,64,Female,No,1,1986887,Government Employee,No,Yes,Yes,1,5,No,0,1,No,Vehicle Insurance,61,64,70,33,70,33,36,34260,1000000
+Erica Bryant,39,Female,Yes,3,323013,Business,No,No,Yes,3,3,No,0,1,Yes,Health Insurance,83,41,54,31,47,76,57,6692,1000000
+Amber Bates,59,Female,Yes,1,543804,Business,Yes,No,Yes,6,2,Yes,9,5,Yes,Vehicle Insurance,49,64,69,44,61,26,95,22193,1000000
+Ryan Mccullough,57,Male,No,0,1053979,IT Professional,No,No,No,8,3,No,2,4,No,Home Insurance,66,46,65,87,88,35,31,38502,1000000
+Kevin Harris,18,Male,No,0,1433039,Business,Yes,No,No,4,4,Yes,3,4,Yes,Health Insurance,95,36,31,56,47,72,99,11362,2000000
+Joseph Morris,24,Female,Yes,0,1688974,Government Employee,Yes,No,No,8,1,Yes,10,2,Yes,Home Insurance,66,66,32,37,83,20,80,25611,5000000
+Edgar Rose,51,Female,No,3,2290109,Student,Yes,No,No,2,0,No,9,1,Yes,Life Insurance,70,79,47,40,50,71,72,34717,200000
+Jonathan Schroeder,60,Female,Yes,2,1716270,Student,No,No,Yes,4,1,Yes,2,2,No,Travel Insurance,68,33,65,69,62,77,35,18072,500000
+Joseph Brown,50,Male,No,0,1164467,Government Employee,No,Yes,Yes,2,3,Yes,3,1,Yes,Life Insurance,37,87,37,56,62,93,51,30353,200000
+Jamie Mitchell,34,Female,Yes,3,2085175,Doctor,Yes,No,No,8,0,No,1,2,Yes,Vehicle Insurance,57,58,100,41,65,39,85,23379,500000
