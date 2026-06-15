@@ -10,7 +10,7 @@ function History() {
 
   const fetchRecords = async () => {
     const res = await axios.get(
-      "http://localhost:5000/all-insurance"
+      "https://insurance-ai-project-y80e.onrender.com/all-insurance"
     );
 
     setRecords(res.data);

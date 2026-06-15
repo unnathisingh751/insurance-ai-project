@@ -11,7 +11,7 @@ function Login() {
     try {
 
       const res = await axios.post(
-        "http://localhost:5000/login",
+        "https://insurance-ai-project-y80e.onrender.com/login",
         {
           email,
           password

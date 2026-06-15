@@ -79,7 +79,7 @@ const generatePDF = () => {
   const fetchRecords = async () => {
     setLoading(true);
     try {
-      const res = await axios.get("http://localhost:5000/all-insurance");
+      const res = await axios.get("https://insurance-ai-project-y80e.onrender.com/all-insurance");
       setRecords(res.data);
     } catch (err) {
       console.log(err);
@@ -112,7 +112,7 @@ useEffect(() => {
     const ok = window.confirm("Delete this record?");
     if (!ok) return;
 
-    await axios.delete(`http://localhost:5000/insurance/${id}`);
+    await axios.delete(`https://insurance-ai-project-y80e.onrender.com/insurance/${id}`);
     setRecords((prev) => prev.filter((i) => i._id !== id));
   };
 
@@ -128,7 +128,7 @@ useEffect(() => {
   // UPDATE
   const handleUpdate = async () => {
     await axios.put(
-      `http://localhost:5000/insurance/${editId}`,
+      `https://insurance-ai-project-y80e.onrender.com/insurance/${editId}`,
       form
     );
 

@@ -12,7 +12,7 @@ function Register() {
     try {
 
       await axios.post(
-        "http://localhost:5000/register",
+        "https://insurance-ai-project-y80e.onrender.com/register",
         {
           name,
           email,
