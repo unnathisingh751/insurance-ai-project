@@ -141,25 +141,28 @@ useEffect(() => {
     item.formData?.name?.toLowerCase().includes(search.toLowerCase())
   );
 
-const healthCount = records.filter(
-  i => i.insuranceType === "Health Insurance"
-).length;
+const insuranceCounts = {
+  Health: 0,
+  Life: 0,
+  Vehicle: 0,
+  Travel: 0,
+  Home: 0
+};
 
-const lifeCount = records.filter(
-  i => i.insuranceType === "Life Insurance"
-).length;
+records.forEach(item => {
+  const type = item.insuranceType
+    ?.replace(" Insurance", "");
 
-const vehicleCount = records.filter(
-  i => i.insuranceType === "Vehicle Insurance"
-).length;
+  if (insuranceCounts.hasOwnProperty(type)) {
+    insuranceCounts[type]++;
+  }
+});
 
-const travelCount = records.filter(
-  i => i.insuranceType === "Travel Insurance"
-).length;
-
-const homeCount = records.filter(
-  i => i.insuranceType === "Home Insurance"
-).length;
+const healthCount = insuranceCounts.Health;
+const lifeCount = insuranceCounts.Life;
+const vehicleCount = insuranceCounts.Vehicle;
+const travelCount = insuranceCounts.Travel;
+const homeCount = insuranceCounts.Home;
 
   const chartData = {
   labels: ["Health", "Life", "Vehicle", "Travel", "Home"],
