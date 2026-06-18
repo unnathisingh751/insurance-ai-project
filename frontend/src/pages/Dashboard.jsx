@@ -141,12 +141,25 @@ useEffect(() => {
     item.formData?.name?.toLowerCase().includes(search.toLowerCase())
   );
 
-  // STATS
-  const health = records.filter(i => i.insuranceType === "Health").length;
-  const life = records.filter(i => i.insuranceType === "Life").length;
-  const vehicle = records.filter(i => i.insuranceType === "Vehicle").length;
-  const travel = records.filter(i => i.insuranceType === "Travel").length;
-  const home = records.filter(i => i.insuranceType === "Home").length;
+const healthCount = records.filter(
+  i => i.insuranceType === "Health Insurance"
+).length;
+
+const lifeCount = records.filter(
+  i => i.insuranceType === "Life Insurance"
+).length;
+
+const vehicleCount = records.filter(
+  i => i.insuranceType === "Vehicle Insurance"
+).length;
+
+const travelCount = records.filter(
+  i => i.insuranceType === "Travel Insurance"
+).length;
+
+const homeCount = records.filter(
+  i => i.insuranceType === "Home Insurance"
+).length;
 
   const chartData = {
   labels: ["Health", "Life", "Vehicle", "Travel", "Home"],
