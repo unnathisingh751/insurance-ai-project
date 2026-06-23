@@ -99,8 +99,23 @@ print("Accuracy:", accuracy)
 
 # Train on full dataset before saving
 model.fit(X, y)
+import os
 
-joblib.dump(model, "insurance_model.pkl")
-joblib.dump(encoders, "encoders.pkl")
+save_dir = "ml-model"
+os.makedirs(save_dir, exist_ok=True)
+
+joblib.dump(
+    model,
+    os.path.join(save_dir, "insurance_model.pkl")
+)
+
+joblib.dump(
+    encoders,
+    os.path.join(save_dir, "encoders.pkl")
+)
 
 print("Model Trained Successfully")
+import os
+
+print(os.path.abspath("insurance_model.pkl"))
+print(os.path.abspath("encoders.pkl"))
