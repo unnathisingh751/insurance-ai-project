@@ -11,7 +11,7 @@ function Login() {
     try {
 
       const res = await axios.post(
-      "https://insurance-ai-project-5.onrender.com/login",
+        "https://insurance-ai-proje.comct-y80e.onrender/login",
         {
           email,
           password
