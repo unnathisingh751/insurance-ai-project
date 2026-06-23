@@ -79,7 +79,7 @@ const generatePDF = () => {
   const fetchRecords = async () => {
     setLoading(true);
     try {
-      const res = await axios.get("https://insurance-ai-project-5.onrender.com/all-insurance");
+      const res = await axios.get("https://insurance-ai-project-y80e.onrender.com/all-insurance");
       setRecords(res.data);
     } catch (err) {
       console.log(err);
