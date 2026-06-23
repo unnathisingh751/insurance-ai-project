@@ -18,7 +18,7 @@ function AIForm() {
 
   try {
     const response = await axios.post(
-      "http://127.0.0.1:5001/predict",
+      "https://insurance-ai-project-y80e.onrender.com/predict",
       form
     );
 

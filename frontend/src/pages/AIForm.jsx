@@ -36,7 +36,7 @@ const [analysis, setAnalysis] = useState({});
 
   try {
     const res = await axios.post(
-      "http://127.0.0.1:5001/predict",
+      "https://insurance-ai-project-y80e.onrender.com/predict",
       {
         age: Number(form.age),
         gender: form.gender,
@@ -87,7 +87,7 @@ else if (
 }
 
 const nodeRes = await axios.post(
-  `http://localhost:5000/${route}/recommend`,
+  `https://insurance-ai-project-y80e.onrender.com/${route}/recommend`,
   {
     age: Number(form.age),
     gender: form.gender,
@@ -158,7 +158,7 @@ insuranceGap:
 },
 });
 await axios.post(
-  "http://localhost:5000/save-ai-recommendation",
+  "https://insurance-ai-project-y80e.onrender.com/save-ai-recommendation",
   {
     insuranceType: res.data.recommendation,
 
