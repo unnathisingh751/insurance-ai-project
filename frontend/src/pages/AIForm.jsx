@@ -36,7 +36,7 @@ const [analysis, setAnalysis] = useState({});
 
   try {
     const res = await axios.post(
-      "https://insurance-ai-project-y80e.onrender.com/predict",
+   "https://insurance-ai-project-5.onrender.com",
       {
         age: Number(form.age),
         gender: form.gender,
