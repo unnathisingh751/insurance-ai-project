@@ -30,25 +30,31 @@ function Dashboard() {
   const [loading, setLoading] = useState(false);
   const [analysis, setAnalysis] = useState({});
   // 📊 STATS CALCULATION
+const getType = (item) =>
+  (
+    item.insuranceType ||
+    item.recommendation ||
+    ""
+  ).toLowerCase();
 
 const healthCount = records.filter(
-  i => i.insuranceType?.includes("Health")
+  i => getType(i).includes("health")
 ).length;
 
 const lifeCount = records.filter(
-  i => i.insuranceType?.includes("Life")
+  i => getType(i).includes("life")
 ).length;
 
 const vehicleCount = records.filter(
-  i => i.insuranceType?.includes("Vehicle")
+  i => getType(i).includes("vehicle")
 ).length;
 
 const travelCount = records.filter(
-  i => i.insuranceType?.includes("Travel")
+  i => getType(i).includes("travel")
 ).length;
 
 const homeCount = records.filter(
-  i => i.insuranceType?.includes("Home")
+  i => getType(i).includes("home")
 ).length;
 const maleUsers = records.filter(
   item => item.formData?.gender === "Male"
@@ -94,6 +100,14 @@ const generatePDF = () => {
     try {
       const res = await axios.get("https://insurance-ai-project-y80e.onrender.com/all-insurance");
       setRecords(res.data);
+      console.log(res.data);
+console.log(
+  res.data.map(item => ({
+    insuranceType: item.insuranceType,
+    recommendation: item.recommendation,
+    plans: item.plans
+  }))
+);
     } catch (err) {
       console.log(err);
     } finally {
@@ -153,27 +167,6 @@ useEffect(() => {
   const filteredRecords = records.filter((item) =>
     item.formData?.name?.toLowerCase().includes(search.toLowerCase())
   );
-
-  // STATS
-  const healthCount = records.filter(
-  i => i.insuranceType?.includes("Health")
-).length;
-
-const lifeCount = records.filter(
-  i => i.insuranceType?.includes("Life")
-).length;
-
-const vehicleCount = records.filter(
-  i => i.insuranceType?.includes("Vehicle")
-).length;
-
-const travelCount = records.filter(
-  i => i.insuranceType?.includes("Travel")
-).length;
-
-const homeCount = records.filter(
-  i => i.insuranceType?.includes("Home")
-).length;
 
   const chartData = {
   labels: ["Health", "Life", "Vehicle", "Travel", "Home"],
@@ -282,7 +275,10 @@ const options = {
     }
   }
 };
-
+console.log(
+  records.map(item => item.insuranceType)
+);
+console.log(records);
 
   return (
     <div style={{ padding: "20px" }}>
