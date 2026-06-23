@@ -31,12 +31,25 @@ function Dashboard() {
   const [analysis, setAnalysis] = useState({});
   // 📊 STATS CALCULATION
 
-const healthCount = records.filter(i => i.insuranceType === "Health").length;
-const lifeCount = records.filter(i => i.insuranceType === "Life").length;
-const vehicleCount = records.filter(i => i.insuranceType === "Vehicle").length;
-const travelCount = records.filter(i => i.insuranceType === "Travel").length;
-const homeCount = records.filter(i => i.insuranceType === "Home").length;
+const healthCount = records.filter(
+  i => i.insuranceType?.includes("Health")
+).length;
 
+const lifeCount = records.filter(
+  i => i.insuranceType?.includes("Life")
+).length;
+
+const vehicleCount = records.filter(
+  i => i.insuranceType?.includes("Vehicle")
+).length;
+
+const travelCount = records.filter(
+  i => i.insuranceType?.includes("Travel")
+).length;
+
+const homeCount = records.filter(
+  i => i.insuranceType?.includes("Home")
+).length;
 const maleUsers = records.filter(
   item => item.formData?.gender === "Male"
 ).length;
@@ -142,11 +155,25 @@ useEffect(() => {
   );
 
   // STATS
-  const health = records.filter(i => i.insuranceType === "Health").length;
-  const life = records.filter(i => i.insuranceType === "Life").length;
-  const vehicle = records.filter(i => i.insuranceType === "Vehicle").length;
-  const travel = records.filter(i => i.insuranceType === "Travel").length;
-  const home = records.filter(i => i.insuranceType === "Home").length;
+  const healthCount = records.filter(
+  i => i.insuranceType?.includes("Health")
+).length;
+
+const lifeCount = records.filter(
+  i => i.insuranceType?.includes("Life")
+).length;
+
+const vehicleCount = records.filter(
+  i => i.insuranceType?.includes("Vehicle")
+).length;
+
+const travelCount = records.filter(
+  i => i.insuranceType?.includes("Travel")
+).length;
+
+const homeCount = records.filter(
+  i => i.insuranceType?.includes("Home")
+).length;
 
   const chartData = {
   labels: ["Health", "Life", "Vehicle", "Travel", "Home"],
